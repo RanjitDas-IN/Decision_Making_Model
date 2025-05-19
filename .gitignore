@@ -1,0 +1,5 @@
+.env/
+Pipeline_1_Data_Acquisition/en-80k.txt
+corpus.txt
+temp.py
+Day2_cleaned_dataset.csv
