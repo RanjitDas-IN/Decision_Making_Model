@@ -1,0 +1,263 @@
+-----------------------------------------------------------Prompt-------------------------------------------------------------------------
+## format:
+utterance|intent
+launch YouTube|system
+run the close_disk utility|system
+## let's start for 'system',
+give me 80 to 100~ examples,
+
+## rule: 
+1. Generate diverse, natural-sounding voice commands intended for a virtual assistant. Focus on system — referring to operating system-level actions like shutdown, restart, logout, or reboot. Make sure each utterance clearly reflects the user's goal through context-specific keywords. Avoid overlapping language between the two intents(close and system). Use informal, conversational tone and include slang variations or short, clipped expressions where appropriate. For each utterance, return in ready to copy & paste format as utterance|intent.
+for example:
+launch YouTube|system
+run the close_disk utility|system
+
+## Goal: Make sure that the Decision Making Model not got confused 
+------------------------------------------------------------------------------------------------------------------------------------
+
+## Goal: I want a tokenization technique, That must be works very well in all types of complex + realword words (including emails, urls and dot containing words).
+like: word tokenization: “I am new in New Delhi”,  “$20”, “10.5 KM”,”1.6M” , “10KM”, “let’s”, “U.S”, “U.S.A” , “Delhi!”, “Ph.D”, “A.I”, “ranjitdax89@gmailcom”,  “undoable” → ‘un’, ‘do’, ‘able’
+
+must be works well. this words are just an example, 
+
+## prefarences: “I prepares lemmatization more than stemming” & “pos=’v’ “ |parts of speech = verb  
+
+## I don't care how muct time takes.  (regardless of time taken to do the tokenization, I'm thinking to use high level this like: BERT, GPT algorithms)
+
+## work flow: 
+1. It reads a dataset (.csv file) | pd.read_csv(r"/home/ranjit/Desktop/Decision_Making_Model/Intent_Data_Acquisition_Pipeline_1/Cleaned_Intent_Dataset.csv")
+
+2. Do the tokenization with smart rules.
+
+3. Saves in a new csv file. | df.to_csv("Day2_cleaned_dataset.csv", index=False) print("✅ Dataset saved as 'Day2_cleaned_dataset.csv'")
+
+## No code, just tell me techniques
+
+
+--------------------------------------------------------------------Prompt----------------------------------------------------------------
+I have an existing intent-classification dataset where each line is one example, formatted as:
+
+    utterance|intent
+
+The 10 intents in my dataset are:
+- close
+- content
+- general
+- generate image
+- google search
+- play
+- realtime
+- reminder
+- system
+- youtube search
+
+Please generate **30 new, diverse utterances** for each of these intents (total 300 lines). Make sure each line follows the exact format:
+
+    <user utterance>|<intent label>
+
+For example:
+    please close the window|close
+    find me the weather forecast|general
+
+Focus on real-world phrasing, synonyms, slang, and paraphrases that strengthen the distinctions between these intents (especially where they were previously confused, e.g. “system” vs. “close”, “content” vs. “google search”). Do **not** include any additional text—only the 100 lines of utterance|intent.
+Thank you!
+
+
+-------------------------------------------------------------------Prompt-----------------------------------------------------------------
+
+I have an existing intent-classification dataset where each line is one example, formatted as:
+
+    utterance|intent
+
+The 10 intents in my dataset are:
+- close
+- content
+- general
+- generate image
+- google search
+- play
+- realtime
+- reminder
+- system
+- youtube search
+
+Please generate **10 new, diverse utterances** for each of these intents (total 100 lines). Make sure each line follows the exact format:
+
+    <user utterance>|<intent label>
+
+For example:
+    “please close the window”|close
+    “find me the weather forecast”|general
+
+Focus on real-world phrasing, synonyms, slang, and paraphrases that strengthen the distinctions between these intents (especially where they were previously confused, e.g. “system” vs. “close”, “content” vs. “google search”). Do **not** include any additional text—only the 100 lines of utterance|intent. Thank you!
+
+------------------------------------------------------------------Prompt------------------------------------------------------------------
+
+I am building an intent classification system using SVM. My input features are high-dimensional dense embeddings generated from a transformer-based tokenization technique, specifically using the `roberta-base` model (Hugging Face Transformers).
+
+Please write a self-contained Python script that:
+
+1. Assumes `X` (RoBERTa embeddings) and `y` (needed Intent label encoding as mentioned above) are already loaded.
+2. Splits the data into train and test sets.
+3. Applies feature scaling with `StandardScaler`.
+4. Sets up an SVM classifier with the RBF kernel.
+5. Performs hyperparameter tuning using `GridSearchCV` over parameters:
+   - `C`: e.g. [0.1, 1, 10, 100]
+   - `gamma`: e.g. [0.001, 0.01, 0.1, 1]
+6. After finding the best hyperparameters, trains the final model on the full training set.
+7. Evaluates performance on the test set:
+   - Prints overall accuracy.
+   - Prints per-intent precision, recall, and F1-score (classification report).
+   - Plots and displays a confusion matrix (with labels).
+8. Plots a scatter-style “hyperparameter landscape” showing each `gamma` vs `C` trial colored by mean cross-val score.
+   - Ensures the plot is high-resolution (e.g. `plt.figure(dpi=300)`).
+   - Shows the plot in the notebook/script and saves it as a PNG file.
+9. Saves the trained SVM model and the fitted `StandardScaler` to disk using `joblib.dump()`.
+
+Structure your code into clear, reusable functions where appropriate, and add concise comments for clarity.
+
+-------------------------------------------------------------------Prompt-----------------------------------------------------------------
+Plot a 2D decision boundary visualization for a multi-class SVM classifier trained on high-dimensional embeddings (like RoBERTa). First, reduce the feature dimensions to 2D using PCA or t-SNE only for visualization (not for training). Then, use matplotlib to plot the 2D scatter plot with class-wise colored regions, decision boundaries, and class-labeled data points (for 10 classes). Make the boundary areas look smooth and curved like contour maps. Add high-quality styling with clear separation between regions. Save the plot as a high-resolution PNG image.
+------------------------------------------------------------------------------------------------------------------------------------
+## in such a format (ready to copy)
+
+## structurally,
+1. play
+2. google search
+3. content
+4. play
+5. reminder
+6. youtube search
+7. general
+8. system
+------------------------------------------------------------OutPut form GPT------------------------------------------------------------------------
+
+
+✅ What smart_hf_tokenizer.py script does now:
+
+        🧠 smart_hf_tokenizer.py — Step-by-Step Overview
+        1. Load Resources & Configuration
+        
+            CSV Dataset: Loads utterances + intent labels from Day2_cleaned_dataset.csv.
+        
+            Slang Mapping: Loads a dictionary of slang-to-formal mappings from SLANG_ABBREVIATIONS.txt.
+        
+            spaCy Model: Loads the transformer-based en_core_web_trf for dependency parsing.
+        
+        2. Normalize & Tokenize Utterances
+        
+        If hf_tokenizer_corpus.txt does not already exist:
+        
+            Normalize slang (e.g., "u" → "you") using my loaded slang mapping.
+        
+            Use spaCy to tokenize and analyze each utterance.
+        
+            Apply custom token logic:
+        
+                Preserve phrasal verb roots (e.g., shut, log, turn if they are ROOT).
+        
+                Retain prepositions (e.g., down, off, out).
+        
+                Include all other tokens from the sentence.
+        
+            Save the final space-separated token strings (pre-tokenized utterances) to hf_tokenizer_corpus.txt.
+        
+            ✅ If the file already exists, this entire step is skipped to save time.
+        
+        3. Train Hugging Face BPE Tokenizer
+        
+        If hf_tokenizer.json does not already exist:
+        
+            Initialize a Byte Pair Encoding (BPE) tokenizer with [UNK] as the unknown token.
+        
+            Use a whitespace pre-tokenizer (since the corpus is already tokenized).
+        
+            Train the tokenizer using Hugging Face’s BpeTrainer:
+        
+                Vocabulary size: 10,000
+        
+                Adds special tokens: [UNK], [PAD], [CLS], [SEP], [MASK]
+        
+            Save the trained tokenizer to hf_tokenizer.json.
+        
+            ✅ If the tokenizer already exists, this step is skipped too.
+        
+        4. Optional Cleanup
+        
+        The temporary corpus file can be deleted after training, but this is currently disabled so you can reuse it later.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+SLANG_ABBREVIATIONS = {
+    # 📱 Social Media & Messaging Platforms
+    "insta": "instagram",
+    "fb": "facebook",
+    "wp": "whatsapp",
+    "tg": "telegram",
+    "yt": "youtube",
+    "tw": "twitter",
+    "sc": "snapchat",
+    "tt": "tiktok",
+    "li": "linkedin",
+    "pin": "pinterest",
+    "dc": "discord",
+    "a\c": "According to"
+    "acc": "Account"
+
+    # 💬 General Chat Abbreviations
+    "e.g.": "example",
+    "e.g": "example",
+    "ex": "example",
+    "u": "you",
+    "ur": "your",
+    "r": "are",
+    "b4": "before",
+    "gr8": "great",
+    "l8r": "later",
+    "bday": "birthday",
+    "idk": "i do not know",
+    "imo": "in my opinion",
+    "imho": "in my humble opinion",
+    "brb": "be right back",
+    "ttyl": "talk to you later",
+    "omg": "oh my god",
+    "lol": "laughing out loud",
+    "btw": "by the way",
+    "afaik": "as far as i know",
+    "fyi": "for your information",
+    "smh": "shaking my head",
+    "tbh": "to be honest",
+    "irl": "in real life",
+    "thx": "thanks",
+    "ty": "thank you",
+    "yw": "you are welcome",
+    "wtf": "what the heck",  # softened
+    "wth": "what the heck",
+    "bc": "because",
+    "bcz": "because",
+    "cuz": "because",
+    "plz": "please",
+    "pls": "please",
+    "omw": "on my way",
+    "jk": "just kidding",
+    "gg": "good game",
+    "hf": "have fun",
+    "np": "no problem",
+    "wyd": "what are you doing",
+    "hbu": "how about you",
+    "ilu": "i love you",
+    "ily": "i love you",
+    "bff": "best friend forever"
+}
+
+------------------------------------------------------------Need to integrating------------------------------------------------------------------------
+
+integrating "en-80k.txt"  i.e "symspellpy==6.9.0"
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------

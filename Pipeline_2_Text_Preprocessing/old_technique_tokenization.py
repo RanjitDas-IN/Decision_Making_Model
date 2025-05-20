@@ -15,9 +15,9 @@ logging.basicConfig(
 )
 
 # === Config ===
-CSV_PATH = r"/home/ranjit/Desktop/Decision_Making_Model/1_Pipeline_Intent_Data_Acquisition/Day2_cleaned_dataset.csv"
+CSV_PATH = r"/home/ranjit/Desktop/Decision_Making_Model/Pipeline_1_Data_Acquisition/Day2_cleaned_dataset.csv"
 TEXT_COL = "utterance"
-CORPUS_PATH = r"/home/ranjit/Desktop/Decision_Making_Model/2_Pipeline_Text_Preprocessing/corpus.txt"
+CORPUS_PATH = r"/home/ranjit/Desktop/Decision_Making_Model/Pipeline_2_Text_Preprocessing/corpus.txt"
 SAVE_DIR = "bpe_tokenizer"
 OUTPUT_CSV = "Day2_Tokenized_dataset.csv"
 
