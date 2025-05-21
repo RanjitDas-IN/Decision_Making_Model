@@ -22,7 +22,7 @@ def check_word_count(padding_or_length):
 
         print(f"yes, in {first_match['word_count']} word in {original_index + 1} row, intent is {first_match['intent']}")
     else:
-        print("no")
+        print(f"{padding_or_length} word not present")
 
 # no of counts of a word in a particular utterance
 
@@ -44,4 +44,4 @@ def appearing_a_word_in_utterance():
 
 # intent_count()
 # appearing_a_word_in_utterance()
-check_word_count(padding_or_length=40)
+check_word_count(padding_or_length=15)

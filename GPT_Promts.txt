@@ -256,8 +256,34 @@ SLANG_ABBREVIATIONS = {
 
 integrating "en-80k.txt"  i.e "symspellpy==6.9.0"
 
+----------------------------------------------------------PyTorch tokens--------------------------------------------------------------------------
+0 = <s> → start of sentence token.
+
+2 = </s> → end of sentence token.
+
+1 = <pad> → padding token to make the length 22.
+
+----------------------------------------------------------PyTorch tokens--------------------------------------------------------------------------
 
 
+Shape of attention_mask: torch.Size([7804, 22])
+
+Sample input_ids[0]: tensor([    0, 37111,   593,  1423,    90,     2,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1])
+Sample attention_mask[0]: tensor([1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+
+
+
+| Token ID | Token     | Meaning                     |
+| -------- | --------- | --------------------------- |
+| `0`      | `<s>`     | Start of sentence (**CLS**) |
+| `37111`  | (subword) | Actual content word piece   |
+| `593`    | (subword) | Actual content word piece   |
+| `1423`   | (subword) | Actual content word piece   |
+| `90`     | (subword) | Actual content word piece   |
+| `2`      | `</s>`    | End of sentence (**SEP**)   |
+| `1`      | `<pad>`   | Padding token               |
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
