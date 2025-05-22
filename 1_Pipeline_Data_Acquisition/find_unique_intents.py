@@ -1,7 +1,6 @@
 import pandas as pd
 
-df= pd.read_csv(r"/home/ranjit/Desktop/Decision_Making_Model/Pipeline_1_Data_Acquisition/Day2_cleaned_dataset.csv", sep='|')
-
+df= pd.read_csv(r"/home/ranjit/Desktop/Decision_Making_Model/1_Pipeline_Data_Acquisition/Day2_cleaned_dataset.csv", sep='|')
 
 def intent_count():
     intent_counts = df['intent'].value_counts()

@@ -1,4 +1,61 @@
 -----------------------------------------------------------Prompt-------------------------------------------------------------------------
+You are a senior machine-learning engineer. I have already:
+Path: 
+TOKENS_PATH = (r"/home/ranjit/Desktop/Decision_Making_Model8/3_pipeline_Classification_Model/roberta_tokens.pt")
+CSV_PATH = (r"/home/ranjit/Desktop/Decision_Making_Model/1_Pipeline_Data_Acquisition/Day2_cleaned_dataset.csv")
+
+1. Loaded a RoBERTa tokenizer output from disk:
+   - `tokens = torch.load(TOKENS_PATH)`  
+   - `input_ids = tokens['input_ids']`  
+   - `attention_mask = tokens['attention_mask']`  
+
+2. Read my labeled dataset of ~1,000 examples (8–12 MB) from CSV and encoded the target intents:
+   - `df = pd.read_csv(CSV_PATH, sep='|')`  
+   - `targets = df['intent'].tolist()`  
+   - `label_encoder = LabelEncoder().fit(targets)`  
+   - `y = label_encoder.transform(targets)`  
+   - `intent_names = label_encoder.classes_`  
+
+3. Loaded a frozen RoBERTa-base model, ran it in batches (batch_size=32) on CPU to extract the `[CLS]` embeddings:
+   - `roberta = RobertaModel.from_pretrained('roberta-base')`  
+   - all `requires_grad=False`  
+   - collected `out.last_hidden_state[:,0,:]` into a NumPy array `X`  
+
+My goal now is to train an XGBoost classifier on features `X` (NumPy array) and labels `y` (encoded integers), with **accuracy as the top priority**. I have a 12-core CPU, and I’m fine with longer training times.
+
+Please generate **complete, runnable Python code** that:
+
+1. Imports necessary libraries (torch, pandas, sklearn, xgboost, etc... etc...).  
+2. Converts `X` and `y` into XGBoost’s `DMatrix` objects.  
+3. Splits off 10–20% of the data for early-stopping validation.  
+4. Defines an XGBoost parameter dictionary with:
+   - `booster='gbtree'`
+   - `nthread=-1 (detect the maximun munber of threads and use them all & with 100% power of CPU)`
+   - `verbosity=2` {0 (silent), 1 (warning), 2 (info),}
+   - `tree_method='exact'`
+   - `max_depth=8` //may introduce overfillting (8)
+   - `min_child_weight=1` //lower value may cause overfillting
+   - `gamma=0.1`
+   - `subsample=0.8`
+   - `colsample_bytree=0.8`
+   - `eta=0.03`
+   - `lambda=1`
+   - `alpha=0`
+   - `objective='multi:softprob'` (with correct `num_class`)
+   - `eval_metric=['mlogloss','merror']`
+
+5. Trains with `num_boost_round=1000` and `early_stopping_rounds=50`, printing progress.  
+6. After training, retrieves the best iteration, and:
+   - Prints the validation logloss and error at best iteration.
+   - Uses the trained model to predict on a held-out test split.
+   - Converts predictions back to intent labels via the same `LabelEncoder`.
+   - Computes and prints classification accuracy, precision, recall, F1‐score, and confusion matrix.
+
+Make sure to set random seeds for reproducibility, handle any necessary data‐type conversions, and include helpful comments for each block. End with saving the trained XGBoost model to disk (e.g. using `bst.save_model("xgb_roberta.model")`).
+
+
+
+-----------------------------------------------------------Prompt-------------------------------------------------------------------------
 ## format:
 utterance|intent
 launch YouTube|system

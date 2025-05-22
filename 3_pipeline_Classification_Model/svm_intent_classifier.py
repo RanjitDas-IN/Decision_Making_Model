@@ -16,8 +16,8 @@ MODELS_DIR = "Experimenting_SVM_models"
 os.makedirs(MODELS_DIR, exist_ok=True)
 SCALER_PATH = os.path.join(MODELS_DIR, "scaler.joblib")
 MODEL_PATH = os.path.join(MODELS_DIR, "svm_rbf_tuned.joblib")
-TOKENS_PATH = (r"/home/ranjit/Desktop/Decision_Making_Model/roberta_tokens.pt")
-CSV_PATH = (r"/home/ranjit/Desktop/Decision_Making_Model/Pipeline_1_Data_Acquisition/Day2_cleaned_dataset.csv")
+TOKENS_PATH = (r"/home/ranjit/Desktop/Decision_Making_Model8/3_pipeline_Classification_Model/roberta_tokens.pt")
+CSV_PATH = (r"/home/ranjit/Desktop/Decision_Making_Model/1_Pipeline_Data_Acquisition/Day2_cleaned_dataset.csv")
 
 
 def split_data(X, y, test_size=0.2, random_state=42):
