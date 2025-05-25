@@ -2,6 +2,8 @@ import pandas as pd
 
 df= pd.read_csv(r"/home/ranjit/Desktop/Decision_Making_Model/1_Pipeline_Data_Acquisition/Day2_cleaned_dataset.csv", sep='|')
 
+print("Shape of the CSV:",df.shape)
+
 def intent_count():
     intent_counts = df['intent'].value_counts()
     # Print the result
@@ -41,6 +43,6 @@ def appearing_a_word_in_utterance():
 
 
 
-# intent_count()
+intent_count()
 # appearing_a_word_in_utterance()
-check_word_count(padding_or_length=15)
+# check_word_count(padding_or_length=15)

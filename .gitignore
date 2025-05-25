@@ -8,3 +8,4 @@ hf_tokenizer_corpus.txt
 bpe_tokenizer
 temp_models
 Experimenting_SVM_models
+xgb_intent_model.joblib
