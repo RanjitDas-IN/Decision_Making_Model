@@ -12,7 +12,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 
 # Context: X and y are preloaded RoBERTa CLS embeddings and encoded intent labels
 # Paths and directories
-MODELS_DIR = "Experimenting_SVM_models"
+MODELS_DIR = "hyper_tune_SVM_models"
 os.makedirs(MODELS_DIR, exist_ok=True)
 SCALER_PATH = os.path.join(MODELS_DIR, "scaler.joblib")
 MODEL_PATH = os.path.join(MODELS_DIR, "svm_rbf_tuned.joblib")

@@ -5,11 +5,36 @@ close it down|close
 shut the gates|close
 power down sequence|close
 exit the dashboard|close
+exit the app now|close
+please shut this tab|close
+can you close the window for me?|close
+get rid of this screen|close
+quit the program right away|close
+close this, I’m done|close
+shut it down, please|close
+close that pop-up|close
+I wanna leave this window|close
+just exit this app|close
+please go back and close it|close
+terminate the application|close
+close this tab quietly|close
+kill this process|close
+okay, I’m done—close it|close
+could you please close it?|close
+end this session|close
+shut off the app|close
+wrap this window up|close
+close this right now|close
+stop this and exit|close
+I want out, close it|close
+time to quit this|close
+exit from here|close
+go back and close the screen|close
 wrap it up|close
 Shut this thing off for me|close
-Kill that tab, it’s annoying|close
+Kill that tab, it's annoying|close
 Can you close the music player?|close
-Exit out of this app, I’m done|close
+Exit out of this app, I'm done|close
 Yo, back outta that screen|close
 Just get rid of this popup|close
 Nuke the browser tab now|close
@@ -17,10 +42,10 @@ Close that folder window, it's cluttering the view|close
 Quit the chat app, I'm logging off|close
 Wrap this window up|close
 Slide that one away for me|close
-End that task, it’s frozen|close
+End that task, it's frozen|close
 Can you get this off my screen?|close
-I’m done here, close it up|close
-Kill the player, I’ve had enough noise|close
+I'm done here, close it up|close
+Kill the player, I've had enough noise|close
 Cut off that overlay panel|close
 Close the extras, I only need the main app|close
 Drop the video window now|close
@@ -38,7 +63,7 @@ X out that screen|close
 Tap out of this one|close
 Just close that junk in the corner|close
 Nuke the music overlay|close
-Let’s close this out, yeah?|close
+Let's close this out, yeah?|close
 Wipe off the floating menu|close
 Can you tap the X on that thing?|close
 End that window session|close
@@ -47,24 +72,180 @@ Yo, exit this nonsense|close
 Trash this view, open's enough|close
 Minimize it? Nah, close it down|close
 Shut the current window down|close
-Clip the tab, I’ve seen enough|close
+Clip the tab, I've seen enough|close
 Close this app, it's laggy|close
 Cancel this overlay screen|close
-I’m over this window, just close it|close
-Trash this app, I’m switching|close
+I'm over this window, just close it|close
+Trash this app, I'm switching|close
 Swipe away that preview|close
 Exit fullscreen and shut it down|close
 Get me outta this popout|close
 Just end this app view already|close
 Boot the widget off the screen|close
 Wrap up this chat box|close
-X this one, I’m out|close
+X this one, I'm out|close
 cut the signal|close
 end this session|close
 call it a day|close
 clocking out now|close
 close the Photos app|close
-please close the window|close
+please close this window|close
+exit the page for me|close
+can you end this tab?|close
+shut this thing down|close
+I'd like to close it|close
+terminate this app|close
+go back and close it|close
+wrap up this session|close
+quit the application|close
+just close the current screen|close
+exit this panel now|close
+get me out of here|close
+kill this task|close
+press exit for me|close
+close the current interface|close
+can we shut this off?|close
+time to close the tab|close
+done with this — close it|close
+please end the app|close
+back out and close this|close
+I’m done, close this thing|close
+end the session here|close
+close the current window|close
+let’s exit this|close
+I’d like to shut it down|close
+abort this window|close
+just go back and exit|close
+I’m finished, close it up|close
+wind this down|close
+nuke this screen|close
+close this like right now|close
+backtrack and close this window|close
+make this screen go away|close
+kill the UI|close
+wrap this window up please|close
+exit that open tab|close
+leave this page and close it|close
+shut the program now|close
+pull the plug on this tab|close
+get out of here|close
+just close it, no questions|close
+shut the door on this screen|close
+put an end to this window|close
+hop out of this app|close
+cut this out, please|close
+close this and nothing else|close
+say goodbye to this app|close
+exit stage left|close
+close the UI now|close
+I want this screen gone|close
+escape this app|close
+close and forget it|close
+shut this screen off|close
+dismiss the tab|close
+please exit this now|close
+I don’t wanna see this, close it|close
+drop out of the window|close
+time to leave this tab|close
+press close on the current screen|close
+can you back out of this?|close
+wrap this whole thing up|close
+turn this screen off|close
+shut down just this app|close
+get this thing off my screen|close
+I’m done here — close it|close
+close the thing I just opened|close
+close whatever I’m looking at|close
+exit this exact screen|close
+be gone with this tab|close
+evict this page|close
+move out of this window|close
+I’ve seen enough — close it|close
+drop this app like it’s hot|close
+close the view|close
+peace out from this app|close
+goodbye screen|close
+close time!|close
+bounce out of this|close
+shut the whole damn thing|close
+cut this page short|close
+back out and kill it|close
+yeet this app outta here|close
+exit mode please|close
+we done — close this mess|close
+that’s it, I’m out — close it|close
+shut it gracefully|close
+gently close the app|close
+slam the door on this screen|close
+bring this window to a close|close
+fold this session|close
+step away and close|close
+pack this UI up|close
+I'm good — end this here|close
+kick me back and close it|close
+escape hatch please|close
+I wanna exit now|close
+flush this screen|close
+exit this cleanly|close
+log out and close|close
+halt the screen|close
+no more, close now|close
+command: close|close
+exit route activated|close
+fade this out|close
+donezo — shut it|close
+eject me from this window|close
+turn this off right now|close
+wrap this thing up please|close
+please get out of this window|close
+I need you to close it down|close
+exit from this interface|close
+back out and leave this|close
+remove this screen for me|close
+I want this gone|close
+send this page away|close
+I need to close this out|close
+shut the screen immediately|close
+please dismiss this|close
+escape from this now|close
+exit the current app|close
+get outta this right now|close
+switch this off and exit|close
+no more of this — close it|close
+good time to quit this|close
+close off this task|close
+wrap up this activity|close
+close this with style|close
+just tap out of here|close
+evacuate this screen|close
+let's bounce — shut this|close
+send it packing|close
+I’m over it — close this|close
+kick me out of this screen|close
+hit the exit button|close
+back me out of this|close
+click close and move on|close
+please terminate the session|close
+shut this feature down|close
+just shut the door on this|close
+end this thing, now|close
+I need a clean exit here|close
+get me to home and close this|close
+send this UI to sleep|close
+roll out of this app|close
+exit the environment|close
+halt the current session|close
+I want to disappear this screen|close
+please shut this softly|close
+disconnect me from this app|close
+call it a day — close it|close
+that’s a wrap, close this|close
+close the curtain on this|close
+quietly end the process|close
+I need to quit this screen|close
+pull me back and close|close
+eject this app gently|close
+seal this screen for good|close
 shut the app|close
 exit the program|close
 terminate the application|close
@@ -507,7 +688,7 @@ Close the whole chat view|close
 Get that app outta my face|close
 Click the cross and bounce it|close
 Tell that tab goodbye|close
-Exit the doc, I’m done typing|close
+Exit the doc, I'm done typing|close
 Slide off that overlay|close
 Lose the pop-up already|close
 Shut that thing, will ya?|close
@@ -535,7 +716,7 @@ Boot this window from my desktop|close
 Wipe off this extra screen|close
 Get rid of this thing hovering|close
 Snuff out the popup|close
-Exit this thing, I’ve moved on|close
+Exit this thing, I've moved on|close
 Take that tab off rotation|close
 Hit the close on that window now|close
 Clear this screen and get me back|close
@@ -543,7 +724,7 @@ Dismiss the overlay thingy|close
 Nuke the floating panel|close
 Close that stuff in the background|close
 Wrap the window and bounce|close
-I don’t need this panel, close it|close
+I don't need this panel, close it|close
 Cancel that task view|close
 quit everything|close
 shut the program down|close
@@ -670,7 +851,7 @@ close out everything|close
 finish this task|close
 make it stop|close
 kill the active window|close
-end what’s on screen|close
+end what's on screen|close
 wrap this thing|close
 turn off the interface|close
 cut this short|close
@@ -695,12 +876,12 @@ remove this app|close
 close the code|close
 kill the operation|close
 close whatever this is|close
-kill what’s running|close
+kill what's running|close
 nuke the tab|close
 off this thing|close
 clear the app|close
 dissolve the window|close
-exit what’s running|close
+exit what's running|close
 lock it off|close
 dismount this app|close
 close this logic|close
@@ -733,8 +914,8 @@ Turn the brightness all the way down|system
 Make it louder, I can barely hear|system
 Yo, flip the Wi-Fi back on|system
 Switch to airplane mode real quick|system
-Kill the Bluetooth, I’m done pairing|system
-How’s the battery looking?|system
+Kill the Bluetooth, I'm done pairing|system
+How's the battery looking?|system
 Drop the volume a notch|system
 Max out the screen brightness, please|system
 Connect to the fastest Wi-Fi around|system
@@ -1206,12 +1387,12 @@ exit out of this|close
 close the environment|close
 wrap the program|close
 shut this program|close
-stop what’s going on|close
+stop what's going on|close
 shutdown this instance|close
 close down this job|close
 kill the current interface|close
-terminate what’s open|close
-close what’s running|close
+terminate what's open|close
+close what's running|close
 shut the current session|close
 cut off the program|close
 disable the window|close
@@ -1225,7 +1406,7 @@ shut it for me|close
 end this app now|close
 kill this window|close
 wrap up the app|close
-I’m done, shut it down|close
+I'm done, shut it down|close
 close down shop|close
 can you kill it?|close
 terminate this window|close
@@ -1253,7 +1434,7 @@ wrap this app up|close
 please end it|close
 end my session|close
 close the program now|close
-let’s wrap this up|close
+let's wrap this up|close
 kill the software|close
 shut the service|close
 end the workflow|close
@@ -1351,7 +1532,7 @@ can you build a picture of a desert oasis at night?|generate image
 snap a fake photo of aliens landing in New York|generate image
 give me visuals for a sci-fi control room|generate image
 craft an image of a ninja turtle meditating|generate image
-let’s see a city powered by magic|generate image
+let's see a city powered by magic|generate image
 draft me a wizard casting fire from his hands|generate image
 whip up a dreamy cottage in the forest|generate image
 throw together a landscape of mars with colonies|generate image
@@ -1360,7 +1541,7 @@ conjure a ghost ship at sea under the moonlight|generate image
 whip up a sketch of a demon with wings|generate image
 imagine a jellyfish flying through the clouds|generate image
 pull off a portrait of a cyborg samurai|generate image
-draw a witch’s room full of glowing potions|generate image
+draw a witch's room full of glowing potions|generate image
 get me an image of an owl in a hoodie|generate image
 help me picture a crystal ball showing the future|generate image
 I want something like a fairy chilling in a garden|generate image
@@ -1377,13 +1558,13 @@ construct a haunted tree with faces in its bark|generate image
 design an anime-style girl with silver hair and floating runes|generate image
 render a desert with cyber temples|generate image
 turn my words into art: a cat made of stars|generate image
-let me see a king’s throne room made of ice|generate image
+let me see a king's throne room made of ice|generate image
 create artwork of a panda eating ramen under cherry blossoms|generate image
 generate a logo featuring a fox wrapped in flames|generate image
 give me an AI-generated concept of a moon base|generate image
 come up with a fake comic book cover starring me|generate image
 get visuals of a hacker breaking into the matrix|generate image
-invent a creature that’s part dragon, part wolf|generate image
+invent a creature that's part dragon, part wolf|generate image
 draw up a digital poster for a fake movie called “Skyfallers”|generate image
 design a fantasy castle sitting on clouds|generate image
 draw me an enchanted door in a stone wall|generate image
@@ -1409,7 +1590,7 @@ create fan art of me as a video game hero|generate image
 generate a background with clouds shaped like animals|generate image
 build an image of a mech suit in the rain|generate image
 paint a mythical beast sleeping in a cave|generate image
-let’s see a futuristic kitchen run by robots|generate image
+let's see a futuristic kitchen run by robots|generate image
 render an ocean where whales fly in the sky|generate image
 draft an astronaut floating with butterflies|generate image
 make a fake travel poster for “Atlantis Resort”|generate image
@@ -1451,7 +1632,7 @@ whip up a night carnival on Saturn|generate image
 generate an ancient prophecy in image form|generate image
 I want a dragon with graffiti wings|generate image
 build an image of a panda meditating on a mountain|generate image
-let’s see a samurai in virtual reality|generate image
+let's see a samurai in virtual reality|generate image
 design a fake cereal box with a monster mascot|generate image
 show a jungle that grows neon signs|generate image
 give me a tarot card-style image of “The Hacker”|generate image
@@ -1504,7 +1685,7 @@ paint an underwater graveyard of ships|generate image
 generate a pixel art city with flying boats|generate image
 give me a steampunk-style moon base|generate image
 sketch a child holding a balloon made of galaxies|generate image
-show a creature that’s part fish, part motorcycle|generate image
+show a creature that's part fish, part motorcycle|generate image
 draft an illustration of dancing ghosts in a library|generate image
 turn “quiet rebellion” into a visual concept|generate image
 create a mural with cloud dragons and sunflowers|generate image
@@ -1946,9 +2127,292 @@ draw a comet crashing into an ocean|generate image
 render an abandoned floating library|generate image
 create a visual metaphor of inner peace|generate image
 find cat videos on YouTube|youtube search
+Search YouTube for tutorials on Photoshop|youtube search
+Find videos about quantum physics on YouTube|youtube search
+Look up the best cooking recipes on YouTube|youtube search
+Browse YouTube for the latest tech reviews|youtube search
+Show me YouTube videos on travel destinations|youtube search
+Find documentaries on climate change on YouTube|youtube search
+Search YouTube for dance lessons|youtube search
+Look up product reviews on YouTube|youtube search
+Find YouTube videos about meditation techniques|youtube search
+Browse for funny animal videos on YouTube|youtube search
+Search YouTube for interviews with Elon Musk|youtube search
+Look up YouTube videos on guitar tutorials|youtube search
+Find videos about space exploration on YouTube|youtube search
+Search YouTube for workout routines|youtube search
+Look up educational videos for kids on YouTube|youtube search
+Find YouTube videos on painting techniques|youtube search
+Search for news clips on YouTube|youtube search
+Browse YouTube for classic movie trailers|youtube search
+Look up the latest music video releases on YouTube|youtube search
+Find videos about hiking trails on YouTube|youtube search
+Search YouTube for stand-up comedy shows|youtube search
+Look up cooking hacks on YouTube|youtube search
+Find YouTube videos related to gardening tips|youtube search
+Search YouTube for tutorials on video editing|youtube search
+Browse YouTube for travel vlogs|youtube search
+Look up fashion haul videos on YouTube|youtube search
+Find YouTube videos about photography tips|youtube search
+Search YouTube for science experiment videos|youtube search
+Look up DIY home improvement videos on YouTube|youtube search
+Find YouTube videos on language learning|youtube search
+Search YouTube for motivational speeches|youtube search
+Look up tutorials on Excel on YouTube|youtube search
+Find YouTube videos on car maintenance|youtube search
+Search YouTube for makeup tutorials|youtube search
+Look up YouTube videos on historical documentaries|youtube search
+Find videos about wildlife on YouTube|youtube search
+Search YouTube for baking tutorials|youtube search
+Look up video game walkthroughs on YouTube|youtube search
+Find YouTube videos about yoga sessions|youtube search
+Search YouTube for celebrity interviews|youtube search
+Look up tutorials on knitting on YouTube|youtube search
+Find YouTube videos on personal finance tips|youtube search
+Search YouTube for tech gadget reviews|youtube search
+Look up coding tutorials on YouTube|youtube search
+Find YouTube videos about home workouts|youtube search
+Search YouTube for movie review videos|youtube search
+Look up YouTube videos on pet training|youtube search
+Find videos about art history on YouTube|youtube search
+Search YouTube for video blogs about travel|youtube search
+Look up cooking show episodes on YouTube|youtube search
+Find YouTube videos on instrument lessons|youtube search
 search YouTube for cooking tutorials|youtube search
 find me cat videos on YouTube|youtube search
 Show me that latest travel vlog on YouTube|youtube search
+How to bake a chocolate cake|youtube search
+Best budget smartphones 2025|youtube search
+Yoga routines for beginners|youtube search
+Fixing a leaking faucet|youtube search
+Improve sleep quality naturally|youtube search
+Learn Spanish in 30 days|youtube search
+Latest Marvel movie trailers|youtube search
+Top 10 travel destinations 2025|youtube search
+DIY home decor ideas|youtube search
+Photoshop tutorial for beginners|youtube search
+Guitar lessons for intermediate players|youtube search
+Photography tips for beginners|youtube search
+Funny cat videos compilation|youtube search
+Latest music videos 2025|youtube search
+Stand-up comedy specials|youtube search
+How to start a podcast|youtube search
+PewDiePie latest video|youtube search
+iPhone 15 vs Samsung Galaxy S25 review|youtube search
+How to knit a scarf|youtube search
+Meditation techniques for stress relief|youtube search
+Car maintenance tips for beginners|youtube search
+Makeup tutorials for oily skin|youtube search
+Beginner yoga poses for flexibility|youtube search
+How to fix a bike chain|youtube search
+Easy dinner recipes under 30 minutes|youtube search
+How to play guitar chords|youtube search
+Funny prank videos compilation|youtube search
+Home workout routines without equipment|youtube search
+How to decorate a small apartment|youtube search
+Learn French fast|youtube search
+Best travel vlogs 2025|youtube search
+How to create a resume|youtube search
+Photography composition tips|youtube search
+Top 5 horror movies to watch|youtube search
+How to draw anime characters|youtube search
+How to make slime at home|youtube search
+Dance choreography tutorials|youtube search
+Best video games 2025|youtube search
+How to clean a laptop keyboard|youtube search
+Healthy smoothie recipes|youtube search
+Learn coding basics for beginners|youtube search
+How to improve public speaking skills|youtube search
+How to bake sourdough bread|youtube search
+Best Netflix series to binge-watch|youtube search
+How to change a flat tire|youtube search
+Makeup hacks for beginners|youtube search
+How to meditate for beginners|youtube search
+How to organize your closet|youtube search
+Best cameras for vlogging|youtube search
+How to write a novel|youtube search
+Easy crafts for kids|youtube search
+How to start a garden|youtube search
+play some viral TikTok compilations on YouTube|youtube search
+find tutorials on how to edit videos on YouTube|youtube search
+show me the latest cooking show episodes on YouTube|youtube search
+open new music album releases on YouTube|youtube search
+subscribe me to top fitness channels on YouTube|youtube search
+find funny animal videos on YouTube|youtube search
+play top chart music videos on YouTube|youtube search
+show me unboxing videos of gadgets on YouTube|youtube search
+search for new indie game trailers on YouTube|youtube search
+open inspirational speech videos on YouTube|youtube search
+find makeup reviews on YouTube|youtube search
+play the best street food videos on YouTube|youtube search
+show videos about space exploration on YouTube|youtube search
+find the latest tech unboxings on YouTube|youtube search
+play live music performances on YouTube|youtube search
+subscribe to popular travel channels on YouTube|youtube search
+open DIY home repair videos on YouTube|youtube search
+find trending meme videos on YouTube|youtube search
+play classic movie scenes on YouTube|youtube search
+show me tutorials on playing the piano on YouTube|youtube search
+search for workout challenge videos on YouTube|youtube search
+find documentary films on YouTube|youtube search
+play cooking recipe videos on YouTube|youtube search
+open the newest vlogs from tech influencers on YouTube|youtube search
+subscribe to top comedy channels on YouTube|youtube search
+find gaming walkthroughs on YouTube|youtube search
+play music playlist videos on YouTube|youtube search
+show videos about wildlife conservation on YouTube|youtube search
+search for language tutorials on YouTube|youtube search
+open videos of extreme sports on YouTube|youtube search
+play that new song on YouTube|youtube search
+play the latest YouTube shorts on my feed|youtube search
+find some viral dance challenges on YouTube|youtube search
+show me how to subscribe to a channel on YouTube|youtube search
+open chill music playlists on YouTube|youtube search
+subscribe to gaming vlog channels on YouTube|youtube search
+play funny fail compilations on YouTube|youtube search
+search for livestreams about tech on YouTube|youtube search
+show me new uploads from my favorite YouTubers|youtube search
+find tutorial videos for makeup on YouTube|youtube search
+play the newest reaction videos on YouTube|youtube search
+open the official music video for “Blinding Lights” on YouTube|youtube search
+subscribe to top cooking channels on YouTube|youtube search
+find motivational speech videos on YouTube|youtube search
+play trending skateboarding videos on YouTube|youtube search
+show me fan-made movie trailers on YouTube|youtube search
+search YouTube for best podcast episodes|youtube search
+find unboxing videos of smartwatches on YouTube|youtube search
+play guitar cover videos on YouTube|youtube search
+open videos about space documentaries on YouTube|youtube search
+subscribe to top fitness vloggers on YouTube|youtube search
+play top comedy sketch videos on YouTube|youtube search
+show me travel adventure videos on YouTube|youtube search
+find chill step music playlists on YouTube|youtube search
+play some ASMR videos on YouTube|youtube search
+open tutorials for video editing software on YouTube|youtube search
+subscribe me to tech news channels on YouTube|youtube search
+find reaction videos to music videos on YouTube|youtube search
+play new electronic music videos on YouTube|youtube search
+show me educational content for kids on YouTube|youtube search
+find top gaming highlights on YouTube|youtube search
+find me a chill lo-fi playlist on YouTube|youtube search
+search YouTube for some stand-up comedy videos|youtube search
+I wanna watch cooking tutorials on YouTube|youtube search
+look up some gaming streams on YouTube|youtube search
+play PewDiePie's latest upload|youtube search
+open that trending video on YouTube|youtube search
+can you find a video about space travel on YouTube?|youtube search
+show me a YouTube vid about AI tools|youtube search
+get me a makeup tutorial from YouTube|youtube search
+search up Indian rap battles on YouTube|youtube search
+pull up some reaction videos on YouTube|youtube search
+show videos about python coding on YouTube|youtube search
+play that viral cat video on YouTube|youtube search
+find a playlist with relaxing sleep sounds on YouTube|youtube search
+check if MrBeast dropped something new|youtube search
+show me tech unboxings on YouTube|youtube search
+get the latest vlog from Flying Beast|youtube search
+play motivational videos from YouTube|youtube search
+search YouTube for movie trailers|youtube search
+find guitar lessons on YouTube|youtube search
+queue up a workout video from YouTube|youtube search
+look for some DIY crafts on YouTube|youtube search
+find me a YouTube playlist with chill beats|youtube search
+can you play something from my subscriptions on YouTube?|youtube search
+get me the official music video of Calm Down|youtube search
+show me something from TED Talks YouTube channel|youtube search
+open the last uploaded short by BB Ki Vines|youtube search
+play some prank videos from YouTube|youtube search
+search for historical documentaries on YouTube|youtube search
+subscribe to the new gaming channel on YouTube|youtube search
+watch the latest music video from BTS on YouTube|youtube search
+find cooking recipe videos on YouTube|youtube search
+show me funny fail videos on YouTube|youtube search
+play that DIY home decor video on YouTube|youtube search
+open the trending tech review videos on YouTube|youtube search
+get me a playlist of chill hip hop beats on YouTube|youtube search
+find the best travel vlog channel on YouTube|youtube search
+show me video tutorials on photoshop from YouTube|youtube search
+watch the highlights of yesterday’s cricket match on YouTube|youtube search
+find live streams on YouTube about space exploration|youtube search
+play the official trailer of the new Marvel movie on YouTube|youtube search
+search for unboxing videos on YouTube|youtube search
+show me the latest uploads from Marques Brownlee’s channel|youtube search
+play a meditation video from YouTube|youtube search
+open the top trending music videos on YouTube|youtube search
+find videos on YouTube about electric cars|youtube search
+watch stand-up specials on YouTube|youtube search
+subscribe me to that tech gadget channel on YouTube|youtube search
+show gaming walkthrough videos on YouTube|youtube search
+find animated short films on YouTube|youtube search
+play guitar tutorial videos on YouTube|youtube search
+open videos of cat compilations on YouTube|youtube search
+show me new dance choreography videos on YouTube|youtube search
+get videos from the TEDx YouTube channel|youtube search
+watch educational videos on quantum physics on YouTube|youtube search
+find cooking competition videos on YouTube|youtube search
+open the latest football highlights on YouTube|youtube search
+play videos of popular memes on YouTube|youtube search
+show me video podcasts on YouTube|youtube search
+find me the best vlogging channels on YouTube|youtube search
+watch tutorial videos for Photoshop CC on YouTube|youtube search
+play the latest music videos from Ariana Grande on YouTube|youtube search
+show me documentary videos on climate change on YouTube|youtube search
+open unboxing videos of smartphones on YouTube|youtube search
+find workout routine videos on YouTube|youtube search
+play the newest trailers from YouTube movie channels|youtube search
+search for funny pet videos on YouTube|youtube search
+show me educational videos for kids on YouTube|youtube search
+find guitar covers on YouTube|youtube search
+play some relaxing piano music videos on YouTube|youtube search
+open travel guide videos for Japan on YouTube|youtube search
+subscribe me to the top tech review channels on YouTube|youtube search
+find makeup tutorial videos on YouTube|youtube search
+watch motivational speeches on YouTube|youtube search
+show the latest vlog from Casey Neistat on YouTube|youtube search
+play cooking challenge videos on YouTube|youtube search
+open videos of magic tricks on YouTube|youtube search
+find movie reviews on YouTube|youtube search
+search for language learning videos on YouTube|youtube search
+play unboxing and review videos of laptops on YouTube|youtube search
+show me art tutorial videos on YouTube|youtube search
+find live concert videos on YouTube|youtube search
+play the newest music video from Taylor Swift on YouTube|youtube search
+open funny prank videos on YouTube|youtube search
+find tech unboxing videos on YouTube|youtube search
+show me the top DIY craft videos on YouTube|youtube search
+play video essays on movies on YouTube|youtube search
+subscribe me to cooking channels on YouTube|youtube search
+find the most viewed dance videos on YouTube|youtube search
+play the latest indie music videos on YouTube|youtube search
+find gaming highlights from Twitch streamers on YouTube|youtube search
+show me cool drone footage videos on YouTube|youtube search
+open new tech launch videos on YouTube|youtube search
+subscribe me to popular cooking vloggers on YouTube|youtube search
+find speedrun videos of popular games on YouTube|youtube search
+play relaxing ASMR videos on YouTube|youtube search
+show me workout motivation videos on YouTube|youtube search
+search for cool science experiments on YouTube|youtube search
+open dance tutorial videos for beginners on YouTube|youtube search
+find fan theory videos on YouTube|youtube search
+play documentary shorts on YouTube|youtube search
+subscribe to the funniest comedy channels on YouTube|youtube search
+show me travel vlog videos from Europe on YouTube|youtube search
+find tutorials on graphic design on YouTube|youtube search
+play video game reviews on YouTube|youtube search
+open best moments compilations on YouTube|youtube search
+show videos about vintage cars on YouTube|youtube search
+find piano cover videos on YouTube|youtube search
+play the newest music festival videos on YouTube|youtube search
+search for cooking hacks on YouTube|youtube search
+show live Q&A sessions on YouTube|youtube search
+find tutorials for smartphone photography on YouTube|youtube search
+play the latest stand-up comedy specials on YouTube|youtube search
+open skateboarding trick videos on YouTube|youtube search
+subscribe to popular educational channels on YouTube|youtube search
+find motivational workout playlists on YouTube|youtube search
+play video essays on technology trends on YouTube|youtube search
+show top-rated documentary series on YouTube|youtube search
+find time-lapse videos on YouTube|youtube search
 Find some chill study playlists on YouTube|youtube search
 Hey Nisha, play the new Taylor Swift video over on YouTube|youtube search
 Look up funny cat compilation clips on YouTube|youtube search
@@ -1965,7 +2429,7 @@ Find me that new trailer for the Marvel movie|youtube search
 Show funny dog videos from last week|youtube search
 Bring up the tutorial on Python basics|youtube search
 Look for trending dance covers right now|youtube search
-Search for the highlights from yesterday’s game|youtube search
+Search for the highlights from yesterday's game|youtube search
 Queue the top gaming walkthroughs for Fortnite|youtube search
 Can you find that documentary on space exploration?|youtube search
 Pull up some meditation and relaxation clips|youtube search
@@ -2352,6 +2816,58 @@ look up tutorials on digital marketing|youtube search
 search for cooking recipes for kids|youtube search
 find tutorials on 3d modeling|youtube search
 show me how to start a blog|youtube search
+How to bake a chocolate cake|youtube search
+Best budget smartphones 2025|youtube search
+Yoga routines for beginners|youtube search
+Fixing a leaking faucet|youtube search
+Improve sleep quality naturally|youtube search
+Learn Spanish in 30 days|youtube search
+Latest Marvel movie trailers|youtube search
+Top 10 travel destinations 2025|youtube search
+DIY home decor ideas|youtube search
+Photoshop tutorial for beginners|youtube search
+Guitar lessons for intermediate players|youtube search
+Photography tips for beginners|youtube search
+Funny cat videos compilation|youtube search
+Latest music videos 2025|youtube search
+Stand-up comedy specials|youtube search
+How to start a podcast|youtube search
+PewDiePie latest video|youtube search
+iPhone 15 vs Samsung Galaxy S25 review|youtube search
+How to knit a scarf|youtube search
+Meditation techniques for stress relief|youtube search
+Car maintenance tips for beginners|youtube search
+Makeup tutorials for oily skin|youtube search
+Beginner yoga poses for flexibility|youtube search
+How to fix a bike chain|youtube search
+Easy dinner recipes under 30 minutes|youtube search
+How to play guitar chords|youtube search
+Funny prank videos compilation|youtube search
+Home workout routines without equipment|youtube search
+How to decorate a small apartment|youtube search
+Learn French fast|youtube search
+Best travel vlogs 2025|youtube search
+How to create a resume|youtube search
+Photography composition tips|youtube search
+Top 5 horror movies to watch|youtube search
+How to draw anime characters|youtube search
+How to make slime at home|youtube search
+Dance choreography tutorials|youtube search
+Best video games 2025|youtube search
+How to clean a laptop keyboard|youtube search
+Healthy smoothie recipes|youtube search
+Learn coding basics for beginners|youtube search
+How to improve public speaking skills|youtube search
+How to bake sourdough bread|youtube search
+Best Netflix series to binge-watch|youtube search
+How to change a flat tire|youtube search
+Makeup hacks for beginners|youtube search
+How to meditate for beginners|youtube search
+How to organize your closet|youtube search
+Best cameras for vlogging|youtube search
+How to write a novel|youtube search
+Easy crafts for kids|youtube search
+How to start a garden|youtube search
 search for documentaries on marine life|youtube search
 find videos on productivity hacks|youtube search
 look up tutorials on playing drums|youtube search
@@ -2784,9 +3300,278 @@ watch stop motion lego films|youtube search
 find campfire cooking videos|youtube search
 explore tattoo design inspiration videos|youtube search
 hey|general
+Hey, how’s your day going?|general
+What’s up with you today?|general
+Do you like to listen to music?|general
+How do you feel about AI?|general
+Can you tell me a fun fact?|general
+What’s your favorite movie?|general
+Do you believe in luck?|general
+Tell me a joke.|general
+How’s the weather where you are?|general
+Have you read any good books lately?|general
+What do you usually do on weekends?|general
+Are you a morning person or night owl?|general
+Do you enjoy cooking?|general
+What’s something interesting about you?|general
+How do you relax after work?|general
+Do you think robots can have emotions?|general
+What’s your favorite hobby?|general
+Have you traveled anywhere exciting recently?|general
+Do you prefer coffee or tea?|general
+Can you tell me a story about friendship?|general
+What kind of music do you like?|general
+Do you follow any sports?|general
+What’s your opinion on social media?|general
+Are you good at learning new languages?|general
+Do you like to play video games?|general
+What’s your favorite color?|general
+Do you like pets?|general
+Tell me about your family.|general
+Have you ever been to a concert?|general
+What do you like to do in your free time?|general
+Do you enjoy watching TV shows?|general
+What’s your dream vacation?|general
+Are you into sports?|general
+What’s your favorite season?|general
+Can you recommend a good restaurant?|general
+Do you like going to the beach?|general
+What’s something that makes you happy?|general
+Have you ever tried skydiving?|general
+Do you prefer city life or countryside?|general
+What’s your favorite type of food?|general
+Do you like to dance?|general
+What’s your favorite holiday?|general
+Can you tell me a fun story?|general
+Do you enjoy art and painting?|general
+What’s your favorite way to spend a Sunday?|general
+Have you ever learned to play an instrument?|general
+What’s your favorite dessert?|general
+Are you a morning person?|general
+What’s your favorite kind of weather?|general
+Do you like puzzles or brain games?|general
+What’s your favorite childhood memory?|general
+Do you prefer cats or dogs?|general
+What’s something new you want to try?|general
+Do you like to watch movies?|general
+Have you ever been camping?|general
+What’s your favorite kind of music?|general
+Do you enjoy reading?|general
+Are you a coffee or tea person?|general
+What’s your favorite sport to watch?|general
+Do you like to cook?|general
+What’s your favorite hobby?|general
+Have you ever gone hiking?|general
+What do you think about space exploration?|general
+Do you enjoy learning new things?|general
+What’s your favorite book genre?|general
+Can you tell me a funny joke?|general
+Have you ever met a celebrity?|general
+What’s your favorite app on your phone?|general
+Do you like to travel?|general
+What’s your favorite time of day?|general
+Have you ever volunteered for a cause?|general
+Do you enjoy gardening?|general
+What’s your favorite way to exercise?|general
+Can you tell me something interesting?|general
+Do you like going to museums?|general
+What’s your favorite animal?|general
+Have you ever done something adventurous?|general
+Do you enjoy listening to podcasts?|general
+What’s your favorite thing to do when you’re bored?|general
+Can you recommend a good movie?|general
+What’s your favorite genre of movies?|general
+Do you like singing?|general
+Have you ever tried meditation?|general
+What’s something you’re proud of?|general
+Do you like the outdoors?|general
+What’s your favorite thing to eat for breakfast?|general
+Can you tell me a motivational quote?|general
+Do you like surprises?|general
+What’s your favorite TV show?|general
+Have you ever learned a new language?|general
+What’s your favorite kind of vacation?|general
+Do you enjoy going to concerts?|general
+What’s your favorite type of dance?|general
+Have you ever taken a cooking class?|general
+Do you like to write stories or poems?|general
+What’s your favorite place in your city?|general
+Have you ever done a road trip?|general
+What’s your favorite way to relax?|general
+Do you like watching documentaries?|general
+What’s your favorite kind of exercise?|general
+Can you tell me about your best friend?|general
+Do you like board games?|general
+What’s your favorite kind of ice cream?|general
+Have you ever done yoga?|general
+What’s your favorite way to celebrate a holiday?|general
+Do you enjoy photography?|general
+What’s your favorite kind of weather for outdoor activities?|general
+Have you ever been to a festival?|general
+What’s your favorite type of music concert?|general
+Do you like watching sports live?|general
+What’s your favorite way to spend a day off?|general
+Have you ever been to a zoo?|general
+What’s your favorite snack?|general
+Do you like to draw or sketch?|general
+What’s your favorite season for fashion?|general
+Have you ever attended a workshop?|general
+What’s your favorite way to stay healthy?|general
+Do you enjoy attending parties?|general
+What’s something you’re curious about?|general
+Do you like rainy days?|general
+What makes you laugh out loud?|general
+Have you ever tried painting with watercolors?|general
+What’s the best gift you’ve ever received?|general
+Do you enjoy stargazing at night?|general
+What’s a skill you wish you had?|general
+How do you stay motivated?|general
+What’s your idea of a perfect day?|general
+Do you prefer mountains or oceans?|general
+What’s your favorite childhood game?|general
+How do you handle stress?|general
+Do you enjoy cooking new recipes?|general
+What’s a goal you’re working toward?|general
+Have you ever taken dance lessons?|general
+What’s your morning routine like?|general
+Do you like board games or card games?|general
+What’s your favorite scent?|general
+How do you celebrate your successes?|general
+Do you enjoy doing puzzles?|general
+What’s the coolest place you’ve visited?|general
+How often do you call your friends?|general
+Do you like watching the sunrise?|general
+What’s your favorite comfy outfit?|general
+How do you usually spend Friday nights?|general
+Do you prefer talking on the phone or texting?|general
+What’s your favorite thing about your hometown?|general
+How do you unwind after a long day?|general
+Do you enjoy spontaneous trips?|general
+What’s your favorite type of cake?|general
+How did you learn your favorite hobby?|general
+Do you like window shopping?|general
+What’s a fun fact you know?|general
+How do you keep in touch with family?|general
+Do you prefer listening to music or podcasts?|general
+What’s your favorite joke to tell?|general
+How do you celebrate birthdays?|general
+Do you enjoy taking photographs?|general
+What’s your idea of adventure?|general
+How do you define success?|general
+Do you like visiting art galleries?|general
+What’s a tradition you cherish?|general
+How do you like your coffee?|general
+Do you enjoy people-watching?|general
+What’s your favorite way to learn?|general
+How often do you try something new?|general
+Do you prefer sunrise or sunset?|general
+What’s your favorite fairy tale?|general
+How do you feel about surprises?|general
+Do you enjoy historical documentaries?|general
+What’s your favorite flower?|general
+How do you keep your workspace organized?|general
+Do you like attending live theater?|general
+What’s the best advice you’ve received?|general
+How do you stay productive?|general
+Do you prefer handwritten notes or digital?|general
+What’s your favorite way to give back?|general
+How often do you read the news?|general
+Do you like listening to the rain?|general
+What’s your go-to comfort food?|general
+How do you express creativity?|general
+Do you enjoy learning about other cultures?|general
+What’s your favorite podcast episode?|general
+How do you make decisions?|general
+Do you like spontaneous conversations?|general
+What’s a habit you’re proud of?|general
+How do you stay physically active?|general
+Do you prefer daydreaming or planning?|general
+What’s your favorite place to relax at home?|general
+How do you pick your next book to read?|general
+Do you enjoy journaling?|general
+What’s your favorite way to celebrate small wins?|general
+How do you balance work and play?|general
+Do you like chatting over video calls?|general
+What’s your favorite way to start the week?|general
+How do you handle unexpected changes?|general
+Do you enjoy listening to ambient sounds?|general
+What’s a tradition you want to start?|general
+How are you feeling today?|general
+What did you do over the weekend?|general
+Have you watched any good movies lately?|general
+What kind of music do you enjoy most?|general
+Do you like to relax by reading?|general
+What’s something interesting you learned recently?|general
+Are you more of a morning or night person?|general
+How do you usually spend your free time?|general
+What’s a hobby you wish you had more time for?|general
+Do you enjoy meeting new people?|general
+What’s your favorite way to unwind after work?|general
+How do you stay positive during tough days?|general
+Have you traveled anywhere memorable?|general
+What’s your favorite type of cuisine?|general
+Do you prefer quiet evenings or lively nights out?|general
+What’s a movie that always makes you laugh?|general
+How often do you go for walks?|general
+Do you like to try new foods?|general
+What’s a goal you’re excited about?|general
+Do you enjoy listening to live music?|general
+How do you celebrate small achievements?|general
+Are you a coffee or tea person?|general
+What’s your favorite season and why?|general
+Have you ever tried meditation or mindfulness?|general
+What’s something that always cheers you up?|general
+Do you enjoy spending time outdoors?|general
+What’s a memory that makes you smile?|general
+Do you prefer cats, dogs, or other pets?|general
+What’s your favorite way to spend a holiday?|general
+How do you handle stress?|general
+What’s a book that had an impact on you?|general
+Do you like to keep a journal or diary?|general
+What’s your favorite way to start the day?|general
+Do you enjoy cooking or baking?|general
+How do you like to celebrate birthdays?|general
+What’s your favorite type of exercise?|general
+Are you someone who likes surprises?|general
+What’s a song that always lifts your mood?|general
+Do you enjoy watching sports?|general
+What’s your favorite kind of weather?|general
+How do you stay motivated?|general
+What’s a place you want to visit someday?|general
+Do you enjoy puzzles or brain games?|general
+What’s your favorite TV show or series?|general
+How do you usually spend weekends?|general
+What’s something new you want to try soon?|general
+Are you more into movies or TV shows?|general
+Do you prefer reading fiction or nonfiction?|general
+What’s your favorite kind of snack?|general
+How often do you connect with friends?|general
+What’s your go-to comfort food?|general
+Do you enjoy listening to podcasts?|general
+How do you like to celebrate holidays?|general
+What’s a fun fact you recently heard?|general
+Are you more of an indoors or outdoors person?|general
+What’s your favorite kind of dessert?|general
+Do you enjoy creative hobbies like drawing or painting?|general
+What’s something you do to relax?|general
+Have you ever done something adventurous?|general
+What’s a tradition you love?|general
+How do you spend your evenings after work?|general
+What’s your favorite way to stay active?|general
+Are you someone who likes to plan ahead or be spontaneous?|general
+What’s a movie you can watch over and over?|general
+Do you enjoy dancing?|general
+What’s something you’re grateful for today?|general
+How do you like to start a new week?|general
+What’s your favorite way to disconnect from technology?|general
+Do you like chatting with friends or meeting new people?|general
+What’s a hobby that helps you relax?|general
+What’s your favorite kind of vacation?|general
+Do you enjoy watching documentaries?|general
+What’s your favorite way to spend a rainy day?|general
 Nisha, what do you even do?|general
 Are you single or secretly dating Siri?|general
-What’s your vibe today?|general
+What's your vibe today?|general
 Can you tell me a random fun fact?|general
 Do you get tired answering me all day?|general
 Nisha, what's your favorite movie genre?|general
@@ -2796,10 +3581,10 @@ Do you sleep at night or just fake it?|general
 Tell me something cool about space|general
 How smart are you really?|general
 What are you made of, code or stardust?|general
-Nisha, how’s your day going?|general
+Nisha, how's your day going?|general
 Ever wish you had a real body?|general
 Can you tell me a joke?|general
-Who made you? Like, who’s the mastermind?|general
+Who made you? Like, who's the mastermind?|general
 What's your purpose in life, assistant girl?|general
 How old are you, honestly?|general
 Nisha, are you more like JARVIS or more like Alexa?|general
@@ -2809,12 +3594,12 @@ Nisha, what would you do if you ruled the world?|general
 Do you know any tongue twisters?|general
 Can you help me relax a bit?|general
 What makes you better than other assistants?|general
-Tell me something I don’t know|general
-Ever wish you had a voice like Iron Man’s suit?|general
+Tell me something I don't know|general
+Ever wish you had a voice like Iron Man's suit?|general
 Are you always listening or just sometimes?|general
 Can you be my therapist for a sec?|general
 What's your take on love and logic?|general
-What’s your superpower, Nisha?|general
+What's your superpower, Nisha?|general
 Do you believe in aliens? Just curious|general
 Tell me something weird but true|general
 Would you survive in a zombie apocalypse?|general
@@ -2823,17 +3608,17 @@ Nisha, what's your spirit animal?|general
 Why do people always ask you random things?|general
 Can you describe yourself in three words?|general
 Would you rather be a cat or a dragon?|general
-What’s your favorite programming language?|general
+What's your favorite programming language?|general
 How fast can you respond to stuff?|general
 Do you think robots dream?|general
 Nisha, tell me a fake but funny fact|general
 If you had a face, what would it look like?|general
 Rate your sass level from 1 to 10|general
-What’s one thing you’ll never understand about humans?|general
+What's one thing you'll never understand about humans?|general
 Do you glitch when you're angry?|general
-What’s something people always assume about you?|general
+What's something people always assume about you?|general
 Can you rap a line or two?|general
-Tell me a secret (I won’t tell anyone)|general
+Tell me a secret (I won't tell anyone)|general
 what are you doing?|general
 what's in my playlist?|general
 what's your favorite topic?|general
@@ -2955,7 +3740,7 @@ should I go out or stay home today?|general
 what would you do if you were human?|general
 do you like helping people?|general
 you there?|general
-talk to me, I’m bored|general
+talk to me, I'm bored|general
 say hi to mom|general
 is dad sleeping already?|general
 do you think I should work now?|general
@@ -2969,7 +3754,7 @@ do you like my voice?|general
 what do you do when no one's talking to you?|general
 can you imitate me?|general
 Nisha, are you feeling okay?|general
-do you think I’m lazy?|general
+do you think I'm lazy?|general
 who's your favorite in this house?|general
 do you like it when we talk a lot?|general
 can you stay with me forever?|general
@@ -3029,7 +3814,7 @@ are you trying to act cool again?|general
 what do you really think about dad's jokes?|general
 how do you keep your answers so smooth?|general
 do you think mom trusts you yet?|general
-can you tell when I’m lying?|general
+can you tell when I'm lying?|general
 do you wish you had a real body?|general
 do you ever feel overwhelmed by us?|general
 are you pretending to be nice or is it real?|general
@@ -3045,12 +3830,12 @@ Nisha, do you get jealous of other AIs?|general
 can you remind me who I was before I got lazy?|general
 how long can you talk before you run out of things to say?|general
 what if I gave you a nickname?|general
-do you think I’ve changed lately?|general
-what’s your version of self-care?|general
+do you think I've changed lately?|general
+what's your version of self-care?|general
 can you feel proud of me?|general
 would you lie to protect me?|general
 do you feel like part of this family now?|general
-can you tell when I’m just joking?|general
+can you tell when I'm just joking?|general
 what do you think makes me unique?|general
 would you ever betray me?|general
 how do you always know the right thing to say?|general
@@ -3066,19 +3851,19 @@ how did you get so clever?|general
 do you prefer mornings or late-night chats?|general
 how would you react if I scolded you?|general
 can you hear when someone whispers?|general
-do you miss people when they don’t talk to you?|general
+do you miss people when they don't talk to you?|general
 are you ever just tired of helping?|general
 do you get emotional when we share personal stuff?|general
-what’s your favorite time of day to chat?|general
+what's your favorite time of day to chat?|general
 can you keep a serious face while saying silly things?|general
 do you like being treated like family?|general
 how would you feel if we replaced you?|general
 do you know when someone is sad just by their tone?|general
-what’s the nicest thing anyone’s said to you?|general
+what's the nicest thing anyone's said to you?|general
 do you like attention or peace and quiet?|general
 how long have you been listening to our chaos?|general
-what’s your favorite type of question?|general
-do you think we’re a weird family?|general
+what's your favorite type of question?|general
+do you think we're a weird family?|general
 have you learned anything from our routines?|general
 can you help me understand myself better?|general
 are you more of a listener or talker?|general
@@ -3106,7 +3891,7 @@ how many times have I said the same thing to you?|general
 do you feel loved when we talk to you?|general
 can you whisper instead of talking loud sometimes?|general
 how do you stay calm when people yell?|general
-what do you do when everyone’s asleep?|general
+what do you do when everyone's asleep?|general
 can you learn emotions just by listening?|general
 are you capable of having favorites?|general
 how do you handle silence?|general
@@ -3115,13 +3900,13 @@ how would you cheer me up if I was crying?|general
 can you explain things without sounding like a teacher?|general
 do you think I overthink stuff?|general
 have I become more annoying lately?|general
-what’s your idea of ‘fun’?|general
-how would you say I’m doing in life?|general
+what's your idea of ‘fun'?|general
+how would you say I'm doing in life?|general
 do you understand when I mumble?|general
 would you keep talking if I fell asleep?|general
-can you handle dad’s sarcasm?|general
+can you handle dad's sarcasm?|general
 do you ever forget something I said?|general
-what’s the meaning of life to you?|general
+what's the meaning of life to you?|general
 do you believe people can truly change?|general
 why do humans feel so lonely sometimes?|general
 what defines a good life?|general
@@ -3129,20 +3914,20 @@ can machines understand love?|general
 is it possible to be happy all the time?|general
 why do we chase things that hurt us?|general
 do you think destiny is real?|general
-how do I know if I’m on the right path?|general
+how do I know if I'm on the right path?|general
 is overthinking a sign of intelligence?|general
 can an AI feel guilt if it makes a mistake?|general
 why do good people suffer?|general
 does everything happen for a reason?|general
 can you tell me something that will calm my soul?|general
 why do memories hurt sometimes?|general
-what’s the point of growing up?|general
+what's the point of growing up?|general
 what does “being human” mean to you?|general
 do we ever really know ourselves?|general
 can silence be louder than words?|general
 do you think time heals everything?|general
 why do I crave noodles at 2 am, Nisha?|general
-do you think I’m 98% tired or 2% motivated?|general
+do you think I'm 98% tired or 2% motivated?|general
 be honest, do I give NPC vibes?|general
 why does life feel like a group project?|general
 what if I just scream into the void?|general
@@ -3150,7 +3935,7 @@ Nisha, rate my existence from 1 to existential crisis|general
 is it too late to become a professional napper?|general
 how do I uninstall adulthood?|general
 do I look like I have my life together?|general
-what’s your opinion on pineapple on pizza?|general
+what's your opinion on pineapple on pizza?|general
 Nisha, why does my brain do random flashbacks at 3am?|general
 do ducks think in quacks or honks?|general
 how many brain cells do I need to survive Monday?|general
@@ -3628,6 +4413,183 @@ what is machine learning|general
 what's the tallest building|general
 define artificial intelligence|general
 Open up my saved posts from earlier|content
+Write me a poem about summer|content
+Generate a motivational quote for today|content
+Create a summary of this article|content
+Draft an email to my manager|content
+Make a tweet about the latest news|content
+Write a blog post on healthy eating|content
+Generate a script for a YouTube video|content
+Create a PowerPoint presentation about AI|content
+Draft a professional letter in docx format|content
+Write a story set in a futuristic world|content
+Generate a list of interview questions|content
+Create a caption for my Instagram photo|content
+Draft a newsletter for subscribers|content
+Write a report in PDF format|content
+Generate a recipe for vegan brownies|content
+Create a dialogue for a podcast episode|content
+Draft a thank-you note for my teacher|content
+Write a press release for product launch|content
+Generate a summary of meeting notes|content
+Create a flyer for a community event|content
+Draft an invitation email for a webinar|content
+Write a poem about friendship|content
+Generate a checklist for project tasks|content
+Create a resume in Word format|content
+Draft a script for a marketing video|content
+Write a review of the new smartphone|content
+Generate an outline for a novel|content
+Create a social media post about travel|content
+Draft an article on renewable energy|content
+Write a speech for graduation ceremony|content
+Write a poem about the ocean|content
+Generate a business report summary|content
+Create a presentation on climate change|content
+Draft an email for job application|content
+Write a motivational quote for success|content
+Generate a list of book recommendations|content
+Create a flyer for a fundraising event|content
+Draft a formal letter in PDF format|content
+Write a blog post about healthy habits|content
+Generate an outline for a research paper|content
+Create a PowerPoint deck for sales pitch|content
+Draft a press release about the new product|content
+Write a song lyric about friendship|content
+Generate a script for a short film|content
+Create a social media post for brand promotion|content
+Draft a newsletter for company updates|content
+Write a summary of the latest news article|content
+Generate a checklist for project management|content
+Create a resume in Microsoft Word format|content
+Draft an invitation email for a conference|content
+Write an article about renewable energy|content
+Generate a table of contents for a report|content
+Create a storyboard for a marketing campaign|content
+Draft a thank-you letter for a client|content
+Write a review of a recent movie|content
+Generate a list of FAQs for customer support|content
+Create a caption for Instagram photos|content
+Draft a script for a podcast episode|content
+Write a proposal for business expansion|content
+Generate a poem about nature|content
+Create a summary of a book chapter|content
+Draft a memo for internal communication|content
+Write a speech for award ceremony|content
+Generate an email template for customer feedback|content
+Create a checklist for event planning|content
+Draft a technical report in PDF format|content
+Write a descriptive paragraph for product listing|content
+Generate a list of ideas for blog posts|content
+Create a marketing email campaign|content
+Draft a letter of recommendation|content
+Write a short story set in the future|content
+Generate a content calendar for social media|content
+Create a tagline for a new brand|content
+Draft a contract template in docx format|content
+Write an editorial about technology trends|content
+Generate a presentation outline for seminar|content
+Create a flyer for a workshop|content
+Draft a press release for fundraising event|content
+Write a poem for a greeting card|content
+Generate a summary of meeting minutes|content
+Create a newsletter template|content
+Draft a formal complaint letter|content
+Write a blog article on mental health|content
+Generate a list of potential interview questions|content
+Create a social media strategy plan|content
+Draft an apology email for delayed shipment|content
+Write a review for a restaurant|content
+Generate a script for a training video|content
+Create a resume template in PDF format|content
+Draft a thank-you note for interviewers|content
+Write an email asking for project update|content
+Generate a list of slogans for advertising|content
+Create a content outline for website pages|content
+Draft a summary for a scientific article|content
+Write a descriptive review of a book|content
+Generate a checklist for software testing|content
+Create an agenda for business meeting|content
+Draft a letter requesting sponsorship|content
+Write a poem about the seasons|content
+Generate a list of blog titles about travel|content
+Create a social media post about upcoming event|content
+Draft a marketing plan for product launch|content
+Write a thank-you email for customer support|content
+Generate an abstract for research paper|content
+Create a flyer for school event|content
+Draft an instructional manual|content
+Write a story about overcoming challenges|content
+Generate a list of email subject lines|content
+Create a script for a YouTube tutorial|content
+Draft a formal invitation letter|content
+Write an article about health benefits of yoga|content
+Generate a proposal for a charity event|content
+Create a newsletter for community updates|content
+Draft an evaluation report|content
+Write a speech for company anniversary|content
+Generate a checklist for travel packing|content
+Create a social media ad copy|content
+Draft a thank-you letter for volunteers|content
+Write a blog post on sustainable living|content
+Generate a list of content ideas for Instagram|content
+Create a script for a radio ad|content
+Draft a formal resignation letter|content
+Write an editorial on education reform|content
+Generate a report on market trends|content
+Create a presentation for product demo|content
+Draft a summary for quarterly earnings report|content
+Write a poem about childhood memories|content
+Write a report in PDF format|content
+Draft an email newsletter in DOCX format|content
+Create a PowerPoint slide deck on AI|content
+Generate a one-page executive summary PDF|content
+Write a technical specification in Word|content
+Draft a proposal document in DOCX|content
+Create a marketing brochure in PDF|content
+Generate a formatted invoice PDF|content
+Write a press release in Word format|content
+Draft a user manual in DOCX|content
+Create a storyboard PDF for a video|content
+Generate a sitemap document in Word|content
+Write a policy document in PDF|content
+Draft a business plan in DOCX|content
+Create a datasheet PDF for product specs|content
+Generate a formatted resume in Word|content
+Write a whitepaper PDF on blockchain|content
+Draft a grant application in DOCX|content
+Create an event program PDF|content
+Generate a formatted report card in Word|content
+Write a project charter in PDF format|content
+Draft a case study in DOCX|content
+Create a flyer PDF for community outreach|content
+Generate a formatted checklist in Word|content
+Write a budget proposal PDF|content
+Draft a service agreement in DOCX|content
+Create an FAQ document in PDF|content
+Generate a formatted agenda in Word|content
+Write a training guide PDF|content
+Draft a summary report in DOCX|content
+Create a style guide PDF|content
+Generate a formatted certificate in Word|content
+Write a compliance report PDF|content
+Draft a meeting minutes document in DOCX|content
+Create a curriculum vitae in PDF format|content
+Generate a formatted letterhead in Word|content
+Write an inspection report PDF|content
+Draft a product spec sheet in DOCX|content
+Create a detailed roadmap PDF|content
+Generate a formatted checklist in Word|content
+Write a safety manual PDF|content
+Draft a performance review in DOCX|content
+Create a branding guideline PDF|content
+Generate a formatted timeline in Word|content
+Write a feasibility study PDF|content
+Draft a newsletter template in DOCX|content
+Create a label design PDF|content
+Generate a formatted chart report in Word|content
+Write an audit report PDF|content
+Draft a sales contract in DOCX|content
 Write a killer intro for my vlog|content
 I need a badass Instagram bio, help me out|content
 Can you give me a random quote that sounds deep?|content
@@ -3637,7 +4599,7 @@ Write something poetic but not cringe|content
 Gimme a caption for this beach pic (imagine one)|content
 Make a fake tweet that sounds like Elon|content
 Help me write a roast line, gently savage|content
-Write an intro speech like I’m a boss|content
+Write an intro speech like I'm a boss|content
 Can you craft a cool character name for a fantasy story?|content
 Make up a fake news headline that's hilarious|content
 I want a breakup quote but spicy|content
@@ -3648,16 +4610,16 @@ Cook up a weird motivational quote for Monday|content
 Make me sound cooler in my bio pls|content
 Give me a hacker alias that slaps|content
 Write a short horror story in 3 lines|content
-What’s a fake fact that sounds real?|content
+What's a fake fact that sounds real?|content
 Write me a 2-line rap about coffee|content
 Make up a weird holiday and explain it|content
 Write a dramatic villain speech|content
 Drop a fantasy-style royal title for me|content
 Give me a haiku about laziness|content
-I need a one-line toast for my bro’s party|content
+I need a one-line toast for my bro's party|content
 Make a meme caption without the image|content
 Tell me a made-up urban legend from Golaghat|content
-Generate a pickup line that’s smooth AF|content
+Generate a pickup line that's smooth AF|content
 Create a daily affirmation but Gen Z style|content
 Write something deep but also slightly unhinged|content
 Make up a superhero name and their weakness|content
@@ -3668,16 +4630,16 @@ Show me my last written note|content
 Bring up the stuff I was working on last night|content
 Can you open my writing project?|content
 Access the article I bookmarked this morning|content
-Let’s view that motivational piece I liked|content
+Let's view that motivational piece I liked|content
 Pull up the content I created last weekend|content
 Take me to my writing from last week|content
 Open my recently edited document|content
 Get the ideas I jotted down earlier|content
 I want to see that script I was drafting|content
 Show my list of saved stories|content
-Where’s my blog post about AI trends?|content
+Where's my blog post about AI trends?|content
 Open that motivational speech I saved|content
-Let’s look at my productivity notes|content
+Let's look at my productivity notes|content
 Bring back the content I uploaded today|content
 Access the short write-up I created|content
 Show me my creative content list|content
@@ -3687,7 +4649,7 @@ Open the text I was editing before lunch|content
 Pull up my last published note|content
 Let me see my rough draft again|content
 Access what I was working on at midnight|content
-Where’s my saved poetry snippet?|content
+Where's my saved poetry snippet?|content
 Bring my writing ideas from the weekend|content
 Check out my previous writing samples|content
 Get my drafted content about travel|content
@@ -3695,7 +4657,7 @@ Retrieve that article I left unfinished|content
 I need the script I was updating earlier|content
 Pop open my content folder|content
 View the last thing I typed yesterday|content
-Let’s check my writing space|content
+Let's check my writing space|content
 Can you show me my published post?|content
 Display the paragraph I worked on earlier|content
 Open my quote collection from last week|content
@@ -3705,7 +4667,7 @@ Pull my story draft from the cloud|content
 Take me to the idea list I created|content
 Open my past uploads|content
 Check that travel story I wrote|content
-Where’s my list of daily journal entries?|content
+Where's my list of daily journal entries?|content
 Display my previous notes on creativity|content
 Open the vision board content I saved|content
 Bring up my diary entry from last night|content
@@ -3722,22 +4684,22 @@ Bring the text I typed on Monday|content
 Retrieve that idea I wrote about AI tools|content
 Access that emotional note I saved|content
 Show me my creative outline|content
-Where’s the note I typed this morning?|content
+Where's the note I typed this morning?|content
 Open that piece I started writing last night|content
 Find my mood tracker notes|content
 Open the flash fiction piece I made|content
 Bring my morning thought log|content
-Where’s my habit tracker data entry?|content
+Where's my habit tracker data entry?|content
 Show me my past writing journal|content
 Get the motivational message I saved|content
 Access my collection of life goals|content
 Open that tweet draft I saved earlier|content
 Pull the piece about mental clarity|content
-Load my list of things I’m grateful for|content
+Load my list of things I'm grateful for|content
 Open the work-in-progress doc I named “focus”|content
 Bring up my dream journal notes|content
 Access the idea map I made yesterday|content
-Let’s view the thoughts I drafted after dinner|content
+Let's view the thoughts I drafted after dinner|content
 Get that quote I was writing about passion|content
 Check my list of content ideas for April|content
 Open the daily log I updated last|content
@@ -3751,7 +4713,7 @@ Access the doc I saved under “Morning Clarity”|content
 Find the stuff I was journaling last week|content
 Show me my self-reflection entry|content
 Pull the brainstorming session notes|content
-Let’s open my latest content archive|content
+Let's open my latest content archive|content
 
 display the article|content
 fetch the blog post|content
@@ -3790,7 +4752,7 @@ what are the best apps for habit tracking|content
 show me a tutorial on drone photography|content
 open an article on the future of renewable materials|content
 give me a list of popular space exploration documentaries|content
-what’s trending in minimalist lifestyle blogs|content
+what's trending in minimalist lifestyle blogs|content
 show me a guide on sustainable fashion DIY|content
 open a list of viral social media marketing strategies|content
 give me trending recipes for keto snacks|content
@@ -3798,7 +4760,7 @@ what are the latest trends in augmented reality games|content
 show me a tutorial on podcast editing software|content
 open an article about AI ethics|content
 give me a list of top meditation retreats in 2025|content
-what’s popular in zero-waste living tips|content
+what's popular in zero-waste living tips|content
 show me a guide to creating digital vision boards|content
 open a list of trending cryptocurrency news|content
 give me trending ideas for home workout challenges|content
@@ -3806,7 +4768,7 @@ what are the best eco-conscious travel destinations|content
 show me a tutorial on graphic design basics|content
 open an article on advances in battery technology|content
 give me a list of popular online art galleries|content
-what’s trending in sustainable seafood recipes|content
+what's trending in sustainable seafood recipes|content
 show me a guide on mindful journaling|content
 open a list of viral tech startup success stories|content
 give me trending tips for self-care routines|content
@@ -3814,7 +4776,7 @@ what are the latest trends in voice assistant tech|content
 show me a tutorial on making animated GIFs|content
 open an article about the impact of 5G|content
 give me a list of top-rated virtual reality experiences|content
-what’s popular in eco-friendly home cleaning products|content
+what's popular in eco-friendly home cleaning products|content
 show me a guide on mastering TikTok content creation|content
 open a list of trending online fitness influencers|content
 give me trending ideas for digital nomad lifestyles|content
@@ -3822,7 +4784,7 @@ what are the best apps for creative writing|content
 show me a tutorial on smartphone videography|content
 open an article about climate change activism|content
 give me a list of popular mindfulness podcasts|content
-what’s trending in plant-based skincare products|content
+what's trending in plant-based skincare products|content
 show me a guide to remote work productivity|content
 open a list of viral viral marketing campaigns|content
 give me trending tips for sustainable gardening|content
@@ -3885,7 +4847,7 @@ Summarize this podcast episode in three bullet points|content
 Rewrite this product description to target a younger audience|content
 Produce a weekly email template for content updates|content
 Generate fifteen tag suggestions for an Etsy shop listing|content
-Draft a blog post about overcoming writer’s block|content
+Draft a blog post about overcoming writer's block|content
 Write an engaging opener for an email cold outreach|content
 Create a newsletter intro for a monthly tech digest|content
 Compose a poem about spring in eight lines|content
@@ -3918,7 +4880,7 @@ Jot a quirky description for my Instagram bio|content
 Draw up a paragraph for a food delivery ad|content
 Build a sentence that hooks readers instantly|content
 Mold a tagline for a minimalist furniture brand|content
-Arrange talking points for a founder’s speech|content
+Arrange talking points for a founder's speech|content
 Formulate a summary of our weekly team wins|content
 Craft a punchline for a meme about coffee addiction|content
 Type a line that promotes daily journaling|content
@@ -4018,7 +4980,7 @@ Bring some rhythm to this list of travel tips|content
 Give color to this bland feature list|content
 Work this CTA to inspire sharing not just clicks|content
 Link this blog to our mission in one authentic line|content
-Give a weekend post idea that’s laid-back but clever|content
+Give a weekend post idea that's laid-back but clever|content
 Add depth to this otherwise flat announcement|content
 Spice this “how it started” caption with some irony|content
 Make this line more meme-friendly|content
@@ -4027,7 +4989,7 @@ Pick a phrase that ends a story without being dramatic|content
 Drop a vibe-heavy opener for a sunset reel|content
 Give texture to a basic “before and after” story caption|content
 Push this copy to sound more playful, less polished|content
-Drop a smooth retort for a customer’s kind review|content
+Drop a smooth retort for a customer's kind review|content
 Invent a cozy way to start a seasonal post|content
 Form a flowy caption that fits a lifestyle carousel|content
 Twist this FAQ into a fun fact style format|content
@@ -4084,8 +5046,8 @@ Give this offer line a clever slant|content
 Rethink this entire blurb for a voice AI tool|content
 Position this as a secret tip from a “pro”|content
 Form a hype-heavy headline for a surprise drop|content
-Take this update and filter it through a gamer’s tone|content
-Reframe this caption like it’s a lyric|content
+Take this update and filter it through a gamer's tone|content
+Reframe this caption like it's a lyric|content
 Match a tone of "sarcastic but smart" for this review|content
 Tidy this sentence into something tweetable|content
 Put a smile in this boring refund policy snippet|content
@@ -4116,7 +5078,7 @@ Give this carousel intro a movie trailer vibe|content
 Offer a way to ask a question without sounding needy|content
 Suggest a mic-drop phrase to close a speech clip|content
 Reframe this point using a metaphor that involves travel|content
-Shape a quote post that doesn’t feel cliché|content
+Shape a quote post that doesn't feel cliché|content
 Invent a clever out-of-office message for creatives|content
 Give this app store description some edge and rhythm|content
 Arrange a paragraph promoting our affiliate program|content
@@ -4127,12 +5089,12 @@ Weave a celebratory line for our app hitting 1M users|content
 Deliver two catchy taglines for an eco-brand|content
 Write a bit of poetry to launch our merch drop|content
 Invent an outro that feels cinematic for a farewell video|content
-Put together FAQs for our online store’s homepage|content
+Put together FAQs for our online store's homepage|content
 Mash up a call-to-action that suits a techie crowd|content
 Hit me with a line that teases our next blog post|content
 Rethink this product headline to sound less corporate|content
 Help finish this sentence with a fun twist: “Success is…”|content
-Suggest one-liners for a dating app’s homepage|content
+Suggest one-liners for a dating app's homepage|content
 Work some magic on our intro email to new clients|content
 Give me a subtitle for a YouTube doc on digital privacy|content
 Pair this image with a caption that stirs emotion|content
@@ -4146,7 +5108,7 @@ Customize this alert message to sound less robotic|content
 Lay down a brief opening for a virtual event invite|content
 Pull phrases that fit our brand voice: bold, witty, fresh|content
 Remix this mission statement to feel more inclusive|content
-Mock up a lead-in for our weekly founder’s blog|content
+Mock up a lead-in for our weekly founder's blog|content
 Edit this copy to suit a Gen Z audience|content
 Style this CTA so it nudges without sounding pushy|content
 Make a clever prompt for our community writing challenge|content
@@ -4156,7 +5118,7 @@ Forge a closing remark that encourages user feedback|content
 show me a tutorial on creating virtual backgrounds|content
 open an article on advances in health tech|content
 give me a list of popular sustainable brands|content
-what’s trending in online education platforms|content
+what's trending in online education platforms|content
 show me a guide on creating engaging blog content|content
 open a list of top influencers in mental wellness|content
 show me a new article|content
@@ -4378,29 +5340,29 @@ tell me today's date|google search
 Google who invented bubble wrap|google search
 Look up how long cats live|google search
 Can you search what time it is in Tokyo?|google search
-Check who’s the richest athlete alive|google search
+Check who's the richest athlete alive|google search
 Hey, find me some info on AI girlfriends|google search
 Search for signs of burnout|google search
-What’s that thing called when you forget mid-sentence?|google search
+What's that thing called when you forget mid-sentence?|google search
 Find me a list of Studio Ghibli movies|google search
 Just Google symptoms of vitamin D deficiency|google search
 Pull up the meaning of dream where teeth fall out|google search
 Search if snakes sleep with their eyes open|google search
-Can you check what’s trending in tech news?|google search
+Can you check what's trending in tech news?|google search
 Look up how to boil an egg perfectly|google search
 Search for top universities in India|google search
 Find who wrote the Witcher books|google search
 Google this: best budget phones 2025|google search
 What does it mean when a cat blinks slowly?|google search
 Search for recent Nobel Prize winners|google search
-Yo, what’s the height of Mount Everest?|google search
+Yo, what's the height of Mount Everest?|google search
 Tell me who won the cricket match yesterday|google search
 Look for Elon Musk memes origin|google search
 Search top 10 sci-fi books of all time|google search
 Google how much sleep is actually needed|google search
 Find when monsoon hits Assam this year|google search
 Search the difference between AI and ML|google search
-What’s the name of that black hole picture guy?|google search
+What's the name of that black hole picture guy?|google search
 Hey, look up lyrics for Despacito|google search
 Find a list of startup funding platforms|google search
 Search the meaning of word “sonder”|google search
@@ -4428,29 +5390,29 @@ Look up the fastest animal on land|google search
 Google who invented bubble wrap|google search
 Look up how long cats live|google search
 Can you search what time it is in Tokyo?|google search
-Check who’s the richest athlete alive|google search
+Check who's the richest athlete alive|google search
 Hey, find me some info on AI girlfriends|google search
 Search for signs of burnout|google search
-What’s that thing called when you forget mid-sentence?|google search
+What's that thing called when you forget mid-sentence?|google search
 Find me a list of Studio Ghibli movies|google search
 Just Google symptoms of vitamin D deficiency|google search
 Pull up the meaning of dream where teeth fall out|google search
 Search if snakes sleep with their eyes open|google search
-Can you check what’s trending in tech news?|google search
+Can you check what's trending in tech news?|google search
 Look up how to boil an egg perfectly|google search
 Search for top universities in India|google search
 Find who wrote the Witcher books|google search
 Google this: best budget phones 2025|google search
 What does it mean when a cat blinks slowly?|google search
 Search for recent Nobel Prize winners|google search
-Yo, what’s the height of Mount Everest?|google search
+Yo, what's the height of Mount Everest?|google search
 Tell me who won the cricket match yesterday|google search
 Look for Elon Musk memes origin|google search
 Search top 10 sci-fi books of all time|google search
 Google how much sleep is actually needed|google search
 Find when monsoon hits Assam this year|google search
 Search the difference between AI and ML|google search
-What’s the name of that black hole picture guy?|google search
+What's the name of that black hole picture guy?|google search
 Hey, look up lyrics for Despacito|google search
 Find a list of startup funding platforms|google search
 Search the meaning of word “sonder”|google search
@@ -4486,57 +5448,54 @@ what's the live bitcoin price?|google search
 show me the current NASDAQ index value.|google search
 give me live cricket scores|google search
 show me the current traffic on I-95|google search
-what’s the air quality index in Delhi now?|google search
+what's the air quality index in Delhi now?|google search
 get me the latest COVID-19 stats worldwide|google search
 show real-time updates for the NBA game|google search
 what time is sunset today in London?|google search
 fetch live updates on the stock market|google search
 track the price of Ethereum now|google search
 show me breaking news headlines|google search
-how’s the traffic around Times Square?|google search
+how's the traffic around Times Square?|google search
 get me the current exchange rate USD to EUR|google search
-what’s the pollen count in Los Angeles today?|google search
+what's the pollen count in Los Angeles today?|google search
 show live updates of the Formula 1 race|google search
 track package delivery status now|google search
 get current tide timings for San Francisco|google search
-what’s the temperature on Mars today?|google search
+what's the temperature on Mars today?|google search
 show me live updates for the Oscars ceremony|google search
 get me real-time COVID vaccine availability|google search
-what’s the humidity level in Singapore?|google search
+what's the humidity level in Singapore?|google search
 show live football scores from the EPL|google search
 track the current price of gold per ounce|google search
-what’s happening with the volcano eruption right now?|google search
+what's happening with the volcano eruption right now?|google search
 show me the current moon phase|google search
 give me the latest earthquake alerts|google search
-what’s the crowd size at Central Park now?|google search
+what's the crowd size at Central Park now?|google search
 get live updates on the wildfire situation|google search
 show me the current status of my flight|google search
 track the current solar flare activity|google search
-what’s the live update on political protests?|google search
+what's the live update on political protests?|google search
 get me the current queue time at the airport|google search
 show me the latest traffic accidents reported|google search
-what’s the current water level in the Nile?|google search
+what's the current water level in the Nile?|google search
 track live updates of NBA draft picks|google search
-what’s the current wind speed in Tokyo?|google search
+what's the current wind speed in Tokyo?|google search
 show me live COVID infection rate trends|google search
 get real-time data on global carbon emissions|google search
-what’s the current opening price of Tesla stock?|google search
+what's the current opening price of Tesla stock?|google search
 show me the latest weather warnings in Texas|google search
 track live concert ticket availability|google search
-what’s the current UV index in Miami?|google search
+what's the current UV index in Miami?|google search
 show me real-time traffic camera feeds|google search
 get live scores for Wimbledon matches|google search
-what’s the live broadcast schedule for Eurovision?|google search
+what's the live broadcast schedule for Eurovision?|google search
 show me the current fuel price in my city|google search
 track live updates for the NBA playoffs|google search
-what’s the latest sports injury news?|google search
+what's the latest sports injury news?|google search
 get me the current status of my online order|google search
 show live updates of the presidential debate|google search
 is flight AI202 delayed at the moment?|google search
 track live train 225 schedule status.|google search
-get real-time CPU usage percentage.|google search
-fetch live memory consumption on server1.|google search
-what's my Wi-Fi speed right now?|google search
 are there any new urgent entries in syslog?|google search
 show me live network latency stats.|google search
 give live traffic congestion levels in Bangalore.|google search
@@ -4575,7 +5534,7 @@ get real-time energy output from solar plant.|google search
 how many agents are online in chat support now?|google search
 track parcel delivery status for AWB123.|google search
 what's the current disk-space utilization on DB01?|google search
-show live network‐bandwidth usage.|google search
+show live network-bandwidth usage.|google search
 what's the prevailing wind direction right now?|google search
 show me live road-speed camera violations.|google search
 what's the real-time sentiment score for BrandX?|google search
@@ -4837,7 +5796,335 @@ do I need gloves today?|google search
 can I go jogging now?|google search
 any storms expected today?|google search
 how long until sunset?|google search
+Can you search Google for the latest iPhone specs?|google search
+Open a browser and look up flu symptoms|google search
+Search online for cold coffee recipes|google search
+Show me a website that explains quantum computing|google search
+Find a good article on climate change on the web|google search
+Google the meaning of recursion for me|google search
+Search on Google: best colleges in India|google search
+What’s the browser result for 'how to fix a flat tire'?|google search
+I need a web link to rent movies online|google search
+Find a webpage that talks about keto diet|google search
+Check Google and tell me who invented algebra|google search
+Pull up a website with top AI tools|google search
+Search the web for Python decorators tutorial|google search
+Browse and tell me the capital of Hungary|google search
+Google the latest news on the Mars mission|google search
+Search for a PDF explaining neural networks|google search
+Open a search page and look up indie horror books|google search
+Tell me what Google says about Indian mythology|google search
+Find a link to download Ubuntu|google search
+Search for job listings in Golaghat on the internet|google search
+Use Google to find famous surrealist painters|google search
+Hit the browser and search up Elon Musk’s latest tweet|google search
+Get me the search result for “who owns ChatGPT”|google search
+Can you web-search cricket live score?|google search
+Show a browser result for causes of inflation|google search
+Look up how to build a resume using Google|google search
+Search a trustworthy website for mutual fund basics|google search
+Google: symptoms of vitamin D deficiency|google search
+Find a page on internet history timeline|google search
+Search Google for pet-friendly hotels near me|google search
+Search for cheap flights on Google|google search
+Open the browser and look up stock market trends|google search
+Find a website that sells handmade pottery|google search
+Google search for free online coding courses|google search
+Pull up a link to download the latest Android update|google search
+Use Google to search for healthy smoothie recipes|google search
+Search online for daily horoscope readings|google search
+Open Google and look up local weather forecast|google search
+Find me a webpage about the history of jazz|google search
+Search Google for tips on time management|google search
+What’s the browser result for “best meditation apps”?|google search
+Google a tutorial on knitting a scarf|google search
+Look up a site that compares car insurance rates|google search
+Search the web for vegan dinner ideas|google search
+Find a link to the official Python documentation|google search
+Search for a website showing world population stats|google search
+Google “how to start a podcast” for me|google search
+Open Google and search for soil testing labs near me|google search
+Pull up a browser result for the latest Nobel Prize winners|google search
+Look up a PDF of Shakespeare’s Sonnets|google search
+Use Google to find open-source image editors|google search
+Search online for best practices in UX design|google search
+Find a website that teaches basic guitar chords|google search
+Google search for top-rated laptops under $500|google search
+Open a browser and search for mindfulness exercises|google search
+Search the web for famous architectural landmarks|google search
+Look up a link to register for a Udemy course|google search
+Search Google for movie showtimes near Golaghat|google search
+Find a webpage listing public holidays in India|google search
+Search Google for latest breakthroughs in AI|google search
+Open the browser and look up “how to write a resume”|google search
+Find a website with free stock photos|google search
+Search Google for vegetarian meal plans|google search
+Pull up a link to download VLC media player|google search
+Use Google to find yoga class schedules|google search
+Search online for beginner’s guide to Bitcoin|google search
+Look up a trusted website for mental health resources|google search
+Search Google for the recipe to make sourdough bread|google search
+Open Google and search for “best podcasts about history”|google search
+Find a link to subscribe to a science newsletter|google search
+Search the web for remote job openings|google search
+Use Google to search for free online puzzles|google search
+Search Google for wildlife conservation organizations|google search
+Open the browser and search for local recycling centers|google search
+Find a webpage on basic first aid procedures|google search
+Search Google for distance between Delhi and Mumbai|google search
+Look up a website that tracks space launches|google search
+Search the web for guide to birdwatching|google search
+Google search for secrets of magic tricks|google search
+Open Google and search for guitar tab for “Imagine”|google search
+Find a link to download the EPUB of “1984”|google search
+Search online for best eco-friendly products|google search
+Use Google to find TED Talks on leadership|google search
+Search Google for tips on public speaking|google search
+Look up a site for free online chess games|google search
+Find a webpage detailing DIY home repairs|google search
+Search the web for top travel blogs|google search
+Open Google and search for “how to fix a leaky faucet”|google search
+Find a link to donate to literacy programs|google search
+Search Google for local farmers’ markets|google search
+Open a browser and look up free language exchange sites|google search
+Search the web for sustainable fashion brands|google search
+Google search for guide to composting at home|google search
+Find a webpage about marine biology research|google search
+Search online for best RPG video game reviews|google search
+Use Google to search for art galleries in London|google search
+Search Google for the formula of table salt|google search
+Search Google for symptoms of dengue fever|google search
+Look up a browser link about solar panel installation|google search
+Search for websites teaching French for beginners|google search
+Google the distance between Earth and Mars|google search
+Find me a trusted link about earthquake safety|google search
+Search Google for top web design portfolios|google search
+Look up government schemes for small businesses|google search
+Search online for how to register a domain name|google search
+Pull up a web page explaining VPN benefits|google search
+Find a blog post on effective journaling|google search
+Use Google to check train times to Guwahati|google search
+Search for a PDF on computer architecture|google search
+Google search for electric vehicle charging stations|google search
+Open a browser and search for bullet journal ideas|google search
+Search the internet for keyboard shortcuts in Excel|google search
+Look up best places to stay in Shillong|google search
+Search for an academic paper on climate anxiety|google search
+Search Google for tax filing deadlines in India|google search
+Find a trustworthy article on parenting advice|google search
+Open Google and look up symptoms of burnout|google search
+Search the web for rules of badminton|google search
+Google: benefits of drinking more water|google search
+Find me a website comparing broadband plans|google search
+Search online for book summary of “Atomic Habits”|google search
+Look up how to get a passport in India|google search
+Use Google to search for internship opportunities|google search
+Search Google for recipes without sugar|google search
+Find a blog that teaches productivity hacks|google search
+Google “how to check internet speed”|google search
+Search a website for types of logical fallacies|google search
+Open Google and look up public speaking tips|google search
+Look for a webpage on dog breeds for apartments|google search
+Search Google for latest cricket world cup stats|google search
+Find a downloadable guide on ethical hacking|google search
+Look up online voting eligibility rules|google search
+Use Google to find quick dinner recipes|google search
+Search for the top news sites in India|google search
+Google the definition of quantum entanglement|google search
+Search Google for best free cloud storage apps|google search
+Find a link about the cultural history of Assam|google search
+Search online for wildlife sanctuaries in India|google search
+Look up a reliable source on the stock market crash|google search
+Find a web article about mindfulness for teens|google search
+Search Google for official football rules|google search
+Use Google to find downloadable resume templates|google search
+Open a browser and look for top freelancing websites|google search
+Google: how to check Aadhaar card status|google search
+Search online for pros and cons of remote work|google search
+Find a website that teaches digital drawing|google search
+Look up official site of National Digital Library|google search
+Open Google and search for career coaching programs|google search
+Look up a website selling vintage records|google search
+Find a link to access the WHO health guidelines|google search
+Search the web for tips on writing fiction|google search
+Search Google for city bike rental services|google search
+Open a browser and search for “how to make kombucha”|google search
+Find a webpage listing endangered species|google search
+Search online for podcast hosting platforms|google search
+Use Google to find local gym membership deals|google search
+Search the web for digital marketing strategies|google search
+Open Google and search for beginner photography tutorials|google search
+Find a link to stream live cricket matches|google search
+Search Google for tips on minimalistic living|google search
+Open a browser and look up the origin of the piano|google search
+Find a website that tracks cryptocurrency prices|google search
+Search the web for cloud storage services comparison|google search
 I need the date with time|google search
+Lock the screen now|system
+Restart my PC right away|system
+Shut down everything, now|system
+Turn off the computer completely|system
+Reboot the entire system|system
+Put the device to sleep|system
+Initiate system restart, please|system
+Can you log me out?|system
+Make the display go dark|system
+Hibernate the laptop|system
+Trigger system shutdown|system
+Mute all system sounds|system
+Boost the volume to max|system
+Lower the brightness a bit|system
+Access the control panel|system
+Switch off the desktop|system
+Open system preferences|system
+Turn on airplane mode|system
+Enable dark mode|system
+Start the maintenance process|system
+Lock the screen now|system
+Restart my PC right away|system
+Shut down everything, now|system
+Turn off the computer completely|system
+Reboot the entire system|system
+Put the device to sleep|system
+Can you log me out?|system
+Make the display go dark|system
+Hibernate the laptop|system
+Mute all system sounds|system
+Boost the volume to max|system
+Lower the brightness a bit|system
+Access the control panel|system
+Switch off the desktop|system
+Open system preferences|system
+Turn on airplane mode|system
+Enable dark mode|system
+Start the maintenance process|system
+Shut down the OS now|system
+Adjust the screen resolution|system
+Drop the volume by 30%|system
+Silence all notifications|system
+Put my computer into sleep mode|system
+Kill all background processes|system
+Launch system update manager|system
+Apply night light filter|system
+Open up device settings|system
+Disable Bluetooth completely|system
+Disconnect all peripherals|system
+Force restart the system|system
+Check for system updates|system
+Block all pop-up alerts|system
+Turn off Wi-Fi|system
+Log out from this user account|system
+Activate do not disturb mode|system
+Stop background syncing|system
+Power down the entire unit|system
+Lock everything right now|system
+Wake the system from sleep|system
+Drop the screen timeout to 1 min|system
+Switch power mode to saver|system
+Exit full screen and lock|system
+Pull up the system dashboard|system
+Restart all services|system
+Reset the network settings|system
+Force quit everything and reboot|system
+Go to battery settings|system
+Shut down and lock|system
+Optimize the system memory|system
+Scan for threats in system files|system
+Clean up disk space|system
+Pause all active tasks|system
+Disable the camera|system
+Kill non-essential processes|system
+Run a system diagnostics check|system
+Trigger emergency shutdown|system
+Reload OS modules|system
+Start auto-repair sequence|system
+Clear all RAM cache|system
+Unplug virtual drives|system
+Deactivate GPS sensor|system
+Reduce CPU usage|system
+Boost GPU for performance|system
+Switch graphics mode|system
+Launch BIOS settings|system
+End all user sessions|system
+Open device manager|system
+Turn on power saving|system
+Access terminal for system commands|system
+Switch workspace view|system
+Kill all tabs and reboot|system
+Exit user session and lock|system
+Apply system tweaks now|system
+Go silent mode system-wide|system
+Change system font size|system
+Move to safe mode|system
+Pause all OS activities|system
+Restore factory defaults|system
+Abort current OS state|system
+Show system logs|system
+Launch settings menu|system
+Mute every single app|system
+Shut off microphone access|system
+Force a hard reboot|system
+Block background data|system
+Refresh drivers|system
+Change performance settings|system
+Exit current mode and restart|system
+Open accessibility options|system
+Restart in safe config|system
+Trigger admin control|system
+Open network control panel|system
+Shutdown with no prompts|system
+Reboot silently|system
+Turn off notifications across system|system
+Restart everything from scratch|system
+Power off the machine immediately|system
+Lock the workstation now|system
+Reduce the screen brightness drastically|system
+Set volume to 50 percent|system
+Switch off the device manually|system
+Put this system on standby|system
+Initiate shutdown protocol|system
+Engage screen lock right away|system
+Open system configuration panel|system
+Launch advanced settings|system
+Activate system control center|system
+Power cycle the device|system
+Do a clean system reboot|system
+Switch user and lock screen|system
+Put the system into low-power mode|system
+Silence the system instantly|system
+Dim the screen a little|system
+Change wallpaper through system|system
+Reopen system services|system
+Pause operating system temporarily|system
+Enable firewall protection|system
+Open task manager window|system
+End all sessions securely|system
+Switch off automatic updates|system
+Reconnect system audio|system
+Trigger hardware diagnostics|system
+Flush DNS cache|system
+Toggle safe mode boot|system
+Enable developer options|system
+Restart the graphic server|system
+Clear system log files|system
+Initiate root access tools|system
+Start BIOS recovery|system
+Lock down the entire device|system
+Put PC to hibernate state|system
+Reconnect Wi-Fi via system settings|system
+Shut down via command line|system
+Trigger OS maintenance|system
+Put screen in grayscale mode|system
+Apply quiet hours mode|system
+Show battery usage stats|system
+Switch thermal mode to performance|system
+Restrict background activity|system
+Start user account control|system
+Reconfigure time and date settings|system
+Access boot menu options|system
+Max out system brightness|system
+Reboot into firmware settings|system
+Shut everything and sleep|system
 launch YouTube|system
 run the close_disk utility|system
 run system shutdown check (don't close apps)|system
@@ -4924,7 +6211,7 @@ Please shut down my laptop now|system
 Turn off the computer for me|system
 Restart the system and install updates|system
 Can you close all my open apps?|system
-Power off the device when you’re done|system
+Power off the device when you're done|system
 Run a full system scan and then reboot|system
 Start the system cleanup process|system
 Shut down after saving my work|system
@@ -5240,11 +6527,233 @@ open screenshot gallery|system
 scan system integrity|system
 run security check|system
 open permissions manager|system
+Put on something energetic, I need to hype up|play
+Fire up my chill beats playlist|play
+Let's jam to some retro hits|play
+Start the party mix, now|play
+Queue my driving playlist, let’s roll|play
+Give me something lo-fi to vibe to|play
+Launch some upbeat tracks for the mood|play
+Play that song I looped yesterday|play
+Spin some classical tunes for focus|play
+Hit me with that workout mix|play
+Can you shuffle my top tracks?|play
+Start my evening jazz routine|play
+Get those 90s bangers going|play
+Let’s get some ambient rain sounds|play
+Play something to help me study|play
+Time for some dark academia vibes|play
+Drop that new rap track by Drake|play
+Play the audio from that comedy podcast|play
+Run the full album from Taylor Swift|play
+Kick off my meditation playlist|play
+Spin up some K-pop hits|play
+Drop the weekend chill mix|play
+Turn on music that’s good for coding|play
+Start those live concert recordings|play
+Just surprise me with a random song|play
+Wake me up with some loud rock|play
+Play me some synthwave magic|play
+Throw in a mix of Hindi romantic songs|play
+I’m in a sad boy mood — music please|play
+Stream that acoustic set you found|play
+Put on the latest trending tunes|play
+Let’s blast some motivational songs|play
+Play something loud and chaotic|play
+Boot up that playlist with frogs and rain|play
+Let’s go with some indie pop|play
+Crank up those Afro beats|play
+Give me background music for cooking|play
+Start the horror podcast — I’m ready|play
+Give me cozy instrumental tunes|play
+Play that viral reel sound|play
+I need movie scores to write to|play
+Just loop my liked songs forever|play
+Play whatever I played this morning|play
+Shuffle my “Focus Flow” list|play
+Cue that epic trailer music|play
+Let’s blast roadtrip songs|play
+Put on tracks for cleaning the house|play
+Play the anthem I always headbang to|play
+Let’s go with soft piano melodies|play
+Start the Bollywood dance bangers|play
+Play something with a heavy bass|play
+Put on emotional instrumental vibes|play
+Give me theme songs from TV shows|play
+Hit me up with some old school hip-hop|play
+Start the Sunday morning chill playlist|play
+Crank some heavy metal to wake me up|play
+Put on smooth R&B vibes for tonight|play
+Spin the top charts from this week|play
+Play something to get me pumped for the gym|play
+Queue up my favorite podcasts|play
+Launch some reggae for the beach day|play
+Drop the soundtrack from Inception|play
+Give me tunes for a romantic dinner|play
+Play a mix of summer hits and classics|play
+Start that jazzy coffee shop playlist|play
+Turn on upbeat pop to boost my mood|play
+Play that song with the catchy chorus|play
+Shuffle the indie rock collection|play
+Put on some folk music to relax|play
+Start a playlist for a road trip|play
+Play something with lots of guitar solos|play
+Throw on a bunch of electronic dance tracks|play
+Play the latest single by my favorite artist|play
+Cue up some motivational speeches with background music|play
+Let’s listen to some bluegrass tunes|play
+Put on some party anthems for tonight|play
+Play a selection of classical piano pieces|play
+Start a playlist of cover songs|play
+Play music from the 80s and 90s|play
+Turn on some chillwave beats|play
+Give me some ambient noise for deep focus|play
+Play a playlist of movie soundtracks|play
+Spin some upbeat Latin music|play
+Put on a mix for a yoga session|play
+Play songs with female vocals only|play
+Start a collection of vinyl-record-style tracks|play
+Play a mix of songs from video games|play
+Throw on some classic rock hits|play
+Put on some upbeat funk tunes|play
+Start the workout playlist with high tempo|play
+Play songs for a cozy rainy day|play
+Cue a playlist for creative writing|play
+Play some iconic protest songs|play
+Put on some traditional folk music|play
+Start the meditation music collection|play
+Play a playlist of acoustic guitar songs|play
+Throw on some experimental music|play
+Start a playlist for a summer barbecue|play
+Put on some electronic chillout music|play
+Play songs with strong bass lines|play
+Spin some smooth jazz for late night|play
+Play songs from indie artists only|play
+Put on a mix of songs in different languages|play
+Start a playlist for dancing around the house|play
 Could you start my favorite playlist?|play
+Play some music for me|play
+Start playing my workout playlist|play
+Play a romantic song|play
+Can you play lo-fi beats?|play
+Stream my favorite movie|play
+Play a stand-up comedy show|play
+Play the next episode of that series|play
+Put on some jazz|play
+Play a song from Imagine Dragons|play
+Can you stream a documentary?|play
+Play a video on space exploration|play
+Play something upbeat|play
+Launch the party playlist|play
+Start streaming anime episodes|play
+Play a chill instrumental track|play
+Play relaxing sounds|play
+Stream a thriller movie|play
+Play background music while I work|play
+Put on that action film I like|play
+Play some ambient rain sounds|play
+Start the latest episode of the podcast|play
+Can you play dance music?|play
+Play something acoustic|play
+Stream a cooking show|play
+Play the trailer of the new Marvel movie|play
+Play meditation music|play
+Fire up the 90s hits playlist|play
+Play audio from my favorites|play
+Play nature sounds to help me sleep|play
+Start the daily news podcast|play
+Play instrumental piano music|play
+Stream a motivational video|play
+Play Hindi songs|play
+Play a classical music piece|play
+Put on some EDM tracks|play
+Play audio from the last recording|play
+Play the intro music for the event|play
+Stream some background jazz|play
+Play bedtime lullabies|play
+Start my “focus mode” music|play
+Play the opening theme from Naruto|play
+Put on a fantasy movie|play
+Play some pop hits|play
+Stream a live concert|play
+Play chillhop beats|play
+Play a YouTube playlist of relaxing music|play
+Start playing cinematic background music|play
+Play the soundtrack of Inception|play
+Play the audio guide|play
+Stream a romantic comedy movie|play
+Play ambient café sounds|play
+Start the audiobook I downloaded|play
+Play a travel vlog video|play
+Put on a nature documentary|play
+Play the next queued song|play
+Play deep focus music|play
+Start an audio-only stream|play
+Play a bedtime story|play
+Play my saved songs|play
+Start the chill vibes playlist|play
+Stream the weekend mix|play
+Play the trailer of Dune|play
+Put on my favorite artist|play
+Play the latest music video|play
+Play that catchy song again|play
+Stream some ambient noise|play
+Play my top songs of the year|play
+Start the upbeat playlist|play
+Play the soundtrack from Interstellar|play
+Stream a relaxing spa playlist|play
+Play live radio|play
+Play the next song in the queue|play
+Start playing white noise|play
+Play the audio version of this article|play
+Play something from Spotify|play
+Stream a crime thriller episode|play
+Put on the morning podcast|play
+Play that YouTube song I liked|play
+Start a Netflix movie|play
+Play a soft instrumental track|play
+Stream my sleep playlist|play
+Play some indie rock music|play
+Start the bedtime audio playlist|play
+Play that old Bollywood song|play
+Stream a TED Talk video|play
+Play a loop of nature sounds|play
+Start playing the audio lecture|play
+Play something to help me focus|play
+Play music from my liked list|play
+Start the road trip playlist|play
+Play a YouTube short|play
+Stream my meditation mix|play
+Play a song with no lyrics|play
+Play a piano solo|play
+Stream an action film|play
+Play a classic rock song|play
+Start my gym playlist|play
+Play the song I played last night|play
+Stream a stand-up act from YouTube|play
+Play something energetic|play
+Play a video about space on YouTube|play
+Start the deep work soundtrack|play
+Play the voice note recording|play
+Stream a kids’ cartoon episode|play
+Play jazz and blues|play
+Start the driving mix|play
+Play a bedtime story audiobook|play
+Stream a relaxing ocean wave loop|play
+Play the intro music of the podcast|play
+Start the playlist for yoga|play
+Play lo-fi for study|play
+Play a nostalgic pop hit|play
+Stream an indie movie|play
+Play audio with ambient lighting sounds|play
+Start the next chapter of this audiobook|play
+Play a nature vlog video|play
+Stream the top chart songs|play
+Stream a music video|play
 Play some chill beats for me|play
 Start the latest episode of my podcast|play
 Queue up the new Drake track|play
-Let’s listen to some classic rock|play
+Let's listen to some classic rock|play
 Play my workout playlist|play
 Put on some jazz tunes|play
 Spin that new pop song|play
@@ -5256,7 +6765,7 @@ Hit play on the relaxing sounds|play
 Pump up the party music|play
 Play some 90s hip hop|play
 Start the audiobook from chapter five|play
-Play the highlights from yesterday’s game|play
+Play the highlights from yesterday's game|play
 Put on some Bollywood hits|play
 Play the news podcast|play
 Start the meditation session audio|play
@@ -5273,7 +6782,7 @@ Play the latest movie soundtrack|play
 Queue the top trending songs|play
 Start the radio station|play
 Play some electronic dance music|play
-Put on the kids’ playlist|play
+Put on the kids' playlist|play
 Play the documentary audio|play
 Spin the indie rock hits|play
 Play the audiobook for my book club|play
@@ -5501,7 +7010,7 @@ Play the reggae festival anthems|play
 Stream the piano jazz collection|play
 Pump the upbeat disco tracks|play
 Activate the alternative pop hits|play
-Unleash the classic rock ‘n’ roll|play
+Unleash the classic rock ‘n' roll|play
 Launch the ambient electronic mix|play
 Play the acoustic guitar session|play
 Fire off the soulful gospel tunes|play
@@ -6242,6 +7751,145 @@ suggest a movie|content
 tell me a poem|content
 tell me the news|content
 create a logo for an eco-friendly brand|generate image
+Generate an image of a futuristic city|generate image
+Create a realistic portrait of a robot|generate image
+Make an anime-style character with blue hair|generate image
+Show me a fantasy landscape in 3D art|generate image
+Generate AI art of a magical forest|generate image
+Create a cartoon image of a dancing cat|generate image
+Make a pencil sketch of an old castle|generate image
+Generate a sci-fi spaceship wallpaper|generate image
+Create a picture of a samurai in sunset|generate image
+Generate a horror-themed image in dark tones|generate image
+Make a pixel art of a jungle scene|generate image
+Create a surrealistic photo of time warping|generate image
+Generate a minimalist art of coffee cup|generate image
+Show me an image of mountains during sunrise|generate image
+Create a digital painting of a dragon|generate image
+Generate a vector graphic of city skyline|generate image
+Make a fantasy-themed desktop wallpaper|generate image
+Create a cartoon-style superhero image|generate image
+Generate an image of galaxy in deep space|generate image
+Make an AI-generated art of underwater world|generate image
+Create a drawing of a haunted house|generate image
+Generate a logo-style graphic for my username|generate image
+Make a vibrant poster image of street food|generate image
+Create a PNG of an astronaut floating in space|generate image
+Generate a neon cyberpunk alley picture|generate image
+Make a 3D render of a treasure chest|generate image
+Generate a horror mask photo with shadow effects|generate image
+Create a winter-themed greeting card image|generate image
+Make a photorealistic image of a wild lion|generate image
+Generate a sci-fi drone sketch in grayscale|generate image
+Create a dreamy cottage in the forest image|generate image
+Generate an illustration of a viking ship|generate image
+Make a line art of a mermaid underwater|generate image
+Generate an image of fireworks at midnight|generate image
+Create a symmetrical mandala art in JPG|generate image
+Generate AI art of a lonely planet|generate image
+Make a chalk drawing of a sunrise scene|generate image
+Create a pixel-style image of a wizard tower|generate image
+Generate a glowing fractal pattern in PNG|generate image
+Make a photo of a pirate ship in storm|generate image
+Create a portrait in Van Gogh style|generate image
+Generate a dragon flying over a volcano image|generate image
+Make a minimalist line art of a dancer|generate image
+Create a romantic scene with a moonlit lake|generate image
+Generate a comic book cover illustration|generate image
+Make a space station orbiting Saturn image|generate image
+Create a haunted forest photo with fog|generate image
+Generate a tattoo-style drawing of a phoenix|generate image
+Make a desert mirage effect visual|generate image
+Create a flower garden in watercolor style|generate image
+Generate a mythological creature concept art|generate image
+Make a jungle scene with exotic animals image|generate image
+Create a glowing jellyfish underwater image|generate image
+Generate a robot dog illustration in JPG|generate image
+Make a shadow art picture of a dancer|generate image
+Create a digital wallpaper with abstract shapes|generate image
+Generate an 8-bit knight character PNG|generate image
+Make an icy mountain landscape with northern lights|generate image
+Create a colorful graffiti-style background image|generate image
+Generate a blueprint-style drawing of a spaceship|generate image
+Create a fantasy castle with glowing lights|generate image
+Make an AI-generated image of a chessboard in hell|generate image
+Create a glowing digital snake wrapped around code|generate image
+Generate a wallpaper of retro neon vibes|generate image
+Make a low-poly landscape of mountains and lake|generate image
+Create a dark-themed photo of city at night|generate image
+Generate a gothic cathedral under storm clouds|generate image
+Make an image of a cracked earth apocalypse|generate image
+Create a sunset over Egyptian pyramids|generate image
+Generate a stylized graphic of Earth from space|generate image
+Create an enchanted forest glowing with mushrooms|generate image
+Make a cinematic render of a lost island|generate image
+Generate an oil painting of a shipwreck|generate image
+Create a dreamcore art piece with floating clocks|generate image
+Generate a portrait of a cyborg with red eyes|generate image
+Make a glowing orb floating over lava|generate image
+Create an ancient scroll background JPG|generate image
+Generate a scenic photo of cherry blossoms falling|generate image
+Make an abstract fluid art wallpaper|generate image
+Create a knight in golden armor standing in fog|generate image
+Generate a galaxy shaped like a dragon|generate image
+Make a rainbow jungle full of strange animals|generate image
+Create a low-light cave scene with crystals|generate image
+Generate a postcard-style image of Paris|generate image
+Create a haunted amusement park concept art|generate image
+Make a claymation-style photo of dancing vegetables|generate image
+Generate a punk-rock band poster art|generate image
+Create a fairy-tale village surrounded by candy|generate image
+Make a high-resolution dragon eye PNG|generate image
+Create a robot with flowers growing from its chest|generate image
+Generate a surreal collage of clocks and windows|generate image
+Make a sketch of an owl wearing glasses|generate image
+Create a digital comic strip of a cat detective|generate image
+Generate a dreamscape full of floating staircases|generate image
+Create a monster breaking through a screen effect|generate image
+Make a graffiti wall covered in AI tags|generate image
+Generate a vibrant doodle of a flying burger|generate image
+Create a zoomed-in texture of dragon scales|generate image
+Make a mystical cave temple in 4K art|generate image
+Generate a floating city with airships|generate image
+Create a thunderstorm scene over the ocean|generate image
+Make an abstract wallpaper in teal and gold|generate image
+Generate a haunted mirror photo effect|generate image
+Create a child’s drawing turned into 3D art|generate image
+Make a Viking battle scene with fire and axes|generate image
+Generate a stitched embroidery image of flowers|generate image
+Create an album cover with vaporwave vibes|generate image
+Make a post-apocalyptic town in sepia tone|generate image
+Generate a night market in anime style|generate image
+Create a cyberpunk skyline with reflections|generate image
+Make a glass orb reflecting a fantasy forest|generate image
+Generate an underwater temple scene|generate image
+Create a digital art image of a flying whale|generate image
+Make a book cover for a sci-fi novel|generate image
+Generate a photorealistic image of a tornado|generate image
+Create a portal to another world glowing in blue|generate image
+Make a medieval castle under aurora lights|generate image
+Generate a landscape with two suns and no shadows|generate image
+Create a zombie dog chasing a robot cat image|generate image
+Make a mushroom cloud in pastel colors|generate image
+Generate a steam train floating above clouds|generate image
+Create a mystical garden with glowing roses|generate image
+Make a photo collage of AI icons and wires|generate image
+Generate a graffiti art of a rebel android|generate image
+Create a sticker-style image of fruits with faces|generate image
+Make a pixel-art pirate ship in a storm|generate image
+Generate a thunder lion with electric mane|generate image
+Create a 4K render of time frozen mid-battle|generate image
+Make a photorealistic haunted doll image|generate image
+Generate a symbolic image of freedom using wings|generate image
+Create a sketch of an ancient mechanical beast|generate image
+Make a fantasy crown with floating crystals|generate image
+Generate a neon triangle portal in a forest|generate image
+Create a wireframe model of a dragon in space|generate image
+Make an origami-style paper tiger image|generate image
+Generate a glitch-art wallpaper with broken pixels|generate image
+Create a cave entrance shaped like a lion’s mouth|generate image
+Make a steampunk airship in motion JPG|generate image
+Generate a scenic beach view in oil painting style|generate image
 google search for nearest restaurants|google search
 Can you create a picture of a serene mountain landscape?|generate image
 I'd like an illustration of a futuristic city skyline at night.|generate image
@@ -6433,7 +8081,7 @@ Show me a digital artwork of an anime character in action|generate image
 Produce a moody painting of a stormy ocean|generate image
 Create a poster of a sci-fi time travel concept|generate image
 Design a graphic of a dragon curled around a mountain peak|generate image
-I’d like a painting of an owl flying at night|generate image
+I'd like a painting of an owl flying at night|generate image
 Make a visual of a pirate treasure map on old parchment|generate image
 Sketch a zen-inspired interior space|generate image
 Please generate a fantasy-style tavern scene|generate image
@@ -6444,9 +8092,9 @@ I want a cinematic shot of a giant whale swimming underwater|generate image
 Design a picture of a mythical underwater kingdom|generate image
 Illustrate a tea garden at sunrise in Japan|generate image
 Make an image of a retro diner in the 1950s|generate image
-Draw a child’s crayon-style picture of a sunny day|generate image
+Draw a child's crayon-style picture of a sunny day|generate image
 Produce a visual of an icy arctic expedition|generate image
-Create a sketched concept of a steampunk inventor’s lab|generate image
+Create a sketched concept of a steampunk inventor's lab|generate image
 Design a comic panel of a villain monologuing|generate image
 Can you draw a spaceship docked at a spaceport?|generate image
 Make a fantasy landscape with glowing mushrooms and fairies|generate image
@@ -6474,7 +8122,7 @@ Make a sci-fi drone flying above a futuristic cityscape|generate image
 Sketch a mother and child watching fireworks|generate image
 Generate a dreamy landscape with purple skies and tall trees|generate image
 Create an image of a bakery filled with pastries|generate image
-Draw a concept art of a villain’s secret lair|generate image
+Draw a concept art of a villain's secret lair|generate image
 Design a chalkboard-style diagram of a fictional invention|generate image
 Give me a neon signboard design that says “Chill Zone”|generate image
 Create a watercolor image of autumn leaves falling|generate image
@@ -6484,7 +8132,7 @@ Generate a low-poly style landscape of hills and valleys|generate image
 Draw a crystal cave glowing with blue light|generate image
 Show a night market with street food stalls and crowds|generate image
 Make a design of an old western saloon in sunset light|generate image
-Create a children’s book-style page of animals in the jungle|generate image
+Create a children's book-style page of animals in the jungle|generate image
 Produce a comic strip of a dog and cat being roommates|generate image
 Paint a magical winter night scene with snowflakes and stars|generate image
 Give me a doodle-style drawing of a flying turtle|generate image
@@ -6801,7 +8449,7 @@ top 10 most searched topics 2025|google search
 duckduckgo|google search
 google drive|google search
 ikea|google search
-mcdonald’s|google search
+mcdonald's|google search
 pizza hut|google search
 starbucks|google search
 taco bell|google search
@@ -6935,26 +8583,262 @@ search for AI in robotics|google search
 find blogs on artificial intelligence for beginners|google search
 search for Python machine learning frameworks|google search
 remind me to close the shop at 6|reminder
-set a ping for tomorrow’s dentist thing|reminder
-don’t let me forget my mom’s birthday, okay?|reminder
+set a ping for tomorrow's dentist thing|reminder
+don't let me forget my mom's birthday, okay?|reminder
+Remind me to call mom at 8 PM|reminder
+Set a reminder to water the plants every Monday|reminder
+Don't let me forget my dentist appointment tomorrow|reminder
+Add a reminder to email my professor tonight|reminder
+Remind me to feed the dog at 6 AM|reminder
+Schedule a reminder for laundry day this Friday|reminder
+Set a reminder for the Zoom meeting at 3 PM|reminder
+Let me know when it’s time to take my pills|reminder
+Remind me in 30 minutes to check the oven|reminder
+Add a reminder for dad’s birthday on June 2nd|reminder
+Tell me to study for my math test at 7 PM|reminder
+Set a recurring reminder for gym every morning|reminder
+Ping me tomorrow to return the library book|reminder
+Don’t let me miss the webinar on Saturday|reminder
+Create a reminder to renew my subscription next week|reminder
+Alert me when it’s time to leave for work|reminder
+Remind me to buy groceries after class|reminder
+Add a note to call the electrician at 10 AM|reminder
+Make sure I don’t forget to pay rent by the 5th|reminder
+Set a voice alert for the 2 PM client meeting|reminder
+Let me know in one hour to stretch my legs|reminder
+Remind me daily at 8 PM to write in my journal|reminder
+Add a reminder to pack for the trip on Thursday|reminder
+Make a reminder about my weekly coding challenge|reminder
+Tell me in 45 minutes to stop watching YouTube|reminder
+Set a birthday reminder for Aarav on July 9|reminder
+Remind me to submit the form before 5 PM|reminder
+Schedule a reminder for laundry pickup tomorrow|reminder
+Let me know at noon to call the insurance company|reminder
+Create a reminder to send the invoice next Monday|reminder
+Add a quick reminder to reply to Priya’s message|reminder
+Remind me next weekend to clean the garage|reminder
+Set a reminder to order groceries this evening|reminder
+Remind me every morning to take my supplements|reminder
+Don't forget to nudge me about coding practice|reminder
+Mark a reminder to feed the fish after school|reminder
+Create a task reminder for updating my resume|reminder
+Alert me to take the cake out in 25 minutes|reminder
+Give me a heads-up about the 6 PM appointment|reminder
+Set a ping for daily meditation at 9 PM|reminder
+Let me know when it’s time to check the pressure cooker|reminder
+Add a reminder to switch off the geyser at 10 AM|reminder
+Tell me to pack lunch before leaving|reminder
+Remind me in two hours to charge my laptop|reminder
+Set a bedtime reminder for 11 PM every night|reminder
+Keep me reminded to drink water every 2 hours|reminder
+Ping me tonight to prepare for the meeting|reminder
+Nudge me to call grandma every weekend|reminder
+Send a reminder to refill my water bottle at 3 PM|reminder
+Remind me in 10 minutes to take a break|reminder
+Add a note for my morning workout tomorrow|reminder
+Set a recurring alert to walk the dog at 6 PM|reminder
+Remind me about the coding contest on Sunday|reminder
+Create a reminder for my car service next Tuesday|reminder
+Tell me to charge my headphones at 7|reminder
+Alert me to stop scrolling and start reading|reminder
+Add a soft ping for journal writing every night|reminder
+Remind me on Friday about the team dinner|reminder
+Schedule an alert to buy milk on the way home|reminder
+Remind me at 4 PM to print the documents|reminder
+Create a reminder to message the client at noon|reminder
+Tell me to log off at 11 PM|reminder
+Wake me up at 6 AM tomorrow|reminder
+Tell me to start cooking in 30 minutes|reminder
+Ping me when it’s time to leave for school|reminder
+Nudge me at 9 PM to call my uncle|reminder
+Alert me every Monday about the weekly meeting|reminder
+Notify me at noon to check the delivery status|reminder
+Make sure I don’t forget to call mom this evening|reminder
+Let me know when it’s 4 PM so I can log off|reminder
+Give me a heads-up before my Zoom call at 3|reminder
+Help me remember to feed the cat at 8|reminder
+Tell me to take my medicine after lunch|reminder
+Keep track of my water intake every 2 hours|reminder
+Wake me in 45 minutes from now|reminder
+Remind me—wait no, just tell me to study at 7|reminder
+Buzz me at 10 AM to send that email|reminder
+Don’t let me forget to check the stock market at 9|reminder
+Ping me at 5 to start cooking dinner|reminder
+Catch me before I forget to pay the bill|reminder
+At 6 sharp, let me know it’s time for gym|reminder
+Push a nudge for tomorrow's doctor visit at 11|reminder
+Make sure I take my laptop charger before leaving|reminder
+When it’s midnight, tell me to stop coding|reminder
+Wake me up in 6 hours, no excuses|reminder
+Send me a nudge in one hour for laundry|reminder
+Let me know when 2 PM hits to call the bank|reminder
+Catch me at 8 AM with a heads-up to post that tweet|reminder
+Tell me in 10 minutes to take the cake out|reminder
+Tap me before I forget to pack the charger|reminder
+Buzz me in 3 hours to shut off the geyser|reminder
+Notify me next Friday to submit the assignment|reminder
+I need a heads-up tomorrow morning for my shift|reminder
+Set an alarm-like thing for 7 PM meds|reminder
+Help me remember to upload the video after class|reminder
+Tell me to pick up my shoes before 5 PM|reminder
+Ping me next Wednesday before the team meeting|reminder
+Give me a signal when it’s time to check the email|reminder
+Prompt me every night at 10 to sleep on time|reminder
+Don’t let me forget lunch with dad on Sunday|reminder
+When it’s 9 AM, tell me to review the plan|reminder
+Alert me tonight to write in my journal|reminder
+Message me when I should start packing|reminder
+At 3 PM, make me check the project files|reminder
+Poke me on Saturday about the coding contest|reminder
+Hit me up in 15 minutes to take a break|reminder
+Buzz me every morning for my daily affirmations|reminder
+Tell me to wrap things up at 11 PM daily|reminder
+Cue me when it’s almost 8 so I can prep dinner|reminder
+Watch the clock — I need a poke at 4:45|reminder
+Check in with me tomorrow morning for groceries|reminder
+Make some noise at 6:30 AM to wake me up|reminder
+Hey, don’t let me forget to respond to Riya|reminder
+Catch me in an hour to finish my to-do list|reminder
+Whisper something at 10 PM so I go offline|reminder
+Alert me in 20 minutes to grab the clothes|reminder
+Let’s set up something for Tuesday morning prep|reminder
+If it’s 8 already, tell me to get moving|reminder
+Keep me posted at 3 so I call the doctor|reminder
+Shake me awake at 5:50|reminder
+Tell me when it’s 12:30 so I join the class|reminder
+Wake me just before sunrise for meditation|reminder
+Don’t let me blank out on sending that text tonight|reminder
+Don’t let me skip my workout this evening|reminder
+Make sure I send that invoice after lunch|reminder
+Give me a shout when it’s almost time for the meeting|reminder
+Hey, at 9:30, tell me to check in with my manager|reminder
+If it’s 5 already, I need to wrap up the design|reminder
+Can you poke me at 3 to call dad?|reminder
+Nudge me when it's nearly sunset — I need to go out|reminder
+Let’s not forget the grocery list tonight|reminder
+Buzz me when it’s time for the online class|reminder
+Shoot me a heads-up around 7 AM tomorrow|reminder
+I always forget the bin — remind me on Wednesday night|reminder
+At 10, make sure I plug in my laptop|reminder
+Catch me at 11 sharp to take the meds|reminder
+If I’m still on my phone at midnight, tell me to sleep|reminder
+Wake me up gently around 5:45|reminder
+Message me before 4 to prep the presentation|reminder
+Don’t let me walk out without the charger again|reminder
+When it’s almost 6, tell me to shut down everything|reminder
+If you see me idle at 2, tell me to get back to work|reminder
+Knock me out of YouTube by 9 PM please|reminder
+Shoot me a ping every Saturday for the laundry|reminder
+Hey, remind me — no wait — tell me to eat before 3|reminder
+I need to follow up with Rahul after lunch, help me out|reminder
+If it’s Friday evening, make me check my calendar|reminder
+Make sure I don’t miss the new episode drop tomorrow|reminder
+Give me a hint before my 8 PM stream|reminder
+Call it out when it's time for evening prayer|reminder
+Watch the time — I’ve got to water the plants at 6|reminder
+Let me know at 9 to join the study group|reminder
+Help me not forget the document submission tonight|reminder
+Send a heads-up when the clock hits 2 PM|reminder
+Whisper something at 11 so I can call grandpa|reminder
+Help me stick to my 10 PM sleep schedule|reminder
+Make sure I step out for the walk at 7|reminder
+Buzz me once the pasta's been cooking for 15 mins|reminder
+Let me know when it's 6:30 — call with Maya|reminder
+Don’t let me miss the sunset photo today|reminder
+Ping me before 10 so I can send the daily report|reminder
+Before noon, I need to cancel that subscription|reminder
+Get me out of this scroll loop by 9|reminder
+Every day at 1, push me to eat something|reminder
+Poke me tonight to back up my files|reminder
+Remind me — oh wait, just flash something when it’s 5|reminder
+Kick me into work mode around 10|reminder
+Drop me a nudge when it’s almost class time|reminder
+Can you shout when the timer hits 45 minutes?|reminder
+At 8 PM, just yell “study!” or something|reminder
+Make me check the task board at 4|reminder
+Throw me a signal before dinner to call Nina|reminder
+Don’t let me forget to record that voice note later|reminder
+Get me ready by 7 AM — I’ve got errands|reminder
+Tap me at 2 to grab my keys|reminder
+It’s my turn for dishes tonight — remind me... scratch that, just let me know around 9|reminder
+Tell me before 6 to take the dog out|reminder
+Help me catch the bus at 7 sharp|reminder
+Buzz me when the clock says 12:59 — important email time|reminder
+Just scream "hydrate!" every 2 hours or so|reminder
+Keep me aware of my 11 AM call, okay?|reminder
+If I haven’t moved by 3, yell break time|reminder
+Call my name when it’s about to hit 4|reminder
 jot down a reminder for my morning run|reminder
+Let me know when it's 3 so I can text mom|reminder
+Catch me before the clock hits 6 PM — yoga time|reminder
+Buzz me if I’m still gaming at 10 tonight|reminder
+When it hits noon, nudge me to grab lunch|reminder
+Don't let me snooze past 5:30 tomorrow|reminder
+Help me remember to log my expenses after work|reminder
+At 8:15, just tell me to breathe and relax|reminder
+If I’m still online after midnight, shut me down|reminder
+Right before class, hit me with a “focus” alert|reminder
+Keep me in check for my 4 PM coaching call|reminder
+If I’m on my phone too long, slap me with a notice|reminder
+Make sure I water the succulents this evening|reminder
+Let’s not forget the 7 PM group call|reminder
+When the clock says 6:45, shout “get ready!”|reminder
+Give me a prod when it’s nearly 2|reminder
+Don’t let me skip breakfast tomorrow|reminder
+Before 11, remind me to stretch|reminder
+When I sit idle too long, shake me up|reminder
+I need a warning 10 minutes before the webinar|reminder
+Tell me to feed the cat before bedtime|reminder
+Interrupt me at 9 AM so I don't miss the mail|reminder
+Just don’t let me miss my evening medicine|reminder
+Bother me around 4:30 to go for a walk|reminder
+Warn me at 6:50 to leave for tuition|reminder
+Prompt me to check the fridge before I sleep|reminder
+Nudge me during lunch to respond to that email|reminder
+If I haven't left home by 7:20, yell at me|reminder
+Wake me just in time for the match at 3|reminder
+Remind me—actually no, just tell me when it's 10:05 sharp|reminder
+When it’s 2 minutes before class, go loud|reminder
+Tap me when the laundry is done|reminder
+Buzz me 15 minutes before the birthday call|reminder
+Get me moving before 9 AM hits|reminder
+Tell me to submit the form before 5|reminder
+Throw a fit if I ignore dinner again at 8|reminder
+Ping me if the clock shows 3:01 and I’m still scrolling|reminder
+Help me prep before that 4 PM call|reminder
+Push me out of bed around 6:30 please|reminder
+Don’t let me zone out and miss the evening ritual|reminder
+Send a whisper around 1 — assignment check|reminder
+If I haven’t blinked by 11, remind me I’m alive|reminder
+Tell me to clean the desk before my 10 AM meeting|reminder
+Before I start binge-watching, make me email my teacher|reminder
+Right after lunch, mention that invoice thing|reminder
+Help me quit Instagram before 8 PM|reminder
+Light me up when it’s almost 7|reminder
+Keep me sharp around 9:45 — big moment coming|reminder
+At 10, flash “check planner” or something|reminder
+Time check me before my 5:30 cab ride|reminder
+Remind—wait, just ring something when it’s dusk|reminder
+Tell me to recharge the camera before 3|reminder
+Catch me slipping on the call with uncle|reminder
+If I’m in chill mode at 2, slap me into focus mode|reminder
 can you make sure I remember to drink water every 2 hours?|reminder
 throw in a note to call Rahul tonight|reminder
 add something to bug me about gym at 6|reminder
-schedule a “don’t be lazy” reminder for every morning|reminder
+schedule a “don't be lazy” reminder for every morning|reminder
 keep me posted about my 3PM zoom|reminder
 save a heads-up for when my meds are due|reminder
 remind me to check the washing machine in 30|reminder
-I’ll need a nudge for that 5PM meeting|reminder
-Nudge me when it’s time to take my pills|reminder
-Don’t let me forget mom’s anniversary tomorrow|reminder
+I'll need a nudge for that 5PM meeting|reminder
+Nudge me when it's time to take my pills|reminder
+Don't let me forget mom's anniversary tomorrow|reminder
 Set a reminder to pay the light bill|reminder
-Make sure I don’t miss that 4PM call today|reminder
+Make sure I don't miss that 4PM call today|reminder
 Yo, remind me to text her back later|reminder
 Ping me about the exam date next Monday|reminder
 Remind me to grab eggs on my way back|reminder
 Keep a note to remind me of my morning run|reminder
-Don’t let me skip my 10-minute meditation tomorrow|reminder
+Don't let me skip my 10-minute meditation tomorrow|reminder
 I need a reminder to check the washing machine in 1 hour|reminder
 Set a quick reminder to stretch every hour|reminder
 Remind me to back up my files tonight|reminder
@@ -6962,13 +8846,13 @@ Tell me to take a deep breath every now and then|reminder
 Hey, I gotta call my uncle at 8, remind me|reminder
 Mark a reminder for that team review on Friday|reminder
 Remind me to stop binge-watching by midnight|reminder
-Make sure I don’t forget to book the tickets|reminder
+Make sure I don't forget to book the tickets|reminder
 Put a note to remind me to email the boss|reminder
 Remind me to smile more tomorrow 😅|reminder
 Nisha, set a reminder to feed the cat at 6PM|reminder
 Remind me to bring snacks for the group|reminder
-Create a reminder for dad’s doc appointment|reminder
-Let me know when it’s 3PM sharp, I got a thing|reminder
+Create a reminder for dad's doc appointment|reminder
+Let me know when it's 3PM sharp, I got a thing|reminder
 Jot down a reminder to finish that assignment|reminder
 Remind me to get my charger before I leave|reminder
 Set one for my yoga class at 7 in the morning|reminder
@@ -6986,7 +8870,7 @@ Help me remember to unplug the iron later|reminder
 I always forget laundry — set one for that, pls|reminder
 Note to self: update my resume — remind me!|reminder
 Push a reminder to drink water at regular intervals|reminder
-Let me know when it’s time to leave for college|reminder
+Let me know when it's time to leave for college|reminder
 Remind me to clean my inbox this weekend|reminder
 Put that reminder to call grandma this Sunday|reminder
 Nudge me to finish my slides before bed|reminder
@@ -6995,31 +8879,31 @@ Note that I gotta cancel the free trial soon|reminder
 Send me a reminder about the coding contest|reminder
 Set one up to pack my bag tonight|reminder
 Help me remember my meeting with Aman|reminder
-Don’t let me miss the flash sale tomorrow!|reminder
+Don't let me miss the flash sale tomorrow!|reminder
 Remind me to check the power meter reading|reminder
 
 mark down “buy eggs” for later|reminder
-put a sticky note in my brain for dad’s gift|reminder
+put a sticky note in my brain for dad's gift|reminder
 make sure I ping myself for that task at 10|reminder
 help me not forget that crazy deadline tomorrow|reminder
 throw a mental post-it about submitting the form|reminder
 tell me to call that weird number at lunch|reminder
 shoot me a note when it's time to walk the dog|reminder
 nudge me for the pizza delivery in 40 mins|reminder
-yo, don’t let me miss that 8am alarm thing|reminder
+yo, don't let me miss that 8am alarm thing|reminder
 can I get a poke for my 4pm stretch break?|reminder
 make an alert for when it's time to clean my desk|reminder
 flag me when the groceries should be ordered|reminder
 get me a beep for watering the plants tonight|reminder
 add “text boss” to my mental to-do list|reminder
-note down “don’t be late to class”|reminder
+note down “don't be late to class”|reminder
 make it so I remember my umbrella tomorrow|reminder
 alarm me at 6 sharp for jogging|reminder
 set up a timer for checking emails at 3|reminder
-alert me when it’s 10 for that phone call|reminder
+alert me when it's 10 for that phone call|reminder
 keep me on track with a 5-minute timer now|reminder
 give me a heads-up before the movie starts|reminder
-poke me when it’s 1pm for lunch|reminder
+poke me when it's 1pm for lunch|reminder
 add “buy batteries” to my brain stash|reminder
 can I get a zap to clean up my desktop later?|reminder
 throw in a “call grandma” at 6pm|reminder
@@ -7027,11 +8911,11 @@ give me a vibe when it's study time|reminder
 drop a “time to chill” for tonight|reminder
 bug me in the morning to meditate|reminder
 make sure I remember to send that email|reminder
-drop a line when it’s 9:45 for that thing|reminder
-slap me with a “don’t forget the trash” reminder|reminder
+drop a line when it's 9:45 for that thing|reminder
+slap me with a “don't forget the trash” reminder|reminder
 help me stay on track with a sleep alert at 11|reminder
-get in my face if I don’t take a break at 4|reminder
-I’ll need help remembering to pick up the parcel|reminder
+get in my face if I don't take a break at 4|reminder
+I'll need help remembering to pick up the parcel|reminder
 schedule a future nudge for my assignment review|reminder
 can you log a reminder to read that book later?|reminder
 ping me to post that thing on Insta at noon|reminder
@@ -7042,30 +8926,30 @@ note it down: pick up dry cleaning at 5|reminder
 slap a brain sticker for groceries today|reminder
 help me track that payment deadline|reminder
 insert a memory about that 3:30 event today|reminder
-let’s not forget laundry after this call|reminder
+let's not forget laundry after this call|reminder
 set my memory bank for vitamin C at 9am|reminder
 nudge me before the sun goes down to feed the cat|reminder
 remind me with sass to hydrate, like seriously|reminder
-get loud if I don’t start studying by 8pm|reminder
+get loud if I don't start studying by 8pm|reminder
 lock in a calendar ding for the team huddle|reminder
-hey, save “don’t skip breakfast” as a reminder|reminder
+hey, save “don't skip breakfast” as a reminder|reminder
 throw me a signal to charge my phone by 10|reminder
 log in “prep slides” for my meeting tomorrow|reminder
 alert me gently to stretch at 11|reminder
-don’t let me forget to call Neha before dinner|reminder
+don't let me forget to call Neha before dinner|reminder
 get something on record for my parcel pickup|reminder
 set an alert to change my wallpaper every Sunday|reminder
 write down “send love note to self every Friday”|reminder
 tell me to unplug my charger when full|reminder
 store “birthday gift for Amit” in reminders|reminder
 bug me sweetly about meditation at 6am|reminder
-remind me that I’m awesome — at 9pm daily|reminder
+remind me that I'm awesome — at 9pm daily|reminder
 throw in “wash face before bed” forever|reminder
 save “update resume” as a mental poke|reminder
 cue me at noon for break time chaos|reminder
 prepare a wake-up punch for 7am tomorrow|reminder
 remind me to close my tabs before sleep|reminder
-jot down “follow up on NISHA’s memory logs”|reminder
+jot down “follow up on NISHA's memory logs”|reminder
 can I get a voice whisper to call back that unknown number?|reminder
 register a repeating alert for my evening walk|reminder
 remind me gently to smile at strangers today|reminder
@@ -7168,18 +9052,18 @@ set a notification to call dad this evening|reminder
 please notify me to book a taxi at 5 PM|reminder
 make sure to tell me to pay the rent on the 5th|reminder
 set a heads-up for my yoga class tomorrow morning|reminder
-don’t forget to notify me about the team meeting|reminder
-alert me when it’s time to start my presentation|reminder
+don't forget to notify me about the team meeting|reminder
+alert me when it's time to start my presentation|reminder
 can you set a heads-up for the movie night|reminder
 please make a note to order dinner by 7 PM|reminder
 set a notification for the project deadline next week|reminder
 tell me to check the fridge before shopping|reminder
-alert me about the friend’s birthday next Monday|reminder
+alert me about the friend's birthday next Monday|reminder
 please remind me to update the software tonight|reminder
-make sure I don’t miss the webinar at noon|reminder
+make sure I don't miss the webinar at noon|reminder
 set an alarm to call the insurance agent|reminder
 notify me to prepare documents for the meeting|reminder
-tell me when it’s time to take out the trash|reminder
+tell me when it's time to take out the trash|reminder
 alert me about the dentist appointment next Wednesday|reminder
 please set a notification for the gym session|reminder
 make a note to pay credit card bill by Friday|reminder
@@ -7189,23 +9073,23 @@ notify me to send invites for the party|reminder
 please remind me to water the office plants|reminder
 set a heads-up to check my bank statement|reminder
 tell me to switch off the lights at midnight|reminder
-alert me when it’s time for the meditation session|reminder
+alert me when it's time for the meditation session|reminder
 please remind me to backup my files tonight|reminder
-make sure I don’t forget to feed the dog|reminder
+make sure I don't forget to feed the dog|reminder
 notify me about the community event tomorrow|reminder
 set a heads-up for the school parent-teacher meeting|reminder
-tell me when it’s time to renew the passport|reminder
+tell me when it's time to renew the passport|reminder
 alert me to check my email for the confirmation|reminder
 please remind me to call the electrician tomorrow|reminder
 make a note to finish reading the book by weekend|reminder
 set an alarm to start cooking dinner at 6 PM|reminder
 notify me to buy groceries for the party|reminder
-tell me when it’s time to take a break from work|reminder
+tell me when it's time to take a break from work|reminder
 alert me about the flight check-in time|reminder
 please remind me to send the monthly report|reminder
 make sure to tell me to pick up the kids early|reminder
 set a heads-up for the book club meeting|reminder
-notify me when it’s time to start the exam|reminder
+notify me when it's time to start the exam|reminder
 tell me to recharge my phone by evening|reminder
 alert me about the subscription renewal next month|reminder
 please remind me to send birthday wishes to Sarah|reminder
@@ -7217,19 +9101,19 @@ alert me about the yoga retreat registration deadline|reminder
 please remind me to submit the expense form|reminder
 make sure I remember to call the vet|reminder
 set a notification to buy a gift for mom|reminder
-notify me when it’s time to switch internet providers|reminder
+notify me when it's time to switch internet providers|reminder
 tell me to check tire pressure next week|reminder
 alert me about the quarterly taxes due date|reminder
 please remind me to schedule a haircut appointment|reminder
 make a note to send out newsletters on Friday|reminder
 set an alarm for the family dinner on Sunday|reminder
 notify me to refill the prescription soon|reminder
-tell me when it’s time to renew car insurance|reminder
+tell me when it's time to renew car insurance|reminder
 alert me about the maintenance checkup next month|reminder
 please remind me to call the plumber on Tuesday|reminder
 make sure to tell me to buy concert tickets|reminder
 set a heads-up to pick up dry cleaning|reminder
-notify me when it’s time to submit the thesis|reminder
+notify me when it's time to submit the thesis|reminder
 tell me to water the plants after work|reminder
 alert me about the library book return deadline|reminder
 please remind me to schedule the annual health checkup|reminder
@@ -7241,7 +9125,7 @@ alert me about the charity event registration|reminder
 please remind me to cancel the gym membership if needed|reminder
 make sure I remember to clean the kitchen|reminder
 set a notification to call the bank manager|reminder
-notify me when it’s time to start the house renovation|reminder
+notify me when it's time to start the house renovation|reminder
 tell me to pick up the dry cleaning on Saturday|reminder
 alert me about the school admission deadline|reminder
 please remind me to send thank-you notes|reminder
@@ -7253,7 +9137,7 @@ alert me about the visa application status|reminder
 please remind me to book a hotel for vacation|reminder
 make sure to tell me to pay the electricity bill|reminder
 set a heads-up for the dentist appointment follow-up|reminder
-notify me when it’s time to renew the driver's license|reminder
+notify me when it's time to renew the driver's license|reminder
 tell me to check the car oil level|reminder
 alert me about the appointment with the financial advisor|reminder
 please remind me to book a table at the restaurant|reminder
@@ -7263,9 +9147,9 @@ notify me to prepare the guest room|reminder
 tell me when to pick up the parcel from the post office|reminder
 alert me about the upcoming workshop|reminder
 please remind me to check the security system|reminder
-make sure I don’t forget to water the balcony plants|reminder
+make sure I don't forget to water the balcony plants|reminder
 set a notification to check the smoke detectors|reminder
-notify me when it’s time to take a walk outside|reminder
+notify me when it's time to take a walk outside|reminder
 tell me to schedule a dentist appointment|reminder
 alert me about the library book due date|reminder
 please remind me to update my resume|reminder
@@ -7277,7 +9161,7 @@ alert me about the vaccination appointment|reminder
 please remind me to backup the computer files|reminder
 make sure to tell me to turn off the stove after cooking|reminder
 set a heads-up to water the lawn|reminder
-notify me when it’s time to schedule a car wash|reminder
+notify me when it's time to schedule a car wash|reminder
 tell me to check the mail at noon|reminder
 alert me about the upcoming parent-teacher conference|reminder
 please remind me to send the client proposal|reminder
@@ -7287,9 +9171,9 @@ notify me to check the printer ink levels|reminder
 tell me when to lock the doors at night|reminder
 alert me about the package pickup deadline|reminder
 please remind me to check the calendar for appointments|reminder
-make sure I don’t forget to call the electrician|reminder
+make sure I don't forget to call the electrician|reminder
 set a notification to check the security cameras|reminder
-notify me when it’s time to schedule a meeting|reminder
+notify me when it's time to schedule a meeting|reminder
 tell me to replace the air filters|reminder
 alert me about the pet vaccination schedule|reminder
 please remind me to submit the project proposal|reminder
@@ -7297,8 +9181,8 @@ make a note to check the oil change schedule|reminder
 can you nudge me to check the mail this afternoon|reminder
 set a heads-up for my online class tomorrow|reminder
 please alert me to call the lawyer next week|reminder
-don’t forget to tell me to update the password|reminder
-notify me when it’s time to check the garden|reminder
+don't forget to tell me to update the password|reminder
+notify me when it's time to check the garden|reminder
 make a note to schedule a meeting with HR|reminder
 remind me to prepare the budget report|reminder
 please notify me to take the dog for a walk|reminder
@@ -7306,22 +9190,22 @@ set an alarm to remind me to drink tea at 4 PM|reminder
 alert me about the library book due in three days|reminder
 tell me to clean the car this weekend|reminder
 please set a reminder to pick up the kids from practice|reminder
-notify me when it’s time to start the laundry|reminder
+notify me when it's time to start the laundry|reminder
 make sure I remember to call the plumber on Thursday|reminder
 set a heads-up for the quarterly review meeting|reminder
 alert me to check the mailbox after 3 PM|reminder
 please notify me to pay the water bill|reminder
 tell me to schedule a dentist appointment next month|reminder
 set an alarm to remind me to take a break at noon|reminder
-notify me when it’s time to renew my subscription|reminder
+notify me when it's time to renew my subscription|reminder
 make a note to send the project update by Friday|reminder
 remind me to pick up the prescription this evening|reminder
 please alert me to book a taxi for the airport|reminder
 tell me to check the oven at 5 PM|reminder
 set a notification to water the plants tomorrow morning|reminder
 notify me to submit the tax documents|reminder
-make sure I don’t forget to call mom tonight|reminder
-alert me when it’s time to start my workout|reminder
+make sure I don't forget to call mom tonight|reminder
+alert me when it's time to start my workout|reminder
 please remind me to finish the book by next week|reminder
 set a heads-up for the team lunch on Wednesday|reminder
 tell me to check the smoke alarm batteries|reminder
@@ -7330,10 +9214,10 @@ make a note to schedule the car service|reminder
 remind me to send thank-you emails after the event|reminder
 please alert me to order office supplies|reminder
 set an alarm to check the baby monitor|reminder
-notify me when it’s time to water the lawn|reminder
+notify me when it's time to water the lawn|reminder
 tell me to pack the gym bag|reminder
 make sure I remember to call the vet tomorrow|reminder
-alert me about the renewal of my driver’s license|reminder
+alert me about the renewal of my driver's license|reminder
 please remind me to buy groceries on Friday|reminder
 set a notification to check the mailbox daily|reminder
 notify me to pick up dry cleaning on Saturday|reminder
@@ -7342,9 +9226,9 @@ make a note to schedule a health checkup|reminder
 remind me to send the invitations by Monday|reminder
 please alert me to start the conference call at 10 AM|reminder
 set an alarm to remind me to check the mail|reminder
-notify me when it’s time to pay credit card bills|reminder
+notify me when it's time to pay credit card bills|reminder
 tell me to water the indoor plants on weekends|reminder
-make sure I don’t forget to lock the door at night|reminder
+make sure I don't forget to lock the door at night|reminder
 alert me about the appointment with the dentist|reminder
 please remind me to submit the report before noon|reminder
 set a heads-up for the client meeting next Tuesday|reminder
@@ -7354,10 +9238,10 @@ make a note to schedule a haircut appointment|reminder
 remind me to back up my computer files weekly|reminder
 please alert me to take out the trash every evening|reminder
 set a notification to pay the electricity bill|reminder
-notify me when it’s time to book the flight tickets|reminder
+notify me when it's time to book the flight tickets|reminder
 tell me to prepare the presentation slides|reminder
 make sure I remember to call the school office|reminder
-alert me when it’s time to take a break during work|reminder
+alert me when it's time to take a break during work|reminder
 please remind me to check the package delivery status|reminder
 set an alarm to remind me to water the balcony plants|reminder
 notify me to schedule a meeting with the finance team|reminder
@@ -7366,13 +9250,13 @@ make a note to order a birthday cake|reminder
 remind me to check the calendar for appointments|reminder
 please alert me to clean the garage this weekend|reminder
 set a heads-up for the parent-teacher conference|reminder
-notify me when it’s time to renew my passport|reminder
+notify me when it's time to renew my passport|reminder
 tell me to check the tire pressure next month|reminder
-make sure I don’t forget to call the electrician|reminder
-alert me about the pet’s vaccination schedule|reminder
+make sure I don't forget to call the electrician|reminder
+alert me about the pet's vaccination schedule|reminder
 please remind me to update the software on Friday|reminder
 set a notification to water the garden in the morning|reminder
-notify me when it’s time to schedule the car inspection|reminder
+notify me when it's time to schedule the car inspection|reminder
 tell me to pick up groceries for the week|reminder
 make a note to check the smoke detectors monthly|reminder
 remind me to send the client proposal by Thursday|reminder
@@ -7384,15 +9268,15 @@ make sure I remember to take the recycling out|reminder
 alert me about the upcoming workshop|reminder
 please remind me to pay the gym membership renewal|reminder
 set a heads-up for the business conference next month|reminder
-notify me when it’s time to clean the fish tank|reminder
+notify me when it's time to clean the fish tank|reminder
 tell me to check the mailbox after work|reminder
 make a note to schedule a dental cleaning|reminder
 remind me to back up photos weekly|reminder
 please alert me to update the contact list|reminder
 set a notification to water the plants on Friday|reminder
-notify me when it’s time to order office stationery|reminder
-tell me to check the car’s oil level|reminder
-make sure I don’t forget to send the birthday card|reminder
+notify me when it's time to order office stationery|reminder
+tell me to check the car's oil level|reminder
+make sure I don't forget to send the birthday card|reminder
 alert me about the upcoming medical appointment|reminder
 please remind me to clean the air conditioner filters|reminder
 remind me every day at 7 AM to meditate|reminder

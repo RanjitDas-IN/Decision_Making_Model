@@ -12,11 +12,11 @@ from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
 # Paths and directories
-MODELS_DIR = "Experimenting_SVM_models"
+MODELS_DIR = "SVM_models"
 os.makedirs(MODELS_DIR, exist_ok=True)
 SCALER_PATH = os.path.join(MODELS_DIR, "scaler.joblib")
 MODEL_PATH = os.path.join(MODELS_DIR, "svm_rbf_tuned.joblib")
-TOKENS_PATH = (r"/home/ranjit/Desktop/Decision_Making_Model8/3_pipeline_Classification_Model/roberta_tokens.pt")
+TOKENS_PATH = (r"/home/ranjit/Desktop/Decision_Making_Model/roberta_tokens.pt")
 CSV_PATH = (r"/home/ranjit/Desktop/Decision_Making_Model/1_Pipeline_Data_Acquisition/Day2_cleaned_dataset.csv")
 
 
