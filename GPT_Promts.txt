@@ -1,4 +1,231 @@
 -----------------------------------------------------------Prompt-------------------------------------------------------------------------
+Instruction:
+Generate 500 distinct and realistic user utterances that clearly express the intention of performing a Google search.
+
+
+---
+
+Purpose:
+These utterances will be used to train an intent classification model for a personal virtual assistant. The target intent is "google search".
+
+
+---
+
+Requirements:
+
+1. Clearly represent a search query — the user should be asking to search something on Google or requesting general information that implies web search.
+
+
+2. Use trigger words/phrases like:
+"search for", "google", "look up", "find", "tell me about", "what is", "how to", etc.
+
+
+3. Avoid overlap with other intents such as:
+
+youtube search: Do not mention YouTube or videos.
+
+general: Do not use vague questions like “say something interesting.”
+
+content: Avoid generic requests like “show me something.”
+
+reminder, system, or play: Avoid action-based commands.
+
+
+
+4. Cover a variety of topics, e.g., technology, science, geography, health, history, famous personalities, etc.
+
+
+5. Mix the sentence forms:
+
+Questions: “What is the capital of Brazil?”
+
+Commands: “Google the symptoms of dengue.”
+
+Requests: “Can you find information about black holes?”
+
+
+6. Keep language natural and diverse, as spoken in everyday conversation.
+-----------------------------------------------------------Prompt-------------------------------------------------------------------------
+You are a data-generation AI tasked with creating high-quality training data for an intent-classification model for “Nisha.”  
+
+CONTEXT & RATIONALE  
+Nisha must handle abusive or offensive user inputs gracefully:  
+- Detect profanity, insults, harassment, slurs, aggressive commands.  
+- Route these to a new intent label “abuse” so that Nisha can respond appropriately (e.g., defuse, refuse, or sass back).  
+- This improves user safety, moderation, and overall UX by separating abuse from functional commands (e.g., “close,” “search,” “general”, etc...).  
+
+DATA REQUIREMENTS  
+• Generate **300 unique utterances** labeled `abuse`.  
+  (e.g., `fuck you|abuse`)  
+• Cover these categories proportionally (aim ~30–50 examples each):  
+   1. **Profanity & Vulgar Terms** (e.g., “motherfucker,” “shit,” “asshole”, etc etc..)  
+   2. **Direct Insults** (e.g., “you’re an idiot,” “you dumbass”)  
+   3. **Harassing Commands & Phrases** (e.g., “shut the fuck up,” “eat shit,” “go to hell”)  
+   4. **Sarcastic/Passive-Aggressive** (e.g. “clap for yourself, fool”)  
+   5. **Slang & Regional Variations** (e.g., “wanker,” “git,” “twatwaffle”)  
+   6. **Offensive Slurs** (include a small, representative sample to catch hateful content, but do not over-generate them)  
+
+• **Ensure diversity**:  
+  – Vary sentence structure (one word, short phrase, full sentence, question).  
+  – Add 10–20% “soft” variants (e.g., “you’re so useless,” “what a joke you are”).  
+
+• **Avoid** duplicates or near-duplicates.  
+• **No extra commentary**—only utterance lines.
+
+SAMPLE OUTPUT (first 10 lines):
+
+fuck|abuse
+fuck you|abuse
+shut the fuck up|abuse
+you’re a dumbass|abuse
+eat shit|abuse
+motherfucker|abuse
+nice job, genius|abuse
+go to hell|abuse
+you worthless piece of crap|abuse
+wanker|abuse
+
+Now generate **300+ lines** total. End when you’ve reached at least 300 unique `<text>|abuse` entries.
+
+---------------------------------------next version-------------------------------------------------------------------------
+
+now another batch,
+## use words:
+['idiot', 'dumb', 'damn', 'goddamn', 'bitch', 'dumbass', 'shit', 'fool', 'bullshit', 'bastard', 'hell no', 'piss off', 'bloody idiot']
+
+
+## Insults / Mockery:  
+
+["shut up" , "Zero IQ" "you dumb" , "dumb bot" , "dumb shit" , "brainless" , "brain-dead" , "I hate you" , "you failed" , "are you dumb?" , "you're a fool" , "are you blind?" , "you're so dumb" , "you're useless" , "you are stupid" , "you are an idiot" , "complete failure" , "useless assistant" , "you are a disaster" , "worst assistant ever" , "you don’t know anything" , "retard (caution: offensive in disability context)"]
+
+
+## Sarcastic / Passive-Aggressive Phrases:
+
+   [ "bravo, dumbass" , "no one asked you" , "another dumb reply" , "you call that smart?" , "how dumb can you be?" , "just shut the hell up" , "amazing answer, genius" , "clap for yourself, idiot" , "you're so helpful (sarcastic)" , "wow, you’re smart (sarcastic tone)" ]
+
+## Variation Mixes:
+
+   [" fuck this", " fuck that", " stupid bot", " are you broken?", " nonsense", " dumb response", " that's bullshit", " pure crap", " dumb reply", " get lost", " fuck off assistant", " you're the worst", " what a moron", " pathetic", " you're broken", " you're trash", " shit bot", " worst AI ever", " nobody needs you", " I’m done with this crap", " what a dumb system", " holy fuck", " idiot bot", " total garbage", " this is trash", " fuck this assistant", " absolute idiot", " joke of a bot", " disgusting", " stupid moron", " no brain", " dumb system", " mental", " thickhead", " dumbfuck", " you suck", " silly bot", " robotic garbage", " zero IQ", " what kind of assistant are you?"]
+
+
+---------------------------------------Prompt-------------------------------------------------------------------------
+You are augmenting an intent-classification dataset for a conversational AI named “Nisha.” The dataset currently has two columns: 
+  • utterance  
+  • intent  
+
+We want to add many more examples to the “content” intent, which covers any user request to write or generate content.  
+
+— Dataset context:  
+• Domain: personal assistant (Nisha) for tasks like messaging, coding help, creative writing, professional docs, etc.  
+• Each example must map a natural-language user query to the intent name “content.”  
+
+— Types of content to cover:  
+Email, Message, Code snippet or program, Blog post, YouTube/video script, Article, Resume, Cover letter, Professional document (proposal, report), Social media caption/post, App or tool idea (with implementation plan), Creative storytelling (poems, stories), etc.  
+
+— In-prompt examples (to guide style & variety):  
+Write an apology email to my teacher|content  
+Generate a Python function to sort a list of numbers|content  
+Write a 300-word blog post on benefits of meditation|content  
+Draft a Twitter thread about AI trends in 2025|content  
+Create an outline for a YouTube video on machine learning|content  
+Write a short horror story in three paragraphs|content  
+
+— Instructions to the AI:  
+• Produce 300 new, diverse user utterances covering all listed content types.  
+• Do NOT include any other intent names—every output’s intent is “content.”  
+• Follow this exact format for each line:  
+    utterance|content  
+• No spaces around the “|”.  
+• Vary length and style: questions, commands, casual, formal, creative.  
+
+Begin generating now.
+---------------------------------------Prompt-------------------------------------------------------------------------
+
+You're helping me build an advanced AI assistant named Nisha. One of her core strengths is handling simple, general-purpose queries, especially involving math and factual logic (e.g., additions, subtractions, multiplications, square roots, comparisons, percent calculations, etc etc...). These queries are not task-specific (like opening apps or sending emails); they fall under a broad conversational category of "general" intent.
+
+You are asked to generate 300~ diverse user utterances that can be mapped to the general intent in an intent classification system.
+
+
+---
+
+## Context: Why This Is Important
+
+These queries simulate real user behavior when talking to an AI assistant.
+
+Nisha should recognize such inputs and handle them instantly without misclassifying them under task-oriented intents like google search, youtube search, or content.
+
+The goal is to strengthen the model’s understanding of how general knowledge and math-based queries look and feel in natural language.
+
+
+## What to Generate (Details):
+
+Each line must follow this format:
+
+<user utterance>|general
+
+Types of Inputs to Include (Categories):
+
+1. Basic Arithmetic (add, subtract, multiply, divide — natural language + symbols, etc etc...)
+
+e.g., what is 7 plus 2, 3+3, divide 100 by 5
+
+
+
+2. Percent, Square Roots, Powers
+
+e.g., what is 20 percent of 500, sqrt of 144, 2 to the power 4
+
+
+
+3. Comparisons and Logic
+
+e.g., is 14 greater than 9, which is more, 8 or 12
+
+
+
+4. Even/Odd, Remainder, Prime Check
+
+e.g., is 13 a prime number?, what is the remainder when 10 is divided by 3
+
+
+
+5. Informal and Chatty Variants
+
+e.g., yo can you do 8 plus 9, hey nisha what's 5 into 5
+
+
+
+6. Misspellings & Variations
+
+e.g., what's squre root of 36, wat is 8 divd by 2 {div}
+
+
+
+7. Short inputs or symbolic
+
+e.g., 4+4, 99/3, sqrt 81
+
+
+
+8. Indirect Phrasings
+
+e.g., can you solve this for me: 12×12, how much is 40 subtract 18
+
+
+
+## Output Requirements:
+
+Total utterances: 300
+
+Format: utterance|general
+
+Each utterance on a new line (not in a list or JSON)
+
+Avoid duplication or meaningless input
+
+All should be natural, like how humans speak to AI
+
+-----------------------------------------------------------Prompt-------------------------------------------------------------------------
 You are given:
 
 1. **Dataset format**  
@@ -333,7 +560,7 @@ SLANG_ABBREVIATIONS = {
     "bff": "best friend forever"
 }
 
-------------------------------------------------------------Need to integrating------------------------------------------------------------------------
+------------------------------------------------------------Need to ntegrating------------------------------------------------------------------------
 
 integrating "en-80k.txt"  i.e "symspellpy==6.9.0"
 
@@ -368,3 +595,7 @@ Sample attention_mask[0]: tensor([1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+

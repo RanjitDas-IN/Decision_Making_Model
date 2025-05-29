@@ -18,7 +18,7 @@ SCALER_PATH = os.path.join(MODELS_DIR, "scaler.joblib")
 MODEL_PATH = os.path.join(MODELS_DIR, "svm_rbf_tuned.joblib")
 HEATMAP_PATH = os.path.join(MODELS_DIR, "hyperparam_landscape.png")
 TOKENS_PATH=(r"/home/ranjit/Desktop/Decision_Making_Model/roberta_tokens.pt")
-CSV_PATH=(r"/home/ranjit/Desktop/Decision_Making_Model/Pipeline_1_Data_Acquisition/Day2_cleaned_dataset.csv")
+CSV_PATH=(r"/home/ranjit/Desktop/Decision_Making_Model/1_Pipeline_Data_Acquisition/Day2_cleaned_dataset.csv")
 
 
 def split_data(X, y, test_size=0.2, random_state=42):

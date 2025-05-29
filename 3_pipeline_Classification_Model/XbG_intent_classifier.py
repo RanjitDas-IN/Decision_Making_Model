@@ -13,7 +13,8 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 from xgboost import XGBClassifier
 
 # Paths and constants
-MODELS_DIR = "XgB_models"
+MODELS_DIR = "Experent_XgB_models"
+os.makedirs(MODELS_DIR, exist_ok=True)
 CSV_PATH = r"/home/ranjit/Desktop/Decision_Making_Model/1_Pipeline_Data_Acquisition/Day2_cleaned_dataset.csv"
 TOKENS_PATH = r"/home/ranjit/Desktop/Decision_Making_Model/roberta_tokens.pt"
 MODEL_PATH = os.path.join(MODELS_DIR, "svm_rbf_tuned.joblib")
@@ -93,7 +94,7 @@ print("Confusion Matrix:")
 print(confusion_matrix(y_test, y_pred))
 
 
-with open("XgB_save_eval_report_path.txt", 'w', encoding='utf-8') as f:
+with open("XgB_report_path.txt", 'w', encoding='utf-8') as f:
     f.write(f"Accuracy,,{test_acc:.4f}\n\n")
     f.write("Classification Report:\n")
     report=classification_report(y_test, y_pred, target_names=intent_names)

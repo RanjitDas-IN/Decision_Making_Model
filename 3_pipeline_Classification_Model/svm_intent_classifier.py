@@ -12,8 +12,9 @@ from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
 # Paths and directories
-MODELS_DIR = "SVM_models"
+MODELS_DIR = "Experiment_SVM_models"
 os.makedirs(MODELS_DIR, exist_ok=True)
+ENCODER_PATH = os.path.join(MODELS_DIR, "label_encoder.joblib")
 SCALER_PATH = os.path.join(MODELS_DIR, "scaler.joblib")
 MODEL_PATH = os.path.join(MODELS_DIR, "svm_rbf_tuned.joblib")
 TOKENS_PATH = (r"/home/ranjit/Desktop/Decision_Making_Model/roberta_tokens.pt")
@@ -112,6 +113,9 @@ if __name__ == '__main__':
     targets = df['intent'].tolist()
     from sklearn.preprocessing import LabelEncoder
     label_encoder = LabelEncoder().fit(targets)
+    joblib.dump(label_encoder, ENCODER_PATH)
+    print(f"Saved label encoder to {ENCODER_PATH}")
+
     y = label_encoder.transform(targets)
     intent_names = label_encoder.classes_
 
