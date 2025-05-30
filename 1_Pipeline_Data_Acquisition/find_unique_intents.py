@@ -59,8 +59,8 @@ def appearing_a_word_in_utterance():
 
 
 
-# intent_count()
+intent_count()
 # find_duplicates()
-drop_duplicates()
+# drop_duplicates()
 # appearing_a_word_in_utterance()
 # check_word_count(padding_or_length=15)

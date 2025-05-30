@@ -1,3 +1,31 @@
+-----------------------------------------------------------Goal-------------------------------------------------------------------------
+
+User query: open facebook, instagram and whatsapp
+predicted intent: [open facebook], [open instagram], [open whatsapp]
+
+User query: what is the current weather in new york 
+predicted intent: [google search what is the current weather in new york]
+
+User query: who is mahatma gandhi and what is his contribution to india
+predicted intent: [general who is mahatma gandhi], [general what is his contribution to india]
+
+User query: who is elon musk and how many planets are there in the solar system
+predicted intent: [general who is elon musk], [general how many planets are there in the solar system]
+
+User query: hello dear, how are you today?
+predicted intent: [general hello dear], [general how are you today?]
+
+User query: hello, how are you?
+predicted intent: [general hello], [general how are you?]
+
+User query:    are you there? tell me a joke
+predicted intent: [general are you there?], [general tell me a joke]
+
+User query: what is the current stock price of apple and who is currently the prime minister of india?
+predicted intent: [google search what is the current stock price of apple], [google search who is currently the prime minister of india?]
+
+User query: how to cook pasta and what is the recipe for chocolate cake?
+predicted intent: [youtube search how to cook pasta], [youtube search what is the recipe for chocolate cake?]
 -----------------------------------------------------------Prompt-------------------------------------------------------------------------
 Instruction:
 Generate 500 distinct and realistic user utterances that clearly express the intention of performing a Google search.
@@ -559,6 +587,20 @@ SLANG_ABBREVIATIONS = {
     "ily": "i love you",
     "bff": "best friend forever"
 }
+------------------------------------------------------------WH Family------------------------------------------------------------------------
+# Conjunctions and filler words to split on
+CONJUNCTIONS = [
+    "and", "or", "also", "another", "moreover", "furthermore", "in addition", "additionally", "besides",
+    "as well as", "plus", "but", "however", "yet", "although", "though", "even though", "whereas", "while",
+    "on the other hand", "in contrast", "conversely", "nevertheless", "nonetheless", "still", "despite",
+    "in spite of", "instead", "because", "since", "as", "due to", "owing to", "for this reason", "so",
+    "therefore", "thus", "consequently", "as a result", "hence", "accordingly", "after", "before",
+    "when", "as soon as", "once", "until", "till", "then", "next", "finally", "firstly", "secondly",
+    "thirdly", "subsequently", "afterwards", "meanwhile", "by the time", "whenever", "unless",
+    "provided that", "as long as", "in case", "otherwise", "for example", "for instance", "namely",
+    "such as", "above all", "over all", "in conclusion", "to conclude", "in summary", "to summarize",
+    "overall", "in short", "briefly"
+]
 
 ------------------------------------------------------------Need to ntegrating------------------------------------------------------------------------
 
@@ -596,6 +638,64 @@ Sample attention_mask[0]: tensor([1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
+---------------------------------------------------misclassifying by svm mode---------------------------------------------------------------------------------
+
+thw whole needs to be lowercase before RoBERTa tokenization process
+wow == abuse 
+holi == abuse
+You: you tell me
+Predicted_Intent: abuse
+fresh data entry on 'play' (<song name> in spotify) ("shape of you" in spotify)
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+put it in together,
+1. based on the symbols(?,.; etc)
+2. open/close instagram, facebook etc
+3. based on words:
+["and", "or", "also", "another", "moreover", "furthermore", "in addition", "additionally", "besides", "as well as", "plus", "but", "however", "or", "yet", "although", "though", "even though", "whereas", "while", "on the other hand", "in contrast", "conversely", "nevertheless", "nonetheless", "still", "despite", "in spite of", "instead", "because", "since", "as", "due to", "owing to", "for this reason", "so", "therefore", "thus", "consequently", "as a result", "hence", "accordingly", "after", "before", "when", "while", "as soon as", "once", "until", "till", "then", "next", "finally", "firstly, secondly, thirdly, etc.", "subsequently", "afterwards", "meanwhile", "by the time", "whenever", "unless", "provided that", "as long as", "in case", "otherwise", "for example", "for instance", "namely", "such as", "above all", "over all", "in conclusion", "to conclude", "in summary", "to summarize", "overall", "in short", "briefly]
+
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+User query: play a-song b-song c-song
+splits: [a-song, b-song, c-song]
 
+User query: play a-song b-song c-song d-song e-song in youtube
+splits: [a-song in youtube, b-song in youtube, c-song in youtube, d-song in youtube, e-song in youtube]
+
+User query: play a-song b-song c-song d-song e-song on youtube
+splits: [a-song on youtube, b-song on youtube, c-song on youtube, d-song on youtube, e-song on youtube]
+
+User query: play a-song b-song c-song d-song e-song plateform is stotify
+splits: [a-song plateform is stotify, b-sonplateform is stotify, c-song plateform is stotify, d-song plateform is stotify, e-song plateform is stotify]
+
+User query: play a-song b-song c-song d-song e-song this things in my_music
+splits: [a-song this things in my_music, b-song this things in my_music, c-song this things in my_music, d-song this things in my_music, e-song this things in my_music]
+
+User query: <song hello> in spotify
+splits: [<song hello> in spotify]
+
+User query: <trending song> in spotify
+splits: [<trending song> in spotify]
+
+User query: play "die with a smile" in spotify
+splits: ["die with a smile" in spotify]
+
+User query: play "shape of you" in spotify
+splits: ["shape of you" in spotify]
+
+note: below are just examples, (remember that user may ask in various way and formats)
+
+# Example usage:
+queries = [
+    "play a-song b-song c-song",
+    "play a-song b-song c-song d-song e-song in youtube",
+    "play a-song b-song c-song d-song e-song on youtube",
+    "play a-song b-song c-song d-song e-song plateform is stotify",
+    "play a-song b-song c-song d-song e-song this things in my_music",
+    "<song hello> in spotify",
+    "<trending song> in spotify",
+    "play 'die with a smile' in spotify",
+    "play 'shape of you' in spotify"
+]
+------------------------------------------------------------------------------------------------------------------------------------------------
