@@ -1,7 +1,7 @@
 import pandas as pd
 
 file_path = r"/home/ranjit/Desktop/Decision_Making_Model/1_Pipeline_Data_Acquisition/Day2_cleaned_dataset.csv"
-df= pd.read_csv(file_path, sep='|')
+df= pd.read_csv(file_path, sep="|")
 
 print("Shape of the CSV:",df.shape)
 print(df.describe())
@@ -16,7 +16,7 @@ def drop_duplicates():
     """Drop duplicates in-place and save the updated CSV."""
     df.drop_duplicates(inplace=True)
     print("Shape after dropping duplicates:", df.shape)
-    df.to_csv(file_path, sep='|', index=False)
+    df.to_csv(file_path, sep="|", index=False)
     print("Cleaned data saved to CSV.")
 
 
@@ -45,8 +45,8 @@ def check_word_count(padding_or_length):
 
 def appearing_a_word_in_utterance():
     count=0
-    intent_name = "google search"
-    word = "Search"
+    intent_name = "abuse"
+    word = ""
 
     gdf=df[df["intent"]== intent_name]
 
@@ -60,7 +60,7 @@ def appearing_a_word_in_utterance():
 
 
 intent_count()
-# find_duplicates()
+# find_duplicates(df)
 # drop_duplicates()
 # appearing_a_word_in_utterance()
-# check_word_count(padding_or_length=15)
+# check_word_count(padding_or_length=2)

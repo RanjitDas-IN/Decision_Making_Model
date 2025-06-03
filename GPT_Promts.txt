@@ -1,3 +1,261 @@
+-----------------------------------------------------------Main Prompt (CNN)-------------------------------------------------------------------------
+You are asked to write a Python script (compatible with Python 3.10.10 and TensorFlow 2.19.0) that builds, compiles, and trains a Convolutional Neural Network (CNN) for intent classification using precomputed RoBERTa embeddings. Here are all the details and requirements:
+
+---
+
+## 1. Dataset & Environment
+
+1. **RoBERTa Embeddings File**  
+
+   - Filename: `roberta_tokens.tfrecord`  
+
+   - Format: A saved NumPy array (or TensorFlow tensor) of shape `(num_samples, 768)`.  
+Goal
+     - Each row corresponds to one utterance, already tokenized and vectorized via RoBERTa.  
+
+     - Example: After loading, `X_raw.shape` should be `(number_of_examples, 768)`.
+
+2. **Labels File**  
+
+   - Filename: `/home/ranjit/Desktop/Decision_Making_Model/1_Pipeline_Data_Acquisition/Day2_cleaned_dataset.csv`  
+
+   - Format: CSV with at least two columns:  
+
+     - `utterance` (the raw text, not actually needed for training because embeddings are precomputed)  
+
+     - `intent` (string label for each utterance; there are exactly 10 distinct intent classes).  
+
+   - You must load this CSV, extract the `intent` column, encode it to integers (0–9), and one-hot encode for training.
+
+3. **Execution Environment**  
+
+   - Python version: 3.10.10  
+
+   - TensorFlow version: 2.19.0  
+
+   - Any other standard libraries you need are allowed (e.g., NumPy, Pandas, scikit-learn for LabelEncoder etc etc).
+
+---
+
+## 2. Model Architecture Requirements
+
+The CNN should take each 768-dimensional RoBERTa vector, reshape it to `(768, 1)`, then apply three convolutional blocks (the third block is optional but recommended). Use the following exact hyperparameters:
+
+### Convolutional Block 1
+
+1. **Conv1D**  
+
+   - Filters: 128  
+
+   - Kernel size: 5  
+
+   - Activation: ReLU  
+
+   - Padding: “same”  
+
+   - Input shape: `(768, 1)`
+
+2. **BatchNormalization** (use default momentum=0.99, epsilon=1e-3)  
+
+3. **MaxPooling1D**  
+
+   - Pool size: 2  
+
+   - Strides: 2  
+
+   - Padding: default (“valid” is fine; you’ll go from length 768 → 384)  
+
+4. **Dropout**  
+
+   - Rate: 0.30
+
+### Convolutional Block 2
+
+1. **Conv1D**  
+
+   - Filters: 64  
+
+   - Kernel size: 3  
+
+   - Activation: ReLU  
+
+   - Padding: “same”
+
+2. **BatchNormalization**  
+
+3. **MaxPooling1D**  
+
+   - Pool size: 2  
+
+   - Strides: 2  
+
+   - (length goes from 384 → 192)
+
+4. **Dropout**  
+
+   - Rate: 0.30
+
+### Convolutional Block 3 (Optional, but recommended for better feature hierarchy)
+
+1. **Conv1D**  
+
+   - Filters: 32  
+
+   - Kernel size: 3  
+
+   - Activation: ReLU  
+
+   - Padding: “same”
+
+2. **BatchNormalization**  
+
+3. **MaxPooling1D**  
+
+   - Pool size: 2  
+
+   - Strides: 2  
+
+   - (length goes from 192 → 96)
+
+4. **Dropout**  
+
+   - Rate: 0.25
+
+### Flatten & Fully-Connected (Dense) Head
+
+1. **Flatten**  
+
+   - Converts the final conv output (e.g., shape `(96, 32)`) into a 1D vector of size `96 × 32 = 3,072`.
+
+2. **Dense Layer 1**  
+
+   - Units: 64  
+
+   - Activation: ReLU  
+
+3. **Dropout**  
+
+   - Rate: 0.40
+
+4. **Dense Layer 2**  
+
+   - Units: 32  
+
+   - Activation: ReLU  
+
+5. **Dropout**  
+
+   - Rate: 0.30
+
+6. **Output Layer**  
+
+   - Dense units: 10  (because there are 10 distinct intent classes)  
+
+   - Activation: Softmax  
+
+### Compilation Parameters
+
+- **Optimizer**: Adam (learning rate default 1e-3 is fine)  
+
+- **Loss**: Categorical Crossentropy (because labels will be one-hot encoded)  
+
+- **Metrics**: Accuracy  
+
+### Training
+
+- Use `model.fit(...)` with:  
+
+  - `epochs=10` (or more if you want; you can also include an `EarlyStopping` callback monitoring validation loss)  
+
+  - `batch_size=32`  
+
+  - `validation_split=0.2`  (20% of data reserved for validation)  
+
+---
+
+## 3. Detailed Instructions
+
+Your Python script should include the following steps, in order:
+
+1. **Import all necessary libraries** (TensorFlow, NumPy, Pandas, scikit-learn’s LabelEncoder, etc.).  
+
+2. **Load the RoBERTa tokens** from `roberta_tokens.tf` (use `tf.convert_to_tensor(np.load("roberta_tokens.tf"))` or similar).  
+
+3. **Load and process labels**:  
+
+   - Read `your_dataset.csv` using Pandas.  
+
+   - Extract the `intent` column.  
+
+   - Use `LabelEncoder` to transform string labels into integer labels (0–9).  
+
+   - Convert integer labels to one-hot vectors with `tf.keras.utils.to_categorical()`.  
+
+4. **Reshape inputs**:  
+
+   - After you have `X_raw` of shape `(num_samples, 768)`, reshape to `X = tf.reshape(X_raw, (-1, 768, 1))`.  
+
+5. **Build the CNN model** exactly as specified in Section 2 (3 conv blocks, flatten, dense, output).  
+
+   - Include BatchNormalization layers after each Conv1D.  
+
+   - Ensure you name each layer or at least set the correct hyperparameters.  
+
+6. **Compile** with `optimizer='adam'`, `loss='categorical_crossentropy'`, `metrics=['accuracy']`.  
+
+7. **Train** with `model.fit(...)`, using epochs=10 (or higher), batch_size=32, validation_split=0.2. Optionally add `tf.keras.callbacks.EarlyStopping(patience=3, restore_best_weights=True)`.  
+
+8. **Evaluate** on the validation split (the built-in validation during `fit` is fine). Optionally, after training, run `model.evaluate(X_test, y_test)` if you have a held-out test set.  
+
+9. **Save** the final trained model to disk (e.g., `model.save("cnn_intent_classifier.h5")`).
+
+---  
+
+### 4. Additional Clarifications & Constraints
+
+- Do **not** assume raw text processing (tokenization) because embeddings are precomputed.  
+
+- Use only TensorFlow’s Keras API (i.e., `from tensorflow.keras import layers, models, optimizers, callbacks`).  
+
+- Keep dropout rates exactly as specified: 0.30 after Conv Blocks 1 & 2, 0.25 after Conv Block 3, 0.40 in the first Dense, 0.30 in the second Dense.  
+
+- Kernel sizes, filter counts, and all hyperparameters must match Section 2.  
+
+- The final `Dense(10, activation='softmax')` must correspond to exactly 10 classes.  
+
+- Make sure to import and use `LabelEncoder` from `sklearn.preprocessing`.  
+
+- At the very top of your script, include a comment with:  
+
+  ```python
+
+  # Python 3.10.10
+
+  # TensorFlow 2.19.0
+
+Structure the code so that a user could run python train_cnn_intent.py end-to-end, assuming the two files roberta_tokens.tf and your_dataset.csv are in the working directory.
+
+---
+
+5. Expected Output
+
+The code generation AI should output a complete .py file (for example, train_cnn_intent.py) that:
+
+1. Loads roberta_tokens.tf and preprocesses it.
+
+2. Loads and encodes labels from your_dataset.csv.
+
+3. Builds the CNN model exactly as per the architecture above.
+
+4. Compiles with Adam + categorical crossentropy + accuracy.
+
+5. Trains with model.fit(...), showing training/validation accuracy and loss.
+
+6. Saves the trained model to disk (optional but recommended).
+
+No additional commentary or extraneous features—just a clean, runnable TensorFlow script that fulfills all requirements.
+
+---
 -----------------------------------------------------------Goal-------------------------------------------------------------------------
 
 User query: open facebook, instagram and whatsapp
@@ -458,14 +716,16 @@ Plot a 2D decision boundary visualization for a multi-class SVM classifier train
 ## in such a format (ready to copy)
 
 ## structurally,
-1. play
-2. google search
-3. content
-4. play
-5. reminder
+1. general       
+2. google search 
+3. close          
+4. reminder      
+5. generate image
 6. youtube search
-7. general
-8. system
+7. content       
+8. system        
+9. abuse         
+10. play      
 ------------------------------------------------------------OutPut form GPT------------------------------------------------------------------------
 
 
@@ -634,19 +894,6 @@ Sample attention_mask[0]: tensor([1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 | `90`     | (subword) | Actual content word piece   |
 | `2`      | `</s>`    | End of sentence (**SEP**)   |
 | `1`      | `<pad>`   | Padding token               |
-
-
-------------------------------------------------------------------------------------------------------------------------------------
-
----------------------------------------------------misclassifying by svm mode---------------------------------------------------------------------------------
-
-thw whole needs to be lowercase before RoBERTa tokenization process
-wow == abuse 
-holi == abuse
-You: you tell me
-Predicted_Intent: abuse
-fresh data entry on 'play' (<song name> in spotify) ("shape of you" in spotify)
-
 ------------------------------------------------------------------------------------------------------------------------------------------------
 put it in together,
 1. based on the symbols(?,.; etc)
@@ -699,3 +946,4 @@ queries = [
     "play 'shape of you' in spotify"
 ]
 ------------------------------------------------------------------------------------------------------------------------------------------------
+python -c "import tensorflow as tf; print(tf.__version__)"

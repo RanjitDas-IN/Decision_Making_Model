@@ -59,8 +59,12 @@ def get_last_processed_batch():
     return 0
 
 def save_last_processed_batch(batch_index):
+    report = f"""
+    today is {batch_index} Day “😂😂” of XgB 
+"""
     with open(progress_file, 'w') as f:
         f.write(str(batch_index))
+        f.write(f"\n{report}")
 
 def main_batch(batch_index):
     print(f"Processing batch {batch_index}...")
