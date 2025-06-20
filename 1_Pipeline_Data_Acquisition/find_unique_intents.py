@@ -4,7 +4,12 @@ file_path = r"/home/ranjit/Desktop/Decision_Making_Model/1_Pipeline_Data_Acquisi
 df= pd.read_csv(file_path, sep="|")
 
 print("Shape of the CSV:",df.shape)
-print(df.describe())
+# print(df.describe())
+
+
+
+
+
 
 def find_duplicates(df):
     """Find and print duplicated rows."""
@@ -20,10 +25,22 @@ def drop_duplicates():
     print("Cleaned data saved to CSV.")
 
 
+
+
+
+
+
 def intent_count():
     intent_counts = df['intent'].value_counts()
     # Print the result
     print(intent_counts)
+    print("The unique intents:",df["intent"].unique())
+
+
+
+
+
+
 
 def check_word_count(padding_or_length):
 
@@ -40,6 +57,12 @@ def check_word_count(padding_or_length):
         print(f"yes, in {first_match['word_count']} word in {original_index + 1} row, intent is {first_match['intent']}")
     else:
         print(f"{padding_or_length} word not present")
+
+
+
+
+
+
 
 # no of counts of a word in a particular utterance
 

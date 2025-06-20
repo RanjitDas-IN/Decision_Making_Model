@@ -38,25 +38,25 @@ n_support_vectors = model.support_vectors_.shape[0]
 feature_dim = model.support_vectors_.shape[1]
 
 dual_coef_params = model.dual_coef_.size
-print(model.dual_coef_,model.support_vectors_)
+# print(model.dual_coef_,model.support_vectors_)
 bias_params = model.intercept_.size
 
 total_parameters = (n_support_vectors * feature_dim) + dual_coef_params + bias_params
-print(f"Support Vectors: {n_support_vectors}")
-print(f"Feature Dimension: {feature_dim}")
-print(f"Dual Coefficients: {dual_coef_params}")
-print(f"Bias Terms: {bias_params}")
+# print(f"Support Vectors: {n_support_vectors}")
+# print(f"Feature Dimension: {feature_dim}")
+# print(f"Dual Coefficients: {dual_coef_params}")
+# print(f"Bias Terms: {bias_params}")holi
 print(f"Total Parameters: {total_parameters}")
 
 
 
 # # --- Main loop ---
-# while True:
-#     user_input = input("You: ")
-#     if user_input.lower() in ["exit", "quit"]:
-#         break
-#     elif user_input == '    ' or user_input == '' or user_input==' ':
-#         print("BC, Enter a valid word")
-#     else:
-#         predicted_intent = predict_intent(user_input)
-#         print(f"Predicted Intent: {predicted_intent}")
+while True:
+    user_input = input("You: ")
+    if user_input.lower() in ["exit", "quit"]:
+        break
+    elif user_input == '    ' or user_input == '' or user_input==' ':
+        print("BC, Enter a valid word")
+    else:
+        predicted_intent = predict_intent(user_input)
+        print(f"Predicted Intent: {predicted_intent}")

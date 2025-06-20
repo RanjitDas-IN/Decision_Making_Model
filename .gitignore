@@ -10,6 +10,10 @@ temp_models
 Experimenting_SVM_models
 xgb_intent_model.joblib
 roberta_tokens.pt
-scsd.txt
+temp.txt
 roberta_tokens.tfrecord
 roberta_tokens.pt
+GS_massy_data.txt
+General_scraping_data.txt
+1_Pipeline_Data_Acquisition/Clean_data.txt
+profanity_en.csv
