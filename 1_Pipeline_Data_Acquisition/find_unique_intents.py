@@ -11,14 +11,16 @@ print("Shape of the CSV:",df.shape)
 
 
 
-def find_duplicates(df):
+def find_duplicates():
     """Find and print duplicated rows."""
     duplicates = df.duplicated()
     duplicate_rows = df[duplicates]
+    print("\nNo of duplicate values:",duplicate_rows.shape[0])
     print("Duplicate rows:\n", duplicate_rows)
 
 def drop_duplicates():
     """Drop duplicates in-place and save the updated CSV."""
+    print("Before removing the duplicates shape:",df.shape)
     df.drop_duplicates(inplace=True)
     print("Shape after dropping duplicates:", df.shape)
     df.to_csv(file_path, sep="|", index=False)
@@ -68,22 +70,23 @@ def check_word_count(padding_or_length):
 
 def appearing_a_word_in_utterance():
     count=0
-    intent_name = "abuse"
-    word = ""
+    intent_name = "google search"
+    word = "tutorial"
 
     gdf=df[df["intent"]== intent_name]
+    print("\n\n")
 
     for i in gdf["utterance"]:
-        if  (word and 'search') in i:
-            # print(i)
+        if  (word) in i:
+            print(i)
             count += 1
-    print(f"\nNo of appearing the word '{word}' in '{intent_name}' is {count}")
+    print(f"\n\nNo of appearing the word '{word}' in '{intent_name}' is {count}")
 
 
 
 
 intent_count()
-# find_duplicates(df)
+# find_duplicates()
 # drop_duplicates()
 # appearing_a_word_in_utterance()
 # check_word_count(padding_or_length=2)
