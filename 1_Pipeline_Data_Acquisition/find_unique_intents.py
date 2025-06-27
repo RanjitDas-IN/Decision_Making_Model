@@ -68,25 +68,59 @@ def check_word_count(padding_or_length):
 
 # no of counts of a word in a particular utterance
 
-def appearing_a_word_in_utterance():
-    count=0
-    intent_name = "google search"
-    word = "tutorial"
+def appearing_a_word_in_utterance(df, word="tell me about"):
+    total = 0
+    print(f"\n🔍 Searching for the word '{word}' across all intents...\n")
 
-    gdf=df[df["intent"]== intent_name]
-    print("\n\n")
+    for intent in df["intent"].unique():
+        gdf = df[df["intent"] == intent]
+        count = 0
 
-    for i in gdf["utterance"]:
-        if  (word) in i:
-            print(i)
-            count += 1
-    print(f"\n\nNo of appearing the word '{word}' in '{intent_name}' is {count}")
+        for utterance in gdf["utterance"]:
+            if word in utterance.lower():
+                if count == 0:
+                    print(f"👉 Intent: {intent}")
+                print("   ", utterance)
+                count += 1
+                total += 1
+        
+        if count > 0:
+            print(f"   ⟶ {count} matches in intent '{intent}'\n")
+
+    print(f"\n✅ Total '{word}' occurrences across all intents: {total}")
+
+
+
+    
+def convert_weather_containing_utterance_to_google_search_intent_if_needed(csv_path: str, delimiter: str = '|'):
+        
+            df = pd.read_csv(csv_path, sep=delimiter)
+
+            mask = df['utterance'].str.contains('weather', case=False) & (df['intent'] != 'google search')
+            changes = df[mask]
+
+
+            if not changes.empty:
+                print("Changes to be made (intent changed to 'google search'):\n")
+                print(changes)
+            else:
+                print("✅ No changes needed. No 'weather' entries outside of 'google search' intent.")
+
+
+            df.loc[mask, 'intent'] = 'google search'
+
+
+            # df.to_csv(csv_path, sep=delimiter, index=False)
+
+            print(f"\n✔ Total entries modified: {len(changes)}")
+import pandas as pd
 
 
 
 
-intent_count()
+# intent_count()
 # find_duplicates()
 # drop_duplicates()
-# appearing_a_word_in_utterance()
+# appearing_a_word_in_utterance(df)
 # check_word_count(padding_or_length=2)
+# convert_weather_containing_utterance_to_google_search_intent_if_needed(file_path)
