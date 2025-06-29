@@ -1,794 +1,1131 @@
 utterance|intent
-please close YouTube|close
-need out|close
-close it down|close
-shut the gates|close
-power down sequence|close
-exit the dashboard|close
-exit the app now|close
-please shut this tab|close
-close the window for me?|close
-get rid of this screen|close
-quit the program right away|close
-close this, I’m done|close
-shut it down, please|close
-close that pop-up|close
-wanna leave this window|close
-just exit this app|close
-please go back and close it|close
-close this tab quietly|close
-kill this process|close
-okay, I’m done—close it|close
-could please close it?|close
-end this session|close
-shut off the app|close
-wrap this window up|close
-close this right now|close
-stop this and exit|close
-want out, close it|close
-time to quit this|close
-exit from here|close
-go back and close the screen|close
-wrap it up|close
-Shut this thing off for me|close
-Kill that tab, it’s annoying|close
-Can close the music player?|close
-Exit out of this app, I’m done|close
-Yo, back outta that screen|close
-Just get rid of this popup|close
-Nuke the browser tab now|close
-Close that folder window, it’s cluttering the view|close
-Quit the chat app, I’m logging off|close
-Wrap this window up|close
-Slide that one away for me|close
-End that task, it’s frozen|close
-Can get this off my screen?|close
-I’m done here, close it up|close
-Kill the player, I’ve had enough noise|close
-Cut off that overlay panel|close
-Close the extras, only need the main app|close
-Drop the video window now|close
-Exit this and go back|close
-Take this tab down|close
-Get rid of that alert box|close
-Yo Nisha, shut the player down|close
-Collapse that window real quick|close
-Put that thing to sleep|close
-Close out of the notes app|close
-Scrap this window, don’t need it|close
-Kill that background process UI|close
-Boot that task outta here|close
-X out that screen|close
-Tap out of this one|close
-Just close that junk in the corner|close
-Nuke the music overlay|close
-Let’s close this out, yeah?|close
-Wipe off the floating menu|close
-Can tap the X on that thing?|close
-End that window session|close
-Dismiss that full-screen mode|close
-Yo, exit this nonsense|close
-Trash this view, open’s enough|close
-Minimize it? Nah, close it down|close
-Shut the current window down|close
-Clip the tab, I’ve seen enough|close
-Close this app, it’s laggy|close
-Cancel this overlay screen|close
-I’m over this window, just close it|close
-Trash this app, I’m switching|close
-Swipe away that preview|close
-Exit fullscreen and shut it down|close
-Get me outta this popout|close
-Just end this app view already|close
-Boot the widget off the screen|close
-Wrap up this chat box|close
-X this one, I’m out|close
-cut the signal|close
-call it a day|close
-clocking out now|close
-close the Photos app|close
-please close this window|close
-exit the page for me|close
-end this tab?|close
-shut this thing down|close
-I’d like to close it|close
-terminate this app|close
-go back and close it|close
-wrap up this session|close
-quit the application|close
-just close the current screen|close
-exit this panel now|close
-get me out of here|close
-kill this task|close
-press exit for me|close
-close the current interface|close
-can we shut this off?|close
-time to close the tab|close
-done with this — close it|close
-please end the app|close
-back out and close this|close
-I’m done, close this thing|close
-end the session here|close
-let’s exit this|close
-I’d like to shut it down|close
-abort this window|close
-just go back and exit|close
-I’m finished, close it up|close
-wind this down|close
-nuke this screen|close
-close this like right now|close
-backtrack and close this window|close
-make this screen go away|close
-kill the UI|close
-wrap this window up please|close
-exit that open tab|close
-leave this page and close it|close
-shut the program now|close
-pull the plug on this tab|close
-get out of here|close
-just close it, no questions|close
-shut the door on this screen|close
-put an end to this window|close
-hop out of this app|close
-cut this out, please|close
-close this and nothing else|close
-say goodbye to this app|close
-exit stage left|close
-close the U now|close
-want this screen gone|close
-escape this app|close
-close and forget it|close
-shut this screen off|close
-dismiss the tab|close
-please exit this now|close
-don’t wanna see this, close it|close
-drop out of the window|close
-time to leave this tab|close
-press close on the current screen|close
-back out of this?|close
-wrap this whole thing up|close
-turn this screen off|close
-shut down just this app|close
-get this thing off my screen|close
-I’m done here — close it|close
-close the thing just opened|close
-close whatever I’m looking at|close
-exit this exact screen|close
-be gone with this tab|close
-evict this page|close
-move out of this window|close
-I’ve seen enough — close it|close
-drop this app like it’s hot|close
-close the view|close
-peace out from this app|close
-goodbye screen|close
-close time!|close
-bounce out of this|close
-shut the whole damn thing|close
-cut this page short|close
-back out and kill it|close
-yeet this app outta here|close
-exit mode please|close
-we done — close this mess|close
-that’s it, I’m out — close it|close
-shut it gracefully|close
-gently close the app|close
-slam the door on this screen|close
-bring this window to a close|close
-fold this session|close
-step away and close|close
-pack this U up|close
-I’m good — end this here|close
-kick me back and close it|close
-escape hatch please|close
-wanna exit now|close
-flush this screen|close
-exit this cleanly|close
-log out and close|close
-halt the screen|close
-no more, close now|close
-command: close|close
-exit route activated|close
-fade this out|close
-donezo — shut it|close
-eject me from this window|close
-turn this off right now|close
-wrap this thing up please|close
-please get out of this window|close
-need to close it down|close
-exit from this interface|close
-back out and leave this|close
-remove this screen for me|close
-want this gone|close
-send this page away|close
-need to close this out|close
-shut the screen immediately|close
-please dismiss this|close
-escape from this now|close
-exit the current app|close
-get outta this right now|close
-switch this off and exit|close
-no more of this — close it|close
-good time to quit this|close
-close off this task|close
-wrap up this activity|close
-close this with style|close
-just tap out of here|close
-evacuate this screen|close
-let’s bounce — shut this|close
-send it packing|close
-I’m over it — close this|close
-kick me out of this screen|close
-hit the exit button|close
-back me out of this|close
-click close and move on|close
-please terminate the session|close
-shut this feature down|close
-just shut the door on this|close
-end this thing, now|close
-need a clean exit here|close
-get me to home and close this|close
-send this U to sleep|close
-roll out of this app|close
-exit the environment|close
-halt the current session|close
-want to disappear this screen|close
-please shut this softly|close
-disconnect me from this app|close
-call it a day — close it|close
-that’s a wrap, close this|close
-close the curtain on this|close
-quietly end the process|close
-need to quit this screen|close
-pull me back and close|close
-eject this app gently|close
-seal this screen for good|close
-shut the app|close
-exit the program|close
-terminate the application|close
-close this tab|close
-end the session|close
-log me out|close
-quit the software|close
-stop the process|close
-close the browser|close
-turn off the application|close
-close the document|close
-shut down the system|close
-close the file|close
-exit the browser|close
-close the page|close
-terminate the session|close
-close the chat|close
-log out|close
-close the game|close
-end the call|close
-close the video|close
-stop the music|close
-close the window now|close
-exit the app|close
-close the application|close
-shut the program|close
-terminate the app|close
-close the tab|close
-end the program|close
-log off|close
-close the screen|close
-stop the application|close
-close the interface|close
-exit the session|close
-close the software|close
-shut the window|close
-close the system|close
-terminate the process|close
-close the platform|close
-exit the platform|close
-close the dashboard|close
-shut the dashboard|close
-close the control panel|close
-exit the control panel|close
-close the settings|close
-shut the settings|close
-close the preferences|close
-exit the preferences|close
-close the configuration|close
-shut the configuration|close
-close the setup|close
-exit the setup|close
-close the installer|close
-shut the installer|close
-close the updater|close
-exit the updater|close
-close the download manager|close
-shut the download manager|close
-exit the task manager|close
-close the resource monitor|close
-shut the resource monitor|close
-close the performance monitor|close
-exit the performance monitor|close
-close the event viewer|close
-shut the event viewer|close
-close the device manager|close
-exit the device manager|close
-close the disk management|close
-shut the disk management|close
-close the system information|close
-exit the system information|close
-shut the command prompt|close
-close the terminal|close
-exit the terminal|close
-close the powershell|close
-shut the powershell|close
-close the registry editor|close
-exit the registry editor|close
-close the task scheduler|close
-shut the task scheduler|close
-close the services|close
-exit the services|close
-close the msconfig|close
-shut the msconfig|close
-close the control panel window|close
-exit the control panel window|close
-close the settings window|close
-shut the settings window|close
-close the preferences window|close
-exit the preferences window|close
-close the configuration window|close
-shut the configuration window|close
-close the setup window|close
-exit the setup window|close
-close the installer window|close
-shut the installer window|close
-close the updater window|close
-exit the updater window|close
-please close the window|close
-shut this app|close
-exit please|close
-bail out|close
-terminate session|close
-close tab|close
-shut the tab|close
-close that window|close
-end this|close
-shut it|close
-close it|close
-kill the process|close
-close all windows|close
-shut down the software|close
-close this file|close
-end the application|close
-close everything|close
-finish up and close|close
-quit the app|close
-sign off|close
-wrap up the session|close
-close current app|close
-close this session|close
-shut off the program|close
-close project|close
-close window now|close
-close this program|close
-exit the current window|close
-exit the email client|close
-shut down settings window|close
-close this browser tab|close
-quit the music player|close
-dismiss the notification panel|close
-close the video player|close
-close the command prompt|close
-close this notification popup|close
-close only this document|close
-close the shutdown options dialog|close
-close the reboot prompt window|close
-close the power management settings|close
-close the system update popup|close
-close the energy saver panel|close
-close the power button configuration|close
-close the safe-mode warning screen|close
-close the boot menu overlay|close
-close the firmware update page|close
-close the battery saver notification|close
-close the hibernation settings box|close
-close the fast-boot panel|close
-close the recovery options window|close
-close the secure boot dialog|close
-close the system restore wizard|close
-close the Spotify app|close
-close the second tab|close
-close the shutdown settings tab|close
-close the power options menu|close
-close the system monitor window|close
-close the reboot logs|close
-close the battery stats popup|close
-close the startup applications list|close
-close the update center|close
-close the downloads panel|close
-close the settings screen|close
-close the currently focused app|close
-close the chat overlay|close
-close the calendar window|close
-close this window but keep the app running|close
-close all other tabs except this one|close
-close the terminal session|close
-end the video call|close
-close all open documents|close
-close the current window|close
-close Chrome browser|close
-close the system info tab|close
-shut the browser down|close
-close the power options window|close
-restart the settings app|close
-close the terminal tab|close
-close the notes app|close
-close this popup|close
-close the current tab|close
-close the YouTube window|close
-close my documents|close
-close all running apps|close
-close settings window|close
-close recent files list|close
-close the chat popup|close
-close this notification|close
-close everything open|close
-close the image viewer|close
-close the alarm screen|close
-close downloads panel|close
-close the email client|close
-close all tabs except this one|close
-close the current document|close
-close split screen view|close
-close camera app|close
-close file explorer|close
-close the spreadsheet|close
-close the presentation|close
-close the PDF reader|close
-close the terminal window|close
-close the settings tab|close
-close the help window|close
-close the search bar|close
-close the sidebar|close
-close the notification center|close
-close the task manager|close
-close the program|close
-close the report|close
-close the log file|close
-pack it up|close
-fade to black|close
-terminate operations|close
-look up my contacts|close
-lookup system settings|close
-stop the video and close the app|close
-wrap up the music and shut it|close
-close the player after playback|close
-end the streaming now|close
-end the session please|close
-remove this window|close
-close this content tab|close
-archive the article and close|close
-wrap the wires|close
-pull the curtain|close
-ghost this app|close
-drop the mic and shut it|close
-pull the plug|close
-nuke the tab|close
-end of the line|close
-signing off|close
-show’s over|close
-seal the portal|close
-power down the beast|close
-clear the stage|close
-turn off the lights|close
-exit the ride|close
-close the window|close
-shut down this application|close
-log out and close everything|close
-please close the interface|close
-kill this tab|close
-shut off the assistant|close
-turn off the AI|close
-close this application now|close
-close down the dashboard|close
-exit the interface|close
-stop and close|close
-turn the app off|close
-drop the curtain|close
-clock out time|close
-abort the mission|close
-log off from existence|close
-shut it after the video ends|close
-close the media player|close
-exit once the playback is done|close
-close this after it finishes playing|close
-close this doc when done reading|close
-close everything after viewing|close
-please close the tab after watching|close
-stop the podcast and close app|close
-close my session once media ends|close
-shut the app when the content ends|close
-end the video and shut the screen|close
-close browser after this stream|close
-kill the music and log me out|close
-log off after playback ends|close
-clear the scene|close
-shut everything off|close
-pull the plug on this app|close
-cut the feed|close
-roll the credits|close
-done for today|close
-hit the shutdown button|close
-off with the lights|close
-retreat and shut|close
-switch to offline mode|close
-despawn the assistant|close
-clock me out|close
-slam the brakes|close
-bring this to a halt|close
-disable everything|close
-drop all functions|close
-clear my screen|close
-close this down|close
-wrap up this app|close
-dismiss this screen|close
-exit the editor|close
-scrap this panel|close
-kill the current interface|close
-close the door on this|close
-bye bye to this app|close
-halt this interface|close
-log out and exit|close
-shut down the assistant|close
-please exit now|close
-abort mission|close
-we’re done, shut it down|close
-pack it up, we’re leaving|close
-this ends here|close
-I’ve had enough|close
-mission complete|close
-power down sequence, go|close
-delete this interface|close
-exit node active|close
-I’m bouncing|close
-peace out|close
-unplug now|close
-power off|close
-get me outta here|close
-wrap it|close
-I’m out|close
-bounce from this app|close
-close the curtain|close
-donezo|close
-switch it off|close
-pull down the shades|close
-turn off the system|close
-let’s end this ride|close
-power it down|close
-final command: shutdown|close
-closing time|close
-off go|close
-close the app|close
-exit the application|close
-please stop everything|close
-want to quit|close
-log out now|close
-stop running now|close
-leave the program|close
-turn yourself off|close
-shut it off?|close
-I’m done here, close this|close
-wrap this up|close
-that’s enough, exit now|close
-Kick that window out|close
-Close the whole chat view|close
-Get that app outta my face|close
-Click the cross and bounce it|close
-Tell that tab goodbye|close
-Exit the doc, I’m done typing|close
-Slide off that overlay|close
-Lose the pop-up already|close
-Shut that thing, will ya?|close
-Back out and kill the screen|close
-Yo, wipe the current tab clean|close
-Make that app vanish|close
-Kill the floating window now|close
-Clear this screen and chill|close
-End the task on the side panel|close
-Done with this player — close it|close
-Push that menu away|close
-Throw this tab into the void|close
-Delete that little window up top|close
-Get me out of this edit view|close
-Close out the stream panel|close
-Can drop that floating chat?|close
-Nisha, shut that app down real quick|close
-Collapse that preview pane|close
-Tell this widget to go nap|close
-Shut off this mini-app running|close
-Fold the sidebar down|close
-Click that X like a boss|close
-Trash the current file view|close
-Boot this window from my desktop|close
-Wipe off this extra screen|close
-Get rid of this thing hovering|close
-Snuff out the popup|close
-Exit this thing, I’ve moved on|close
-Take that tab off rotation|close
-Hit the close on that window now|close
-Clear this screen and get me back|close
-Dismiss the overlay thingy|close
-Nuke the floating panel|close
-Close that stuff in the background|close
-Wrap the window and bounce|close
-don’t need this panel, close it|close
-Cancel that task view|close
-quit everything|close
-shut the program down|close
-back out of this window|close
-close the app now|close
-exit this application|close
-stop everything, I’m done|close
-turn this thing off|close
-pack up this session|close
-archive and exit|close
-seal this window|close
-lock up this app|close
-wind down this program|close
-log off from this session|close
-dismiss the active window|close
-draw the curtains on this|close
-button up this application|close
-snap the window shut|close
-clip this session|close
-put the lid on this app|close
-zip up this window|close
-cap off this program|close
-pack up this application|close
-snap this shut|close
-fold away this window|close
-button down this session|close
-cap this off|close
-draw a curtain on this app|close
-lock this down|close
-stow away this window|close
-close the frame|close
-bring this to a close|close
-halt this display|close
-seal off the interface|close
-shutter this program|close
-curtail this session|close
-cut the run here|close
-clip the wings of this app|close
-shrink this window away|close
-store this application|close
-button up the interface|close
-clip this tool|close
-shutter the interface|close
-latch this window|close
-bring down this screen|close
-pull the shades on this|close
-bolt this app shut|close
-curtain call for this window|close
-tie up this session|close
-lock out this program|close
-fold in the window|close
-jam this software closed|close
-block access and close|close
-crimp this interface|close
-trim this session short|close
-shelve this app|close
-drop the blinds on this|close
-dock this window|close
-quell the display|close
-curb this program|close
-park this application|close
-snuff out this session|close
-cork this window|close
-wrap the interface|close
-reel in this app|close
-bury this window|close
-park the app|close
-extinguish this session|close
-seal up this tool|close
-button this window|close
-douse this program|close
-anchor this application|close
-stall this session|close
-leash this window|close
-lock this interface|close
-dock the program|close
-stanch this app|close
-stop this interface|close
-ream in this window|close
-latch down this session|close
-fog this display off|close
-secure this program|close
-muzzle this app|close
-reel in this session|close
-bank this window|close
-curb access here|close
-bookend this interface|close
-bind this app|close
-curtains on this display|close
-reel up this program|close
-nail shut this session|close
-bar this window|close
-lock the frame|close
-safeguard and close|close
-peg this interface|close
-curb this session|close
-snap this interface off|close
-shove this window away|close
-suppress this app|close
-strand this session closed|close
-sideline this program|close
-dock this interface|close
-bolster and close|close
-lock the screen tight|close
-wind up this program|close
-cage this app|close
-pinch this session off|close
-stanch the interface|close
-cuff this window|close
-end it right away|close
-close everything up|close
-halt the service now|close
-just shut it down|close
-bring it to an end|close
-wrap this feature now|close
-close out everything|close
-finish this task|close
-make it stop|close
-kill the active window|close
-end what’s on screen|close
-wrap this thing|close
-turn off the interface|close
-cut this short|close
-wrap it all|close
-bring closure to this|close
-pull the plug on it|close
-wind it down|close
-kill the display|close
-shut down the dashboard|close
-close this dashboard|close
-exit from this screen|close
-pack this up|close
-close this functionality|close
-get rid of this|close
-remove this screen|close
-terminate and quit|close
-abort the app|close
-close and get out|close
-close and leave|close
-make the window vanish|close
-remove this app|close
-close the code|close
-kill the operation|close
-close whatever this is|close
-kill what’s running|close
-off this thing|close
-clear the app|close
-dissolve the window|close
-exit what’s running|close
-lock it off|close
-dismount this app|close
-close this logic|close
-take down the screen|close
-finalize and quit|close
-end the execution|close
-conclude this app|close
-make the session end|close
-vanish the screen|close
-exit this feature|close
-unplug the software|close
-stop this UI|close
-kill the frontend|close
-terminate the screen|close
-end the run|close
-close this instance|close
-break the loop|close
-dump the app|close
-scrap the task|close
-release this session|close
-offload the process|close
+please close YouTube|system
+need out|system
+close it down|system
+shut the gates|system
+power down sequence|system
+exit the dashboard|system
+exit the app now|system
+please shut this tab|system
+close the window for me?|system
+get rid of this screen|system
+quit the program right away|system
+close this, I’m done|system
+shut it down, please|system
+close that pop-up|system
+wanna leave this window|system
+just exit this app|system
+please go back and close it|system
+close this tab quietly|system
+kill this process|system
+okay, I’m done—close it|system
+could please close it?|system
+end this session|system
+shut off the app|system
+wrap this window up|system
+close this right now|system
+stop this and exit|system
+want out, close it|system
+time to quit this|system
+exit from here|system
+go back and close the screen|system
+wrap it up|system
+Shut this thing off for me|system
+Kill that tab, it’s annoying|system
+Can close the music player?|system
+Exit out of this app, I’m done|system
+Yo, back outta that screen|system
+Just get rid of this popup|system
+Nuke the browser tab now|system
+Close that folder window, it’s cluttering the view|system
+Quit the chat app, I’m logging off|system
+Wrap this window up|system
+Slide that one away for me|system
+End that task, it’s frozen|system
+Can get this off my screen?|system
+I’m done here, close it up|system
+Kill the player, I’ve had enough noise|system
+Cut off that overlay panel|system
+Close the extras, only need the main app|system
+Drop the video window now|system
+Exit this and go back|system
+Take this tab down|system
+Get rid of that alert box|system
+Yo Nisha, shut the player down|system
+Collapse that window real quick|system
+Put that thing to sleep|system
+Close out of the notes app|system
+Scrap this window, don’t need it|system
+Kill that background process UI|system
+Boot that task outta here|system
+X out that screen|system
+Tap out of this one|system
+Just close that junk in the corner|system
+Nuke the music overlay|system
+Let’s close this out, yeah?|system
+Wipe off the floating menu|system
+Can tap the X on that thing?|system
+End that window session|system
+Dismiss that full-screen mode|system
+Yo, exit this nonsense|system
+Trash this view, open’s enough|system
+Minimize it? Nah, close it down|system
+Shut the current window down|system
+Clip the tab, I’ve seen enough|system
+Close this app, it’s laggy|system
+Cancel this overlay screen|system
+I’m over this window, just close it|system
+Trash this app, I’m switching|system
+Swipe away that preview|system
+Exit fullscreen and shut it down|system
+Get me outta this popout|system
+Just end this app view already|system
+Boot the widget off the screen|system
+Wrap up this chat box|system
+X this one, I’m out|system
+cut the signal|system
+call it a day|system
+clocking out now|system
+close the Photos app|system
+please close this window|system
+exit the page for me|system
+end this tab?|system
+shut this thing down|system
+I’d like to close it|system
+terminate this app|system
+go back and close it|system
+wrap up this session|system
+quit the application|system
+just close the current screen|system
+exit this panel now|system
+get me out of here|system
+kill this task|system
+press exit for me|system
+close the current interface|system
+can we shut this off?|system
+time to close the tab|system
+done with this — close it|system
+please end the app|system
+back out and close this|system
+I’m done, close this thing|system
+end the session here|system
+let’s exit this|system
+I’d like to shut it down|system
+abort this window|system
+just go back and exit|system
+I’m finished, close it up|system
+wind this down|system
+nuke this screen|system
+close this like right now|system
+backtrack and close this window|system
+make this screen go away|system
+kill the UI|system
+wrap this window up please|system
+exit that open tab|system
+leave this page and close it|system
+shut the program now|system
+pull the plug on this tab|system
+get out of here|system
+just close it, no questions|system
+shut the door on this screen|system
+put an end to this window|system
+hop out of this app|system
+cut this out, please|system
+close this and nothing else|system
+say goodbye to this app|system
+exit stage left|system
+close the U now|system
+want this screen gone|system
+escape this app|system
+close and forget it|system
+shut this screen off|system
+Shut off the main gate|system
+Could you please close the living room curtains|system
+Turn off the basement window|system
+Seal the back door|system
+Can you close out this application|system
+Would you mind closing the pop-up ad|system
+Terminate the current tab|system
+Please close the blinds in the dining area|system
+Exit the document|system
+Deactivate the kitchen fan|system
+Close down the program|system
+Could you shut the car window|system
+Please close the trunk|system
+End the active session|system
+Close the lid of the laptop|system
+Can you close the refrigerator door fully|system
+Switch off the bedroom lamp|system
+Cut off the water valve|system
+Could you close the umbrella|system
+Please close the gate latch|system
+Close the oven door securely|system
+Shut the cupboard door|system
+Close the closet door|system
+Close the file you just opened|system
+Please close the drapes in the study|system
+Close the hood of the car|system
+Can you close the drawer quietly|system
+Shut down the terminal window|system
+Please close the lid on the trash can|system
+Close the browser tab|system
+Power down the external hard drive|system
+Could you please close the pop-up window|system
+Turn off the television in the den|system
+Can you shut the sliding door|system
+Deactivate the alarm system|system
+Close the application running in the background|system
+Please close the account details|system
+Terminate the video call|system
+Close the garage entrance|system
+Would you close the living room door|system
+I need you to close the front gate|system
+Shut the passenger window|system
+Can you close the settings menu|system
+Close the main circuit breaker|system
+Please shut off the water supply|system
+Could you close the balcony door|system
+Close the pet door|system
+Shut down the system process|system
+Close out this game|system
+Turn off the exterior lights|system
+Please close the child safety gate|system
+Close the pool cover|system
+Can you close the air vent|system
+Deactivate the smart lock|system
+Close the privacy screen|system
+Shut the car door firmly|system
+Please close the microwave door|system
+Close the chimney damper|system
+Can you close the top drawer of the dresser|system
+Close the medicine cabinet|system
+Shut the storm shutters|system
+Please close the fuse box|system
+Close the access panel|system
+Turn off the porch light|system
+Could you close the car sunroof|system
+Shut down the projector|system
+Close the back gate|system
+Please close the display case|system
+Close the attic access panel|system
+Can you close the car’s glove compartment|system
+Shut the server rack door|system
+Deactivate the electric fence|system
+Close the garden shed door|system
+Please close the safe|system
+Close the locker door|system
+Can you close the utility closet|system
+Shut the storage container|system
+Please close the detached garage door|system
+Close the basement cellar door|system
+Could you close the window in the study|system
+Shut off the light in the hallway|system
+Please close the lid of the cooler|system
+Close the main water shut-off valve|system
+Can you close the attic fan|system
+Shut the screen door|system
+Please close the back gate properly|system
+Deactivate the smart plug|system
+Please close the outdoor faucet|system
+Close the safe deposit box|system
+Can you close the passenger-side window|system
+Shut the back door securely|system
+Please close the dishwasher door|system
+Close the fireplace damper|system
+Can you close the bathroom fan|system
+Shut down the home security system|system
+Please close the laundry room door|system
+Close the wine cellar door|system
+Could you close the freezer door tightly|system
+Shut the detached garage door|system
+Please close the mailbox flap|system
+Close the fuse box cover|system
+Can you close the cabinet under the sink|system
+Shut off the main gas line|system
+Please close the roof hatch|system
+Close the server cabinet|system
+Could you close the attic pull-down stairs|system
+Close the side gate|system
+Shut off the upstairs fan|system
+Can you close the passenger door|system
+Please close the pantry door|system
+Deactivate the car alarm|system
+Close the spreadsheet program|system
+Terminate the video game|system
+Would you mind closing the pop-up notification|system
+Close the chimney flue|system
+Shut the back window|system
+Turn off the basement light|system
+Please close the outdoor spigot|system
+Close the filing cabinet drawer|system
+Can you shut the balcony door|system
+End the virtual meeting|system
+Close the main circuit|system
+Shut down the desktop application|system
+Please close the bird cage door|system
+Close the fuse panel|system
+Deactivate the security camera|system
+Shut the medicine drawer|system
+Close the laptop screen|system
+Can you close the tent zipper|system
+Please close the attic fan|system
+Close out the shopping cart|system
+Shut off the garage light|system
+Close the server rack|system
+Please close the garden hose nozzle|system
+Close the top cupboard|system
+Can you shut the dog kennel|system
+Close that darn thing|system
+Could you please close whatever's open?|system
+Shut down everything running|system
+I need to close this before I leave|system
+Finish up that program|system
+Close the active item|system
+Turn off the screen you're on|system
+Close the open window|system
+Make that go dark|system
+End the current display|system
+Close whatever is currently playing|system
+Deactivate the visual output|system
+Shut off the main power to that|system
+Please close down the session|system
+I'm done with this, close it|system
+Close the user interface|system
+Can you terminate what's showing?|system
+Close the thing on the wall|system
+Shut that off, please|system
+Close the active application|system
+Pause the stream|system
+Play the stream|system
+Could you pause this TikTok?|system
+Resume the YouTube video|system
+Stop the Netflix show|system
+Start the Hulu series|system
+Pause what's playing|system
+Play that again|system
+Can you pause this episode?|system
+Would you mind unpausing the movie?|system
+I need you to pause my playlist|system
+Get this podcast playing|system
+Freeze the video feed|system
+Let's get this documentary started|system
+Put the playback on hold|system
+Continue the playback|system
+Stop the Amazon Prime video|system
+Begin the Disney film|system
+Hold the current show|system
+Start the next episode|system
+Pause the video|system
+Play the video|system
+Please pause the video|system
+Could you play the video?|system
+Stop the video, please|system
+Resume the video|system
+Pause it|system
+Play it|system
+Can you pause this video?|system
+Would you play this video?|system
+I need you to pause the video|system
+I want to play the video|system
+Go ahead and pause the video|system
+Start the video up|system
+Put the video on hold|system
+Get the video going|system
+Can you stop the current video?|system
+Let's get this video playing|system
+Hold the video|system
+Begin the video|system
+Turn off the main light|system
+Close that thing over there|system
+Exit the application|system
+Shut down that program, please|system
+Can you close the display|system
+Kill the process|system
+Switch off the screen|system
+Close out the current view|system
+End this running task|system
+Close the stuff on the desktop|system
+Turn off the device|system
+Shut the entire system down|system
+Get rid of that window|system
+I want to close this|system
+Close what's open|system
+Power down the computer|system
+Close it|system
+Turn that off|system
+Make this go away|system
+Stop that from running|system
+Hey Nisha, close living room AC now|system
+Yo, close the front door for me|system
+Can you, like, shut down the TV?|system
+Hey Google, close the blinds please|system
+Nisha, go ahead and close that window|system
+Uh, close the garage door, will ya?|system
+So, close the app, please|system
+Alright, close the lights in the kitchen|system
+Could you just close that browser tab?|system
+Yo, shut the back gate|system
+Hey, close the curtains, okay?|system
+Nisha, can you close the pop-up?|system
+Uh, close the laptop lid|system
+Like, close the refrigerator door|system
+Alright, just close that file|system
+Hey Google, close the bathroom fan|system
+So, shut off the porch light|system
+Nisha, close the program, please|system
+Can you, like, close the car window?|system
+Yo, close the oven door|system
+Hey, shut down the system|system
+Uh, close the settings menu|system
+Alright, close the account details|system
+Could you just close the game?|system
+Yo, shut the closet door|system
+Nisha, go on and close the privacy screen|system
+Hey Google, close the attic stairs|system
+So, close the external hard drive|system
+Uh, close the dog door|system
+Like, shut off the bedroom lamp|system
+Alright, close the user interface|system
+Could you just close that thing on the screen?|system
+Yo, close the storm shutters|system
+Nisha, terminate the video call|system
+Hey, close the cabinet|system
+Uh, shut the garden shed door|system
+So, close the pool cover|system
+Alright, close the access panel|system
+Can you, like, close the utility closet?|system
+Yo, shut off the main water valve|system
+Nisha, close the safe deposit box|system
+Hey Google, close the top drawer|system
+Uh, close the detached garage door|system
+Like, shut down the server|system
+Alright, close the shed|system
+Could you just close the trunk lid?|system
+Yo, close the fireplace damper|system
+Nisha, close the server rack|system
+Hey, shut off the outdoor faucet|system
+Uh, close the laundry room door|system
+So, close the freezer|system
+Alright, just close the wine cellar|system
+Can you, like, shut the main gate?|system
+Nisha, close the bird cage|system
+Close the front door|system
+Shut the garage door|system
+Can you close the living room window|system
+Please shut the car window|system
+Turn off the kitchen light|system
+Deactivate the bedroom fan|system
+Close the blinds in the study|system
+Shut the curtains in the dining room|system
+Seal the back gate|system
+Close the refrigerator door|system
+Turn off the air conditioning unit|system
+Shut the main gate|system
+Please close the oven door|system
+Could you shut the trunk|system
+Close the cupboard|system
+Shut the car's sunroof|system
+Close the attic door|system
+Secure the safe door|system
+Close the shed door|system
+Close out this application|system
+Shut down the browser|system
+Exit the program|system
+Close the pop-up ad|system
+Dismiss the notification|system
+Close the chatbox|system
+End the game|system
+Shut down the system|system
+Close the modal window|system
+Deactivate the background app|system
+Close the YouTube video|system
+End the current session|system
+Close the email client|system
+Shut down the virtual machine|system
+Close all open tabs|system
+Exit the document without saving|system
+Close the privacy warning|system
+Terminate the streaming service|system
+Would you mind closing that for me|system
+Can you please shut the door|system
+I need you to close the window, please|system
+Hey, close the lights!|system
+Could you turn off that thing|system
+Yo, shut that junk off!|system
+Please close the door to the balcony before it rains|system
+Close it up!|system
+I'm just going to close this now|system
+Time to shut down everything|system
+Do you mind closing the lid|system
+Close light|system
+Shut the door, will ya?|system
+Could I get you to close the gate?|system
+I need to close this tab quickly|system
+Close that!|system
+Would you be able to close the curtain?|system
+I'll just close the program for now|system
+Mind closing the window?|system
+It's time to power down the system|system
+Deactivate the device|system
+Kindly close the application|system
+Please terminate the process|system
+Close the window, would you?|system
+Shut it off!|system
+Go ahead and close that|system
+Close up shop!|system
+I'm going to close the garage now|system
+Could you just close this screen?|system
+Let's shut down for the night|system
+dismiss the tab|system
+please exit this now|system
+don’t wanna see this, close it|system
+drop out of the window|system
+time to leave this tab|system
+press close on the current screen|system
+back out of this?|system
+wrap this whole thing up|system
+turn this screen off|system
+shut down just this app|system
+get this thing off my screen|system
+I’m done here — close it|system
+close the thing just opened|system
+close whatever I’m looking at|system
+exit this exact screen|system
+be gone with this tab|system
+evict this page|system
+move out of this window|system
+I’ve seen enough — close it|system
+drop this app like it’s hot|system
+close the view|system
+peace out from this app|system
+goodbye screen|system
+close time!|system
+bounce out of this|system
+shut the whole damn thing|system
+cut this page short|system
+back out and kill it|system
+yeet this app outta here|system
+exit mode please|system
+we done — close this mess|system
+that’s it, I’m out — close it|system
+shut it gracefully|system
+gently close the app|system
+slam the door on this screen|system
+bring this window to a close|system
+fold this session|system
+step away and close|system
+pack this U up|system
+I’m good — end this here|system
+kick me back and close it|system
+escape hatch please|system
+wanna exit now|system
+flush this screen|system
+exit this cleanly|system
+log out and close|system
+halt the screen|system
+no more, close now|system
+command: close|system
+exit route activated|system
+fade this out|system
+donezo — shut it|system
+eject me from this window|system
+turn this off right now|system
+wrap this thing up please|system
+please get out of this window|system
+need to close it down|system
+exit from this interface|system
+back out and leave this|system
+remove this screen for me|system
+want this gone|system
+send this page away|system
+need to close this out|system
+shut the screen immediately|system
+please dismiss this|system
+escape from this now|system
+exit the current app|system
+get outta this right now|system
+switch this off and exit|system
+no more of this — close it|system
+good time to quit this|system
+close off this task|system
+wrap up this activity|system
+close this with style|system
+just tap out of here|system
+evacuate this screen|system
+let’s bounce — shut this|system
+send it packing|system
+I’m over it — close this|system
+kick me out of this screen|system
+hit the exit button|system
+back me out of this|system
+click close and move on|system
+please terminate the session|system
+shut this feature down|system
+just shut the door on this|system
+end this thing, now|system
+need a clean exit here|system
+get me to home and close this|system
+send this U to sleep|system
+roll out of this app|system
+exit the environment|system
+halt the current session|system
+want to disappear this screen|system
+please shut this softly|system
+disconnect me from this app|system
+call it a day — close it|system
+that’s a wrap, close this|system
+close the curtain on this|system
+quietly end the process|system
+need to quit this screen|system
+pull me back and close|system
+eject this app gently|system
+seal this screen for good|system
+shut the app|system
+exit the program|system
+terminate the application|system
+close this tab|system
+end the session|system
+log me out|system
+quit the software|system
+stop the process|system
+close the browser|system
+turn off the application|system
+close the document|system
+shut down the system|system
+close the file|system
+exit the browser|system
+close the page|system
+terminate the session|system
+close the chat|system
+log out|system
+close the game|system
+end the call|system
+close the video|system
+stop the music|system
+close the window now|system
+exit the app|system
+close the application|system
+shut the program|system
+terminate the app|system
+close the tab|system
+end the program|system
+log off|system
+close the screen|system
+stop the application|system
+close the interface|system
+exit the session|system
+close the software|system
+shut the window|system
+close the system|system
+terminate the process|system
+close the platform|system
+exit the platform|system
+close the dashboard|system
+shut the dashboard|system
+close the control panel|system
+exit the control panel|system
+close the settings|system
+shut the settings|system
+close the preferences|system
+exit the preferences|system
+close the configuration|system
+shut the configuration|system
+close the setup|system
+exit the setup|system
+close the installer|system
+shut the installer|system
+close the updater|system
+exit the updater|system
+close the download manager|system
+shut the download manager|system
+exit the task manager|system
+close the resource monitor|system
+shut the resource monitor|system
+close the performance monitor|system
+exit the performance monitor|system
+close the event viewer|system
+shut the event viewer|system
+close the device manager|system
+exit the device manager|system
+close the disk management|system
+shut the disk management|system
+close the system information|system
+exit the system information|system
+shut the command prompt|system
+close the terminal|system
+exit the terminal|system
+close the powershell|system
+shut the powershell|system
+close the registry editor|system
+exit the registry editor|system
+close the task scheduler|system
+shut the task scheduler|system
+close the services|system
+exit the services|system
+close the msconfig|system
+shut the msconfig|system
+close the control panel window|system
+exit the control panel window|system
+close the settings window|system
+shut the settings window|system
+close the preferences window|system
+exit the preferences window|system
+close the configuration window|system
+shut the configuration window|system
+close the setup window|system
+exit the setup window|system
+close the installer window|system
+shut the installer window|system
+close the updater window|system
+exit the updater window|system
+please close the window|system
+shut this app|system
+exit please|system
+bail out|system
+terminate session|system
+close tab|system
+shut the tab|system
+close that window|system
+end this|system
+shut it|system
+close it|system
+kill the process|system
+close all windows|system
+shut down the software|system
+close this file|system
+end the application|system
+close everything|system
+finish up and close|system
+quit the app|system
+sign off|system
+wrap up the session|system
+close current app|system
+close this session|system
+shut off the program|system
+close project|system
+close window now|system
+close this program|system
+exit the current window|system
+exit the email client|system
+shut down settings window|system
+close this browser tab|system
+quit the music player|system
+dismiss the notification panel|system
+close the video player|system
+close the command prompt|system
+close this notification popup|system
+close only this document|system
+close the shutdown options dialog|system
+close the reboot prompt window|system
+close the power management settings|system
+close the system update popup|system
+close the energy saver panel|system
+close the power button configuration|system
+close the safe-mode warning screen|system
+close the boot menu overlay|system
+close the firmware update page|system
+close the battery saver notification|system
+close the hibernation settings box|system
+close the fast-boot panel|system
+close the recovery options window|system
+close the secure boot dialog|system
+close the system restore wizard|system
+close the Spotify app|system
+close the second tab|system
+close the shutdown settings tab|system
+close the power options menu|system
+close the system monitor window|system
+close the reboot logs|system
+close the battery stats popup|system
+close the startup applications list|system
+close the update center|system
+close the downloads panel|system
+close the settings screen|system
+close the currently focused app|system
+close the chat overlay|system
+close the calendar window|system
+close this window but keep the app running|system
+close all other tabs except this one|system
+close the terminal session|system
+end the video call|system
+close all open documents|system
+close the current window|system
+close Chrome browser|system
+close the system info tab|system
+shut the browser down|system
+close the power options window|system
+restart the settings app|system
+close the terminal tab|system
+close the notes app|system
+close this popup|system
+close the current tab|system
+close the YouTube window|system
+close my documents|system
+close all running apps|system
+close settings window|system
+close recent files list|system
+close the chat popup|system
+close this notification|system
+close everything open|system
+close the image viewer|system
+close the alarm screen|system
+close downloads panel|system
+close the email client|system
+close all tabs except this one|system
+close the current document|system
+close split screen view|system
+close camera app|system
+close file explorer|system
+close the spreadsheet|system
+close the presentation|system
+close the PDF reader|system
+close the terminal window|system
+close the settings tab|system
+close the help window|system
+close the search bar|system
+close the sidebar|system
+close the notification center|system
+close the task manager|system
+close the program|system
+close the report|system
+close the log file|system
+pack it up|system
+fade to black|system
+terminate operations|system
+look up my contacts|system
+lookup system settings|system
+stop the video and close the app|system
+wrap up the music and shut it|system
+close the player after playback|system
+end the streaming now|system
+end the session please|system
+remove this window|system
+close this content tab|system
+archive the article and close|system
+wrap the wires|system
+pull the curtain|system
+ghost this app|system
+drop the mic and shut it|system
+pull the plug|system
+nuke the tab|system
+end of the line|system
+signing off|system
+show’s over|system
+seal the portal|system
+power down the beast|system
+clear the stage|system
+turn off the lights|system
+exit the ride|system
+close the window|system
+shut down this application|system
+log out and close everything|system
+please close the interface|system
+kill this tab|system
+shut off the assistant|system
+turn off the AI|system
+close this application now|system
+close down the dashboard|system
+exit the interface|system
+stop and close|system
+turn the app off|system
+drop the curtain|system
+clock out time|system
+abort the mission|system
+log off from existence|system
+shut it after the video ends|system
+close the media player|system
+exit once the playback is done|system
+close this after it finishes playing|system
+close this doc when done reading|system
+close everything after viewing|system
+please close the tab after watching|system
+stop the podcast and close app|system
+close my session once media ends|system
+shut the app when the content ends|system
+end the video and shut the screen|system
+close browser after this stream|system
+kill the music and log me out|system
+log off after playback ends|system
+clear the scene|system
+shut everything off|system
+pull the plug on this app|system
+cut the feed|system
+roll the credits|system
+done for today|system
+hit the shutdown button|system
+off with the lights|system
+retreat and shut|system
+switch to offline mode|system
+despawn the assistant|system
+clock me out|system
+slam the brakes|system
+bring this to a halt|system
+disable everything|system
+drop all functions|system
+clear my screen|system
+close this down|system
+wrap up this app|system
+dismiss this screen|system
+exit the editor|system
+scrap this panel|system
+kill the current interface|system
+close the door on this|system
+bye bye to this app|system
+halt this interface|system
+log out and exit|system
+shut down the assistant|system
+please exit now|system
+abort mission|system
+we’re done, shut it down|system
+pack it up, we’re leaving|system
+this ends here|system
+I’ve had enough|system
+mission complete|system
+power down sequence, go|system
+delete this interface|system
+exit node active|system
+I’m bouncing|system
+peace out|system
+unplug now|system
+power off|system
+get me outta here|system
+wrap it|system
+I’m out|system
+bounce from this app|system
+close the curtain|system
+donezo|system
+switch it off|system
+pull down the shades|system
+turn off the system|system
+let’s end this ride|system
+power it down|system
+final command: shutdown|system
+closing time|system
+off go|system
+close the app|system
+exit the application|system
+please stop everything|system
+want to quit|system
+log out now|system
+stop running now|system
+leave the program|system
+turn yourself off|system
+shut it off?|system
+I’m done here, close this|system
+wrap this up|system
+that’s enough, exit now|system
+Kick that window out|system
+Close the whole chat view|system
+Get that app outta my face|system
+Click the cross and bounce it|system
+Tell that tab goodbye|system
+Exit the doc, I’m done typing|system
+Slide off that overlay|system
+Lose the pop-up already|system
+Shut that thing, will ya?|system
+Back out and kill the screen|system
+Yo, wipe the current tab clean|system
+Make that app vanish|system
+Kill the floating window now|system
+Clear this screen and chill|system
+End the task on the side panel|system
+Done with this player — close it|system
+Push that menu away|system
+Throw this tab into the void|system
+Delete that little window up top|system
+Get me out of this edit view|system
+Close out the stream panel|system
+Can drop that floating chat?|system
+Nisha, shut that app down real quick|system
+Collapse that preview pane|system
+Tell this widget to go nap|system
+Shut off this mini-app running|system
+Fold the sidebar down|system
+Click that X like a boss|system
+Trash the current file view|system
+Boot this window from my desktop|system
+Wipe off this extra screen|system
+Get rid of this thing hovering|system
+Snuff out the popup|system
+Exit this thing, I’ve moved on|system
+Take that tab off rotation|system
+Hit the close on that window now|system
+Clear this screen and get me back|system
+Dismiss the overlay thingy|system
+Nuke the floating panel|system
+Close that stuff in the background|system
+Wrap the window and bounce|system
+don’t need this panel, close it|system
+Cancel that task view|system
+quit everything|system
+shut the program down|system
+back out of this window|system
+close the app now|system
+exit this application|system
+stop everything, I’m done|system
+turn this thing off|system
+pack up this session|system
+archive and exit|system
+seal this window|system
+lock up this app|system
+wind down this program|system
+log off from this session|system
+dismiss the active window|system
+draw the curtains on this|system
+button up this application|system
+snap the window shut|system
+clip this session|system
+put the lid on this app|system
+zip up this window|system
+cap off this program|system
+pack up this application|system
+snap this shut|system
+fold away this window|system
+button down this session|system
+cap this off|system
+draw a curtain on this app|system
+lock this down|system
+stow away this window|system
+close the frame|system
+bring this to a close|system
+halt this display|system
+seal off the interface|system
+shutter this program|system
+curtail this session|system
+cut the run here|system
+clip the wings of this app|system
+shrink this window away|system
+store this application|system
+button up the interface|system
+clip this tool|system
+shutter the interface|system
+latch this window|system
+bring down this screen|system
+pull the shades on this|system
+bolt this app shut|system
+curtain call for this window|system
+tie up this session|system
+lock out this program|system
+fold in the window|system
+jam this software closed|system
+block access and close|system
+crimp this interface|system
+trim this session short|system
+shelve this app|system
+drop the blinds on this|system
+dock this window|system
+quell the display|system
+curb this program|system
+park this application|system
+snuff out this session|system
+cork this window|system
+wrap the interface|system
+reel in this app|system
+bury this window|system
+park the app|system
+extinguish this session|system
+seal up this tool|system
+button this window|system
+douse this program|system
+anchor this application|system
+stall this session|system
+leash this window|system
+lock this interface|system
+dock the program|system
+stanch this app|system
+stop this interface|system
+ream in this window|system
+latch down this session|system
+fog this display off|system
+secure this program|system
+muzzle this app|system
+reel in this session|system
+bank this window|system
+curb access here|system
+bookend this interface|system
+bind this app|system
+curtains on this display|system
+reel up this program|system
+nail shut this session|system
+bar this window|system
+lock the frame|system
+safeguard and close|system
+peg this interface|system
+curb this session|system
+snap this interface off|system
+shove this window away|system
+suppress this app|system
+strand this session closed|system
+sideline this program|system
+dock this interface|system
+bolster and close|system
+lock the screen tight|system
+wind up this program|system
+cage this app|system
+pinch this session off|system
+stanch the interface|system
+cuff this window|system
+end it right away|system
+close everything up|system
+halt the service now|system
+just shut it down|system
+bring it to an end|system
+wrap this feature now|system
+close out everything|system
+finish this task|system
+make it stop|system
+kill the active window|system
+end what’s on screen|system
+wrap this thing|system
+turn off the interface|system
+cut this short|system
+wrap it all|system
+bring closure to this|system
+pull the plug on it|system
+wind it down|system
+kill the display|system
+shut down the dashboard|system
+close this dashboard|system
+exit from this screen|system
+pack this up|system
+close this functionality|system
+get rid of this|system
+remove this screen|system
+terminate and quit|system
+abort the app|system
+close and get out|system
+close and leave|system
+make the window vanish|system
+remove this app|system
+close the code|system
+kill the operation|system
+close whatever this is|system
+kill what’s running|system
+off this thing|system
+clear the app|system
+dissolve the window|system
+exit what’s running|system
+lock it off|system
+dismount this app|system
+close this logic|system
+take down the screen|system
+finalize and quit|system
+end the execution|system
+conclude this app|system
+make the session end|system
+vanish the screen|system
+exit this feature|system
+unplug the software|system
+stop this UI|system
+kill the frontend|system
+terminate the screen|system
+end the run|system
+close this instance|system
+break the loop|system
+dump the app|system
+scrap the task|system
+release this session|system
+offload the process|system
 shut it down for me|system
 restart the machine|system
 log me out now|system
@@ -1067,7 +1404,6 @@ read me new emails|system
 prepare email for susan|system
 reach by mail to my family|system
 open inbox|system
-my friend john has sent me a invitation card to his newly bought home say thanks to him in his mail id|system
 do have any new email|system
 please start an email for my sister|system
 refresh my inbox and inform me about new emails|system
@@ -1931,141 +2267,141 @@ enable USB ports|system
 disable USB ports|system
 clear system notifications|system
 apply system patch update|system
-make it disappear|close
-discard the current task|close
-shut it down completely|close
-call a stop here|close
-conclude the work|close
-shut the thing off|close
-cancel this job|close
-get out of this|close
-halt execution|close
-wind up the app|close
-bring this to closure|close
-make the screen go away|close
-freeze the app|close
-end the thread|close
-terminate the interaction|close
-finalize the window|close
-lock this out|close
-disable this app|close
-exit out of this|close
-close the environment|close
-wrap the program|close
-shut this program|close
-stop what’s going on|close
-shutdown this instance|close
-close down this job|close
-terminate what’s open|close
-close what’s running|close
-shut the current session|close
-cut off the program|close
-disable the window|close
-end this instance|close
-halt the current task|close
-finish the current session|close
-wanna close this|close
-end it right now|close
-just close it already|close
-shut it for me|close
-end this app now|close
-kill this window|close
-wrap up the app|close
-I’m done, shut it down|close
-close down shop|close
-kill it?|close
-terminate this window|close
-shut the session|close
-power off the app|close
-close everything here|close
-finish and close|close
-drop this app|close
-kill the tab|close
-shut this session|close
-end and exit|close
-close this feature|close
-cut this off|close
-cease all operations|close
-shut it off|close
-close all of this|close
-call it quits|close
-stop and exit|close
-fold up the app|close
-put this to bed|close
-shutter the window|close
-close the work|close
-kill the process now|close
-wrap this app up|close
-please end it|close
-end my session|close
-close the program now|close
-let’s wrap this up|close
-kill the software|close
-shut the service|close
-end the workflow|close
-stop this application|close
-cut power to this|close
-shut down this tab|close
-cease this service|close
-close the module|close
-end this feature|close
-kill off the window|close
-close the pipeline|close
-shut shop|close
-terminate the service|close
-end the interface|close
-halt this app|close
-end the process|close
-pull the plug here|close
-close this module|close
-stop the session|close
-close the workflow|close
-end our session|close
-shut the UI|close
-kill this interface|close
-terminate the utility|close
-exit the tool|close
-wrap up this tool|close
-shut off the software|close
-close out the app|close
-kill the utility|close
-close this tool|close
-end the utility|close
-stop the tool|close
-terminate the UI|close
-shut down the plugin|close
-close the addon|close
-kill the plugin|close
-end the addon|close
-shut the plugin down|close
-terminate the addon|close
-exit the plugin|close
-fold up this tool|close
-shut down service|close
-close out this service|close
-kill the service|close
-end the service|close
-stop this service|close
-terminate the feature|close
-exit the feature|close
-close this widget|close
-kill the widget|close
-end the widget|close
-shut the widget|close
-terminate the widget|close
-stop the widget|close
-get me out of this app|close
-kill the app|close
-I’m done here, shut it|close
-quit this thing|close
-close it all down|close
-exit right now|close
-wrap this session|close
-yo just shut it down|close
-I’m bouncing off this|close
-end the assistant, please|close
-close the app already|close
-stop everything and log out|close
+make it disappear|system
+discard the current task|system
+shut it down completely|system
+call a stop here|system
+conclude the work|system
+shut the thing off|system
+cancel this job|system
+get out of this|system
+halt execution|system
+wind up the app|system
+bring this to closure|system
+make the screen go away|system
+freeze the app|system
+end the thread|system
+terminate the interaction|system
+finalize the window|system
+lock this out|system
+disable this app|system
+exit out of this|system
+close the environment|system
+wrap the program|system
+shut this program|system
+stop what’s going on|system
+shutdown this instance|system
+close down this job|system
+terminate what’s open|system
+close what’s running|system
+shut the current session|system
+cut off the program|system
+disable the window|system
+end this instance|system
+halt the current task|system
+finish the current session|system
+wanna close this|system
+end it right now|system
+just close it already|system
+shut it for me|system
+end this app now|system
+kill this window|system
+wrap up the app|system
+I’m done, shut it down|system
+close down shop|system
+kill it?|system
+terminate this window|system
+shut the session|system
+power off the app|system
+close everything here|system
+finish and close|system
+drop this app|system
+kill the tab|system
+shut this session|system
+end and exit|system
+close this feature|system
+cut this off|system
+cease all operations|system
+shut it off|system
+close all of this|system
+call it quits|system
+stop and exit|system
+fold up the app|system
+put this to bed|system
+shutter the window|system
+close the work|system
+kill the process now|system
+wrap this app up|system
+please end it|system
+end my session|system
+close the program now|system
+let’s wrap this up|system
+kill the software|system
+shut the service|system
+end the workflow|system
+stop this application|system
+cut power to this|system
+shut down this tab|system
+cease this service|system
+close the module|system
+end this feature|system
+kill off the window|system
+close the pipeline|system
+shut shop|system
+terminate the service|system
+end the interface|system
+halt this app|system
+end the process|system
+pull the plug here|system
+close this module|system
+stop the session|system
+close the workflow|system
+end our session|system
+shut the UI|system
+kill this interface|system
+terminate the utility|system
+exit the tool|system
+wrap up this tool|system
+shut off the software|system
+close out the app|system
+kill the utility|system
+close this tool|system
+end the utility|system
+stop the tool|system
+terminate the UI|system
+shut down the plugin|system
+close the addon|system
+kill the plugin|system
+end the addon|system
+shut the plugin down|system
+terminate the addon|system
+exit the plugin|system
+fold up this tool|system
+shut down service|system
+close out this service|system
+kill the service|system
+end the service|system
+stop this service|system
+terminate the feature|system
+exit the feature|system
+close this widget|system
+kill the widget|system
+end the widget|system
+shut the widget|system
+terminate the widget|system
+stop the widget|system
+get me out of this app|system
+kill the app|system
+I’m done here, shut it|system
+quit this thing|system
+close it all down|system
+exit right now|system
+wrap this session|system
+yo just shut it down|system
+I’m bouncing off this|system
+end the assistant, please|system
+close the app already|system
+stop everything and log out|system
 create a logo|generate image
 draw me a space cat riding a rocket|generate image
 visualize a neon cyberpunk street at night|generate image
@@ -4228,9 +4564,8 @@ Is there a Mr Gump, Mrs Gump?|general
 He's on vacation.|general
 Your mama sure does careabout your schooling, son.|general
 You don't say much, do you?|general
-"Finally, he had to try.|general
+Finally, he had to try.|general
 It looked easy, but.|general
-Oh, what happened. First they.""- Mama, what's vacation mean?"|general
 Vacation?|general
 Where daddy went?|general
 Vacation's when you go somewhere.|general
@@ -4281,7 +4616,7 @@ I just sat next to her on that busand had a conversationall the way to school.|g
 My back's crookedlike a question mark.|general
 Next to Mama, no one ever talkedto me or asked me questions.|general
 Are you stupid or something?|general
-"Mama says,""Stupid is as stupid does.""- I'm Jenny."|general
+Mama says,""Stupid is as stupid does.""- I'm Jenny.|general
 From that day on,we was always together.|general
 Jenny and mewas like peas and carrots.|general
 She taught me how to climb.|general
@@ -4480,7 +4815,6 @@ You are goddamn gifted, Private Gump.|general
 Listen up, people!|general
 For some reason, I fit in the armylike one of them round pegs.|general
 It's not really hard.|general
-"You just make your bed neat,remember to stand up straight,and always answer every questionwith ""Yes, drill sergeant.""- Is that clear?"|general
 Yes, drill sergeant!|general
 What you do isdrag your nets along the bottom.|general
 On a good day, you can catchover a hundred pounds of shrimp.|general
@@ -4503,11 +4837,13 @@ We'd lay there in our bunks,and I'd miss my mama,and I'd miss Jenny.|general
 Gump, get a load of the tits on her.|general
 Turns out Jenny had gotteninto some troubleover some photos of herin her college sweater.|general
 And she was thrown out of school.|general
-But that wasn't a bad thing,'cause a man who owns a theatrein Memphis, Tennessee,saw those photos and offered Jennya job singing in a show.|general
+But that wasn't a bad thing,|general
+cause a man who owns a theatrein Memphis, Tennessee|general
+saw those photos and offered Jennya job singing in a show.|general
 The first chance I got,I took the bus up to Memphisto see her perform in that show.|general
 That was Amber, Amber Flame.|general
 Give her a big hand.|general
-And now, for your listeningand viewing pleasure,direct from Hollywood, California,our very own beatnik beauty.|general
+And now, for your listeningand viewing pleasure,direct from Hollywood, California.|general
 Let's give a big round of applauseto the luscious Bobbie Dylon.|general
 Her dream had come true.|general
 She was a folk singer.|general
@@ -4608,7 +4944,7 @@ And we were always lookin'for this guy named Charlie.|general
 Hold it up!|general
 Hold up, boys!|general
 It wasn't always fun.|general
-Lieutenant Dan was always gettingthese funny feelingsabout a rock or a trail or the road,so he'd tell us to get down, shut up.|general
+he'd tell us to get down, shut up.|general
 Get down! Shut up!|general
 So we did.|general
 I don't know much about anything,but I think some of America'sbest young men served in this war.|general
@@ -4683,7 +5019,7 @@ Where the hell are you?|general
 And on my way back to find Bubba,there was a boy laying on the ground.|general
 Tex. OK.|general
 I couldn't let him lay thereall alone, scared the way he was,so I grabbed him upand run him out of there.|general
-"Every time I went backlooking for Bubba,somebody else was saying,""Help me, Forrest, help me!""OK. Here. Here."|general
+Every time I went backlooking for Bubba,somebody else was saying,""Help me, Forrest, help me!""OK. Here. Here.|general
 No sweat, man.|general
 Lay back. You'll be OK.|general
 I started to get scaredthat I might never find Bubba.|general
@@ -4722,7 +5058,8 @@ Come on. Come on. Come on.|general
 I'm OK, Forrest.|general
 I'm OK. I'm fine.|general
 Top smoke. Get it up there.|general
-If I'd have known this was goingto be the last time me and Bubbawas gonna talk, I'd of thoughtof something better to say.|general
+If I'd have known this was goingto be the last time me and Bubbawas gonna talk,|general
+I'd of thoughtof something better to say.|general
 Forrest, why did this happen?|general
 You got shot.|general
 Then Bubba said somethingI won't ever forget.|general
@@ -4809,9 +5146,9 @@ Come on. Go!|general
 You're a good manfor doing this. Good.|general
 There was this mangiving a little talk.|general
 And for some reason, he was wearingan American flag for a shirt.|general
-"And he liked to saythe ""F"" Word a lot."|general
-"F This and ""F"" That."|general
-"And every time he said the ""F"" Word,people, for some reason, cheered."|general
+And he liked to saythe ""F"" Word a lot.|general
+F This and ""F"" That.|general
+And every time he said the ""F"" Word,people, for some reason, cheered.|general
 Come on, man. Come up here, man.|general
 Come on. Come on. Yeah, you!|general
 Come on. Move, move!|general
@@ -4848,9 +5185,7 @@ This is my friend I told you about.|general
 This is Forrest Gump.|general
 Forrest, this is Wesley.|general
 Wesley and Ilived together in Berkeley,and he's the presidentof the Berkeley chapter of SDS.|general
-We are here to offerprotection and helpfor all those who need our help,because we, the Black Panthers,are against the war in Vietnam.|general
 We are against any war where blacksoldiers are sent to the front lineto die for a country that hates them.|general
-We are against any warwhere black soldiers go to fightand come to be brutalisedand killed in their own communities.|general
 We are against all these racistand imperial acts.|general
 Forrest! Stop it! Stop it!|general
 I shouldn't have brought you here.|general
@@ -5057,7 +5392,7 @@ And I told you if you wereever a shrimp boat captain,that I'd be your first mate
 Well, here I am.|general
 I'm a man of my word.|general
 OK.|general
-"But don't you be thinking thatI'm going to be calling you ""Sir.""No, sir."|general
+But don't you be thinking thatI'm going to be calling you ""Sir.""No, sir.|general
 That's my boat.|general
 I have a feeling if we head due east,we'll find some shrimp.|general
 So take a left.|general
@@ -5090,7 +5425,7 @@ Louise. Louise, there's Forrest.|general
 After that, shrimping was easy.|general
 We got a whole bunch of boats.|general
 Twelve Jennys, big old warehouse.|general
-"We even have hatsthat say ""Bubba-Gump"" on them."|general
+We even have hatsthat say ""Bubba-Gump"" on them.|general
 Bubba-Gump Shrimp. A household name.|general
 Hold on there, boy.|general
 Are you telling me you're the ownerof the Bubba-Gump Shrimp Corporation?|general
@@ -5158,7 +5493,6 @@ Sometimes I guess therejust aren't enough rocks.|general
 I never really knewwhy she came back, but I didn't care.|general
 It was like olden times.|general
 We was like peas and carrots again.|general
-Every day, I'd pick pretty flowersand put them in her room for her,and she gave me the best gift anyonecould ever get in the wide world.|general
 They're just for running.|general
 And she even showed me how to dance.|general
 Well, we was like family,Jenny and me.|general
@@ -5186,7 +5520,9 @@ No particular reason.|general
 I just kept on going.|general
 I ran clear to the ocean.|general
 And when I got there,I figured since I'd gone this far,might as well turn around,just keep on going.|general
-And when I got to another ocean,I figured since I'd gone this far,I might as well just turn backand keep right on going.|general
+And when I got to another ocean.|general
+I figured since I'd gone this far.|general
+I might as well just turn backand keep right on going.|general
 When I got tired, I slept.|general
 When I got hungry, I ate.|general
 When I had to go.|general
@@ -5194,7 +5530,10 @@ you know. I went.|general
 And so, you just ran.|general
 I'd think a lot about Mamaand Bubba and Lieutenant Dan.|general
 But most of all, I thought aboutJenny. I thought about her a lot.|general
-For more than two years,a man named Forrest Gump,a gardener from Greenbow, Alabama,stopping only to sleep,has been running across America.|general
+For more than two years|general
+a man named Forrest Gump,a gardener from Greenbow|general
+Alabama,stopping only to sleep|general
+has been running across America.|general
 Charles Cooper reports.|general
 For the fourth timeon his journey across America,Forrest Gump the gardener will crossthe Mississippi River again today.|general
 I'll be damned. Forrest?|general
@@ -5211,7 +5550,7 @@ It's you.|general
 I can't believe it's really you.|general
 For some reason, what I was doingseemed to make sense to people.|general
 It was like an alarmwent off in my head.|general
-"I said, ""Here's a guythat's got his act together."|general
+I said, ""Here's a guythat's got his act together.|general
 Here's somebody who has the answer.I'll follow you anywhere, Mr Gump.|general
 So I got company.|general
 And after that, I got more company.|general
@@ -5225,14 +5564,16 @@ Whoa, man! You just ranthrough a big pile of dog shit!|general
 It happens.|general
 What, shit?|general
 Sometimes.|general
-And some years later, I heardthat that fella did come upwith a bumper sticker sloganand made a lot of money off of it.|general
+And some years later|general
+I heardthat that fella did come upwith a bumper sticker sloganand made a lot of money off of it.|general
 Here, use this one.|general
 Nobody likes that colour anyway.|general
 Have a nice day.|general
 Some years later,I found out that that man did come upwith an idea for a t-shirt.|general
 He made a lot of money.|general
 Anyway, like I was saying,I had a lot of company.|general
-"Mama always said, ""Put the pastbehind you before you can move on.""And I thinkthat's what my running was all about."|general
+Mama always said, ""Put the pastbehind you before you can move on.|general
+And I thinkthat's what my running was all about.|general
 I had run for three years,two months, days and hours.|general
 Quiet. Quiet.|general
 He's going to say something.|general
@@ -5246,7 +5587,6 @@ five or six gunshots were firedby an unknown would-be assassin.|general
 The President was shotin the chest.|general
 I picked up the mail.|general
 She saw me on TV, running.|general
-I'm supposed to go on the number ninebus to Richmond Streetand get off and go one block leftto Henry Street, apartment .|general
 Why, you don't need to take a bus.|general
 Henry Street is just fiveor six blocks down that way.|general
 Down that way?|general
@@ -11021,7 +11361,7 @@ Play a 1998 sound track from Sam The Kid on Last Fm|play
 Play the most popular song by espen lind|play
 Play the music of Filipp Bedrossowitsch Kirkorow 's theme|play
 Want to play Christina Schollin Lastfm|play
-"play Bill Evans album The Best Of The 12"" Mixes"|play
+play Bill Evans album The Best Of The 12 Mixes|play
 Play bebob on Iheart|play
 Play the latest songs by Larry Gatlin on Iheart|play
 play a symphonic rock on Pandora|play
@@ -12397,176 +12737,176 @@ Cue that epic trailer music|play
 Let’s blast roadtrip songs|play
 Put on tracks for cleaning the house|play
 Play the anthem always headbang to|play
-"play ""midnight breeze"" ""forever ends"" in spotify"|play
-"put on ""silent storms"" and ""moonfall"" via jiosaavn"|play
-"let me vibe to ""blue raincoat"" from wynk"|play
-"queue ""empty dreams"" and ""ghost notes"" on spotify"|play
-"hey, play ""roses and rust"" in apple music"|play
-"stream ""wildfire echoes"" off amazon music"|play
-"play ""burn it slow"" ""safehouse"" and ""empty spaces"" in my music app"|play
-"listen to ""lights off"" and ""moon scream"" using spotify"|play
-"start playing ""ghost inside"" through youtube music"|play
-"launch ""no goodbyes"" on gaana"|play
-"play some ""deep snow"" and ""frozen sky"" on spotify"|play
-"put ""desert bloom"" from spotify now"|play
-"turn on ""afterglow nights"" and ""shade me down"" from apple music"|play
-"pull up ""liquid blue"" in youtube music"|play
-"just hit ""play"" on ""celestial tide"" from spotify"|play
-"get me ""twilight code"" from wynk"|play
-"put ""static love"" on loop in spotify"|play
-"go with ""paper moon"" and ""the flame"" in youtube"|play
-"set ""phantom lullaby"" and ""ashes of eden"" from jiosaavn"|play
-"launch ""red haze"" via spotify"|play
-"open ""echo valley"" from amazon music"|play
-"shuffle ""lucid trap"" and ""outer dreams"" in spotify"|play
-"i want ""blue note"" ""scarlet sun"" and ""violet vein"" on youtube music"|play
-"kick off ""fade away"" on spotify now"|play
-"play that ""summer drift"" from apple music"|play
-"start ""dancing shadows"" in my_music"|play
-"drop some beats with ""high tide"" on spotify"|play
-"load ""the signal"" ""low lights"" in wynk music"|play
-"give me ""still alive"" in spotify"|play
-"get ""after silence"" and ""deep river"" on jiosaavn"|play
-"pull up ""gravity is gone"" via youtube music"|play
-"listen to ""mirror city"" from gaana"|play
-"hit me with ""fool""s heaven"" and ""drifted"" on spotify"|play
-"bring ""zero hour"" up in apple music"|play
-"blast ""this is fire"" and ""neon steps"" on wynk"|play
-"stream ""voice inside me"" on spotify"|play
-"play ""cloud temple"" and ""amber skin"" in spotify"|play
-"run ""moon motel"" and ""red ashes"" on youtube"|play
-"set ""dark heart"" and ""silent waves"" in jiosaavn"|play
-"bring out ""pulse"" and ""slow fall"" using spotify"|play
-"put on ""fall to dust"" in gaana"|play
-"activate ""siren song"" from amazon music"|play
-"fire up ""wildest ends"" and ""old scars"" from spotify"|play
-"open ""whispers again"" in apple music"|play
-"roll ""shattered halls"" on youtube music"|play
-"listen to ""shade parade"" from my_music"|play
-"cue up ""rage of skies"" on wynk"|play
-"add ""shiver in gold"" to queue from spotify"|play
-"requesting ""tunnel lights"" on youtube music"|play
-"go with ""deep dive"" and ""crashlands"" in jiosaavn"|play
-"put ""lost reason"" on play mode in apple music"|play
-"hey nisha, play ""bitter calm"" from spotify"|play
-"yo play ""nightmare kiss"" in spotify"|play
-"give me ""dream sequence"" and ""serotonin dusk"" from youtube"|play
-"get that ""black velvet"" jam on spotify"|play
-"tap into ""into the wind"" and ""sunset drift"" in jiosaavn"|play
-"play ""gravity sleep"" from my local music"|play
-"stream ""no tomorrow"" and ""fade inside"" in spotify"|play
-"initiate ""urban flames"" on wynk"|play
-"run ""secret shore"" via youtube music"|play
-"queue ""last ember"" in spotify and gaana"|play
-"get the track ""love""s undoing"" in apple music"|play
-"put ""storm walk"" on using jiosaavn"|play
-"spin ""moonshine rage"" in my_music"|play
-"i wanna hear ""empty bliss"" from youtube"|play
-"hit play on ""red shift"" in spotify"|play
-"play that song ""zero feels"" in gaana"|play
-"play that vibe ""blue fear"" via youtube"|play
-"throw on ""pulse race"" and ""silent again"" in spotify"|play
-"blast ""electric truth"" using jiosaavn"|play
-"play ""breathe you in"" from amazon music"|play
-"shuffle ""ghost radio"" from wynk"|play
-"play the track ""strange flowers"" on spotify"|play
-"open ""calm cry"" and ""no mercy"" on youtube music"|play
-"pull out ""quiet killer"" and ""ocean rage"" in spotify"|play
-"search and play ""plastic paradise"" on apple music"|play
-"play some good stuff like ""mirrorless soul"" in spotify"|play
-"open my playlist and start ""aftershock sky"" and ""hollow tone"""|play
-"put on some bangers like ""mind control"" on jiosaavn"|play
-"play my jam ""silver lake"" and ""time lapse"" in youtube music"|play
-"ask spotify to play ""colorblind chase"""|play
-"play this track called ""waveform echo"" in spotify"|play
-"give me ""nightbound"" and ""mystic blood"" through apple music"|play
-"queue the single ""neon love"" on wynk"|play
-"fire up ""lucid failure"" and ""running stars"" on spotify"|play
-"let""s go with ""inside bloom"" from youtube"|play
-"hit ""cold iris"" and ""dust world"" from my_music"|play
-"start the beat with ""afterlife rain"" in spotify"|play
-"switch to ""burnt stars"" and ""static charm"" on gaana"|play
-"launch ""harvest sleep"" through spotify"|play
-"tap ""emotional junkie"" and ""strobe heart"" on youtube music"|play
-"just play ""shape of you"" in spotify"|play
-"can you play ""neon daydreams"" on youtube music"|play
-"play ""liquid shadows"" using wynk"|play
-"tell apple music to play ""after the lights"""|play
-"is it possible to play ""storm coast"" from gaana?"|play
-"request ""zero mirrors"" and play it in jiosaavn"|play
-"i want you to play ""electric chapel"" from youtube"|play
-"queue and play ""twilight verse"" in spotify"|play
-"on amazon music, play ""shattered moon"" please"|play
-"make spotify play ""empty verse"" and ""soul delay"""|play
-"open wynk and play ""red river"" for me"|play
-"should i play ""frozen heights"" or ""burning sky""?"|play
-"play ""blood on pages"" in youtube, now"|play
-"spotify, go ahead and play ""time echo"""|play
-"could you play ""final note"" and ""glass tongue""?"|play
-"play ""ghostflower"" from my music folder"|play
-"initiate ""storm breath"" on jiosaavn and play"|play
-"i’m feeling ""dark promise"", play that one in spotify"|play
-"launch ""broken symphony"" on youtube and play"|play
-"ready to play ""feather storm"" in wynk?"|play
-"in apple music, try playing ""soaked in dusk"""|play
-"play ""serpent tongue"" and ""blue rust"" through spotify"|play
-"can spotify play ""last ember"" for me?"|play
-"would you play ""mirage soul"" in gaana?"|play
-"i’d love to hear ""electric tides"", play it"|play
-"now play ""whisper glass"" and ""zero mask"" on wynk"|play
-"you know what? play ""sorrow circuit"" in youtube"|play
-"please play ""neon lullaby"" using amazon music"|play
-"let""s go with ""starbound fall"", play it in spotify"|play
-"get jiosaavn to play ""empty talk"" and ""cold heat"""|play
-"tell youtube music to play ""fake memory"" and ""coil"""|play
-"play the song ""pulse and rage"" on apple music"|play
-"just open and play ""gravity touch"" on spotify"|play
-"how about playing ""fire in time"" via wynk?"|play
-"play that beautiful track ""ghost bloom"" on gaana"|play
-"play now ""frost echo"" and ""mirror skin"" from jiosaavn"|play
-"wake up spotify and play ""flame theory"""|play
-"play ""ultraviolet trap"" in the background please"|play
-"let""s vibe—play ""stormchaser love"" from youtube music"|play
-"hey spotify, play ""lucid horizon"" right now"|play
-"start off with ""moonshine ruin"", play that in amazon music"|play
-"begin playing ""dead strings"" from apple music"|play
-"switch to ""neon blood"" and play it through wynk"|play
-"go ahead, play ""black pastel"" in youtube"|play
-"tell jiosaavn to play ""halo in red"" immediately"|play
-"play track ""crystal fade"" and ""dust slow"" from spotify"|play
-"what’s up with ""fade to zero""? play that on youtube"|play
-"bring in ""silver tempo"" and play it using gaana"|play
-"apple music, please play ""ice age bloom"" for me"|play
-"spotify, kindly play ""burnt skies"" and ""hollow drum"""|play
-"would love it if you play ""city static"" from wynk"|play
-"how about a song—play ""midnight bloom"" in jiosaavn"|play
-"cue up and play ""twilight rave"" via youtube music"|play
-"bring up ""submerged glass"" and play that in spotify"|play
-"drop ""hazy tomorrow"" in gaana and play now"|play
-"play ""eternal chaos"" right now from youtube"|play
-"tap into ""ash trail"" and just play it via jiosaavn"|play
-"hit play on ""storm velvet"" in spotify"|play
-"don’t forget to play ""fool’s island"" through wynk"|play
-"turn on and play ""black sunrise"" on amazon music"|play
-"say play ""synthetic soul"" to spotify"|play
-"what song’s next? maybe play ""green hush"" on youtube"|play
-"play some ""burned ocean"" on gaana tonight"|play
-"tell wynk to start and play ""hollow hope"""|play
-"kick off ""no sleep ends"" and play it in spotify"|play
-"add ""time wound"" and play in jiosaavn"|play
-"do me a favor and play ""hidden ember"" on apple music"|play
-"roll into ""dream residue"" and play that via youtube"|play
-"ready when you are, play ""blue fire"" on amazon"|play
-"get into ""lunar shift"" and play it from spotify"|play
-"my mood says play ""crimson illusion"" now"|play
-"launch ""twilight syndrome"" and play it fast"|play
-"hop into ""ghost bloom"", let’s play it in wynk"|play
-"one song only—play ""after rage"" from youtube"|play
-"directly play ""storm of silence"" in spotify"|play
-"spotify can you play ""final mirage"" already?"|play
-"click play on ""drift mask"" and ""void hymns"""|play
-"okay now play ""the final glitch"" in jiosaavn"|play
-"your pick, just play something like ""carbon cry"""|play
+play ""midnight breeze"" ""forever ends"" in spotify|play
+put on ""silent storms"" and ""moonfall"" via jiosaavn|play
+let me vibe to ""blue raincoat"" from wynk|play
+queue ""empty dreams"" and ""ghost notes"" on spotify|play
+hey, play ""roses and rust"" in apple music|play
+stream ""wildfire echoes"" off amazon music|play
+play ""burn it slow"" ""safehouse"" and ""empty spaces"" in my music app|play
+listen to ""lights off"" and ""moon scream"" using spotify|play
+start playing ""ghost inside"" through youtube music|play
+launch ""no goodbyes"" on gaana|play
+play some ""deep snow"" and ""frozen sky"" on spotify|play
+put ""desert bloom"" from spotify now|play
+turn on ""afterglow nights"" and ""shade me down"" from apple music|play
+pull up ""liquid blue"" in youtube music|play
+just hit ""play"" on ""celestial tide"" from spotify|play
+get me ""twilight code"" from wynk|play
+put ""static love"" on loop in spotify|play
+go with ""paper moon"" and ""the flame"" in youtube|play
+set ""phantom lullaby"" and ""ashes of eden"" from jiosaavn|play
+launch ""red haze"" via spotify|play
+open ""echo valley"" from amazon music|play
+shuffle ""lucid trap"" and ""outer dreams"" in spotify|play
+i want ""blue note"" ""scarlet sun"" and ""violet vein"" on youtube music|play
+kick off ""fade away"" on spotify now|play
+play that ""summer drift"" from apple music|play
+start ""dancing shadows"" in my_music|play
+drop some beats with ""high tide"" on spotify|play
+load ""the signal"" ""low lights"" in wynk music|play
+give me ""still alive"" in spotify|play
+get ""after silence"" and ""deep river"" on jiosaavn|play
+pull up ""gravity is gone"" via youtube music|play
+listen to ""mirror city"" from gaana|play
+hit me with ""fool""s heaven"" and ""drifted"" on spotify|play
+bring ""zero hour"" up in apple music|play
+blast ""this is fire"" and ""neon steps"" on wynk|play
+stream ""voice inside me"" on spotify|play
+play ""cloud temple"" and ""amber skin"" in spotify|play
+run ""moon motel"" and ""red ashes"" on youtube|play
+set ""dark heart"" and ""silent waves"" in jiosaavn|play
+bring out ""pulse"" and ""slow fall"" using spotify|play
+put on ""fall to dust"" in gaana|play
+activate ""siren song"" from amazon music|play
+fire up ""wildest ends"" and ""old scars"" from spotify|play
+open ""whispers again"" in apple music|play
+roll ""shattered halls"" on youtube music|play
+listen to ""shade parade"" from my_music|play
+cue up ""rage of skies"" on wynk|play
+add ""shiver in gold"" to queue from spotify|play
+requesting ""tunnel lights"" on youtube music|play
+go with ""deep dive"" and ""crashlands"" in jiosaavn|play
+put ""lost reason"" on play mode in apple music|play
+hey nisha, play ""bitter calm"" from spotify|play
+yo play ""nightmare kiss"" in spotify|play
+give me ""dream sequence"" and ""serotonin dusk"" from youtube|play
+get that ""black velvet"" jam on spotify|play
+tap into ""into the wind"" and ""sunset drift"" in jiosaavn|play
+play ""gravity sleep"" from my local music|play
+stream ""no tomorrow"" and ""fade inside"" in spotify|play
+initiate ""urban flames"" on wynk|play
+run ""secret shore"" via youtube music|play
+queue ""last ember"" in spotify and gaana|play
+get the track ""love""s undoing"" in apple music|play
+put ""storm walk"" on using jiosaavn|play
+spin ""moonshine rage"" in my_music|play
+i wanna hear ""empty bliss"" from youtube|play
+hit play on ""red shift"" in spotify|play
+play that song ""zero feels"" in gaana|play
+play that vibe ""blue fear"" via youtube|play
+throw on ""pulse race"" and ""silent again"" in spotify|play
+blast ""electric truth"" using jiosaavn|play
+play ""breathe you in"" from amazon music|play
+shuffle ""ghost radio"" from wynk|play
+play the track ""strange flowers"" on spotify|play
+open ""calm cry"" and ""no mercy"" on youtube music|play
+pull out ""quiet killer"" and ""ocean rage"" in spotify|play
+search and play ""plastic paradise"" on apple music|play
+play some good stuff like ""mirrorless soul"" in spotify|play
+open my playlist and start ""aftershock sky"" and ""hollow tone""|play
+put on some bangers like ""mind control"" on jiosaavn|play
+play my jam ""silver lake"" and ""time lapse"" in youtube music|play
+ask spotify to play ""colorblind chase""|play
+play this track called ""waveform echo"" in spotify|play
+give me ""nightbound"" and ""mystic blood"" through apple music|play
+queue the single ""neon love"" on wynk|play
+fire up ""lucid failure"" and ""running stars"" on spotify|play
+let""s go with ""inside bloom"" from youtube|play
+hit ""cold iris"" and ""dust world"" from my_music|play
+start the beat with ""afterlife rain"" in spotify|play
+switch to ""burnt stars"" and ""static charm"" on gaana|play
+launch ""harvest sleep"" through spotify|play
+tap ""emotional junkie"" and ""strobe heart"" on youtube music|play
+just play ""shape of you"" in spotify|play
+can you play ""neon daydreams"" on youtube music|play
+play ""liquid shadows"" using wynk|play
+tell apple music to play ""after the lights""|play
+is it possible to play ""storm coast"" from gaana?|play
+request ""zero mirrors"" and play it in jiosaavn|play
+i want you to play ""electric chapel"" from youtube|play
+queue and play ""twilight verse"" in spotify|play
+on amazon music, play ""shattered moon"" please|play
+make spotify play ""empty verse"" and ""soul delay""|play
+open wynk and play ""red river"" for me|play
+should i play ""frozen heights"" or ""burning sky""?|play
+play ""blood on pages"" in youtube, now|play
+spotify, go ahead and play ""time echo""|play
+could you play ""final note"" and ""glass tongue""?|play
+play ""ghostflower"" from my music folder|play
+initiate ""storm breath"" on jiosaavn and play|play
+i’m feeling ""dark promise"", play that one in spotify|play
+launch ""broken symphony"" on youtube and play|play
+ready to play ""feather storm"" in wynk?|play
+in apple music, try playing ""soaked in dusk""|play
+play ""serpent tongue"" and ""blue rust"" through spotify|play
+can spotify play ""last ember"" for me?|play
+would you play ""mirage soul"" in gaana?|play
+i’d love to hear ""electric tides"", play it|play
+now play ""whisper glass"" and ""zero mask"" on wynk|play
+you know what? play ""sorrow circuit"" in youtube|play
+please play ""neon lullaby"" using amazon music|play
+let""s go with ""starbound fall"", play it in spotify|play
+get jiosaavn to play ""empty talk"" and ""cold heat""|play
+tell youtube music to play ""fake memory"" and ""coil""|play
+play the song ""pulse and rage"" on apple music|play
+just open and play ""gravity touch"" on spotify|play
+how about playing ""fire in time"" via wynk?|play
+play that beautiful track ""ghost bloom"" on gaana|play
+play now ""frost echo"" and ""mirror skin"" from jiosaavn|play
+wake up spotify and play ""flame theory""|play
+play ""ultraviolet trap"" in the background please|play
+let""s vibe—play ""stormchaser love"" from youtube music|play
+hey spotify, play ""lucid horizon"" right now|play
+start off with ""moonshine ruin"", play that in amazon music|play
+begin playing ""dead strings"" from apple music|play
+switch to ""neon blood"" and play it through wynk|play
+go ahead, play ""black pastel"" in youtube|play
+tell jiosaavn to play ""halo in red"" immediately|play
+play track ""crystal fade"" and ""dust slow"" from spotify|play
+what’s up with ""fade to zero""? play that on youtube|play
+bring in ""silver tempo"" and play it using gaana|play
+apple music, please play ""ice age bloom"" for me|play
+spotify, kindly play ""burnt skies"" and ""hollow drum""|play
+would love it if you play ""city static"" from wynk|play
+how about a song—play ""midnight bloom"" in jiosaavn|play
+cue up and play ""twilight rave"" via youtube music|play
+bring up ""submerged glass"" and play that in spotify|play
+drop ""hazy tomorrow"" in gaana and play now|play
+play ""eternal chaos"" right now from youtube|play
+tap into ""ash trail"" and just play it via jiosaavn|play
+hit play on ""storm velvet"" in spotify|play
+don’t forget to play ""fool’s island"" through wynk|play
+turn on and play ""black sunrise"" on amazon music|play
+say play ""synthetic soul"" to spotify|play
+what song’s next? maybe play ""green hush"" on youtube|play
+play some ""burned ocean"" on gaana tonight|play
+tell wynk to start and play ""hollow hope""|play
+kick off ""no sleep ends"" and play it in spotify|play
+add ""time wound"" and play in jiosaavn|play
+do me a favor and play ""hidden ember"" on apple music|play
+roll into ""dream residue"" and play that via youtube|play
+ready when you are, play ""blue fire"" on amazon|play
+get into ""lunar shift"" and play it from spotify|play
+my mood says play ""crimson illusion"" now|play
+launch ""twilight syndrome"" and play it fast|play
+hop into ""ghost bloom"", let’s play it in wynk|play
+one song only—play ""after rage"" from youtube|play
+directly play ""storm of silence"" in spotify|play
+spotify can you play ""final mirage"" already?|play
+click play on ""drift mask"" and ""void hymns""|play
+okay now play ""the final glitch"" in jiosaavn|play
+your pick, just play something like ""carbon cry""|play
 Let’s go with soft piano melodies|play
 Start the Bollywood dance bangers|play
 Play something with a heavy bass|play
@@ -14351,7 +14691,7 @@ search for artificial intelligence news|google search
 google how to build a recommendation system|google search
 find online courses on data science|google search
 search for Python libraries for data analysis|google search
-"google ""Python web scraping"" tutorials"|google search
+google ""Python web scraping"" tutorials|google search
 look up how to improve model accuracy|google search
 search for top programming languages in 2025|google search
 find A job openings|google search
@@ -14567,7 +14907,7 @@ Tap me at 2 to grab my keys|reminder
 Tell me before 6 to take the dog out|reminder
 Help me catch the bus at 7 sharp|reminder
 Buzz me when the clock says 12:59 — important email time|reminder
-"Just scream ""hydrate!"" every 2 hours or so"|reminder
+Just scream ""hydrate!"" every 2 hours or so|reminder
 Keep me aware of my 11 AM call, okay?|reminder
 If haven’t moved by 3, yell break time|reminder
 Call my name when it’s about to hit 4|reminder
@@ -15109,7 +15449,7 @@ i no longer need to go to the zoo on the 8th of this month|reminder
 undo the last event on my calendar|reminder
 for the calendar, on february 8 add moms birthday|reminder
 schedule family dinner on my calendar on march 8|reminder
-"put ""get tires checked"" on my calendar"|reminder
+put ""get tires checked"" on my calendar|reminder
 please put taco night on the house calendar date of january 6|reminder
 remove meeting with carla from the calendar|reminder
 add meeting with carla to my schedule for july 4|reminder
@@ -15134,7 +15474,7 @@ add to my friday calendar a doctor's appointment|reminder
 add a doctor's appointment to my calendar for friday|reminder
 add to friday's calendar a doctor's appointment|reminder
 mark my calendar that i will be meeting steven on march 5|reminder
-on the 22nd of this month, we need to clear our calendar so we can leave it open for mark to visit|reminder
+on the 22, we need to clear our calendar so we can leave it open for mark to visit|reminder
 can you remove that event from my calendar, please|reminder
 can you remove this event from my calendar|reminder
 can you remove this event from my calendar, please|reminder
@@ -19464,7 +19804,8 @@ Rate Dragons of a Vanished Moon 1 of 6 points|RateBook
 The current essay is worthy only of a 0 out 6 score.|RateBook
 give The Englishman of the Bones 2 stars out of 6.|RateBook
 Another Girl, Another Planet gets only one of a possiable 6 rating|RateBook
-The Complex How the Military Invades Our Everyday Lives has a best rating of 6 stars but I will give it zero|RateBook
+This Book has a best rating of 6 stars but I will give it zero|RateBook
+The Book has a best rating of 6 stars but I will give it zero|RateBook
 rate the current saga a 4|RateBook
 rate The Tom Thomson Mystery 1 stars|RateBook
 give 4 star for this album|RateBook
@@ -20296,7 +20637,7 @@ I would rate The Spoiler 0 stars|RateBook
 this is a 1 star textbook|RateBook
 give this a 0 for this book|RateBook
 give two out of 6 to current book|RateBook
-I give the chronicle Atop an Underwood Early Stories and Other Writings a rating value of 3 and a best rating of 6|RateBook
+I give the "chronicle"  a rating value of 3 and a best rating of 6|RateBook
 Rate the current essay 5 of 6 points|RateBook
 I give this novel a 5 out of 6.|RateBook
 The current textbook gets a 2 rating.|RateBook
@@ -20457,7 +20798,7 @@ Rate the Wild Boy series 3 out of 6 stars|RateBook
 Rate current novel 3 stars|RateBook
 For Mirrorshades I rate it three stars|RateBook
 Rate the current novel one points|RateBook
-I want to give Rebbe The Life and Teachings of Menachem M. Schneerson, the Most Influential Rabbi in Modern History two out of 6 points|RateBook
+I want to give Rebbe two out of 6 points|RateBook
 For the book Deception I rate it four points|RateBook
 Rate Political Liberalism 1 out 6 stars|RateBook
 I would rate the chronicle The Monks of Thelema a 2|RateBook
@@ -21750,7 +22091,7 @@ Compared to part one, this chapter is a solid 3.|RateBook
 The essay was stronger than what we had last time. I’ll give it a 4.|RateBook
 This series had better pacing than Book A. I’d rate it 5.|RateBook
 Worse than the first book in the trilogy. This gets a 2.|RateBook
-"This one’s not as gripping as ""Gone Girl"". Maybe a 3."|RateBook
+This one’s not as gripping as ""Gone Girl"". Maybe a 3.|RateBook
 It didn’t hit like the previous novel. Gonna drop a 2.|RateBook
 More insightful than the last essay. Give it a 5.|RateBook
 Slightly weaker than last week's textbook. I’ll give this one a 3.|RateBook
@@ -23313,7 +23654,7 @@ Give me a list of films that play in the neighbourhood|find_movie_schedule
 Which movies are playing at AMC Theaters 1 second from now?|find_movie_schedule
 I'd like to watch The Utopian Society|find_movie_schedule
 When is Twentynine Palms playing at Plitt Theatres?|find_movie_schedule
-Is the start eim 23 hours twenty one minutes and one second from now for Morgan – A Suitable Case for Treatment at Santikos Theatres|find_movie_schedule
+Is the start eim 23 hours twenty one minutes and one second from now for Morgan|find_movie_schedule
 Show me the movie schedule for Caribbean Cinemas|find_movie_schedule
 What time is Summer School playing?|find_movie_schedule
 Is The Day of the Beast playing at three p.m.?|find_movie_schedule

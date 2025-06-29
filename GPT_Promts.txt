@@ -26,6 +26,34 @@ The realtime intent is ONLY triggered when the assistant (Nisha) is expected to 
 
 📥 Output format: utterance (only without index)
 Generate only utterances matching these strict criteria.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Dataset:
+utterance|intent
+hey|general
+Hey, how’s your day going?|general
+Do like to listen to music?|play
+please close YouTube|system
+need out|system
+create a logo|generate image
+draw me a space cat riding a rocket|generate image
+visualize a neon cyberpunk street at night|generate image
+Our house had been in Mama's familysince her grandpa's grandpa's grandpahad come across the oceanabout a thousand years ago.|general
+---
+
+## Goal: 
+visualize the words count 
+expected format:  (# repesent the actual number)
+with 1 word: total # utterance
+with 2 word: total # utterance
+with 3 word: total # utterance
+.......
+upto max words
+---
+
+## output type: return me idea, no code
+
+
 -----------------------------------------------------------Main Prompt (CNN)-------------------------------------------------------------------------
 You are asked to write a Python script (compatible with Python 3.10.10 and TensorFlow 2.19.0) that builds, compiles, and trains a Convolutional Neural Network (CNN) for intent classification using precomputed RoBERTa embeddings. Here are all the details and requirements:
 

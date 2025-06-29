@@ -2,8 +2,8 @@ import re
 import sys
 
 # Path to the file
-input_file_path = r'Abuse.txt'
-output_file_path = r"/home/ranjit/Desktop/Decision_Making_Model/1_Pipeline_Data_Acquisition/Clean_data.txt"
+input_file_path = r'Temporary/TEMP.txt'
+output_file_path = r"1_Pipeline_Data_Acquisition/Clean_data.txt"
 
 
 # Read the file
@@ -58,11 +58,11 @@ Remove empty lines
 dataset = re.sub(r"\n {1,}\n", "\n", dataset)
 print("Remove empty lines!\n")
 
-# """
-# Join Sentences empty lines
-# """
-# dataset = re.sub(r'([^\.\?!])\n+', r'\1', dataset)
-# print("Join Sentences empty lines!\n")
+"""
+Join Sentences empty lines
+"""
+dataset = re.sub(r'([^\.\?!])\n+', r'\1', dataset)
+print("Join Sentences empty lines!\n")
 
 """
 Remove lines that contain only content inside *double asterisks*
