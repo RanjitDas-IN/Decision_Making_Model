@@ -388,6 +388,28 @@ Requests: “Can you find information about black holes?”
 
 6. Keep language natural and diverse, as spoken in everyday conversation.
 -----------------------------------------------------------Prompt-------------------------------------------------------------------------
+
+Generate 150+ highly diverse, personality-rich, and natural voice assistant utterances where the user wants to perform a calculation. 
+The intent for all samples must be labeled as `calculator`.
+
+🔥 Style Goals:
+- Avoid boring, direct math requests. Get creative.
+- Think like a real human, Gen-Z, working adult, student, tired coder, sarcastic friend, confused shopper, or chaotic genius.
+- Include emotional tone: frustration, confusion, panic, laziness, distraction, etc.
+- Include various types of math: arithmetic, percentages, totals, bills, tips, scores, dates, units.
+- Include indirect, implied, or fuzzy math triggers ("how much will I have left", "is this cheaper", "split this four ways").
+- Don't use the word "calculate" more than twice.
+- Vary structure: questions, commands, mumbling, half-formed thoughts, playful tone.
+- Use slang and modern phrasing: "quick maths", "real fast", "do your number thing", "hit me with", etc.
+
+🎯 Output Format:
+<utterance>|calculator
+
+📏 Constraint:
+- Keep utterances under 18 words
+- Avoid repeating any key phrase or keyword more than twice
+
+-----------------------------------------------------------Prompt-------------------------------------------------------------------------
 You are a data-generation AI tasked with creating high-quality training data for an intent-classification model for “Nisha.”  
 
 CONTEXT & RATIONALE  
