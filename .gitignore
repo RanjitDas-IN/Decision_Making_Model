@@ -1,17 +1,17 @@
 .env/
-Temporary
-corpus.txt
-temp_models
-bpe_tokenizer
-profanity_en.csv
-roberta_tokens.pt
-roberta_tokens.pt
-svm_boundary_viz.py
-Dataset-train-pipe.csv
-hf_tokenizer_corpus.txt
-xgb_intent_model.joblib
-roberta_tokens.tfrecord
-Experimenting_SVM_models
-Day2_Tokenized_dataset.csv
-Pipeline_1_Data_Acquisition/en-80k.txt
-1_Pipeline_Data_Acquisition/Clean_data.txt
+# Temporary
+# corpus.txt
+# temp_models
+# bpe_tokenizer
+# profanity_en.csv
+# roberta_tokens.pt
+# roberta_tokens.pt
+# svm_boundary_viz.py
+# Dataset-train-pipe.csv
+# hf_tokenizer_corpus.txt
+# xgb_intent_model.joblib
+# roberta_tokens.tfrecord
+# Experimenting_SVM_models
+# Day2_Tokenized_dataset.csv
+# Pipeline_1_Data_Acquisition/en-80k.txt
+# 1_Pipeline_Data_Acquisition/Clean_data.txt
