@@ -1,5 +1,5 @@
 # hf_tokenizer_pipeline.py
-
+# My Own
 import os
 import re
 import ast
@@ -15,14 +15,14 @@ from tokenizers.trainers import BpeTrainer
 from tokenizers.pre_tokenizers import Whitespace
 
 # === CONFIGURATION ===
-DATA_PATH = r"/home/ranjit/Desktop/Decision_Making_Model/Pipeline_1_Data_Acquisition/Day2_cleaned_dataset.csv"
+DATA_PATH = r"1_Data_Collection_AND_Cleaning/1_Main_Dataset.csv"
 SEP = '|'                                # Dataframe separator
 SPACY_MODEL = "en_core_web_trf"         # transformer-based model
 # PHRASAL_VERBS = ["shut", "turn", "log"]
 # PREPOSITIONS = ["down", "off", "out"]
-SLANG_PATH = r"/home/ranjit/Desktop/Decision_Making_Model/Pipeline_1_Data_Acquisition/SLANG_ABBREVIATIONS.txt"
-TOKENIZER_PATH = r"/home/ranjit/Desktop/Decision_Making_Model/hf_tokenizer.json"
-CORPUS_PATH = r"/home/ranjit/Desktop/Decision_Making_Model/hf_tokenizer_corpus.txt"
+SLANG_PATH = r"1_Data_Collection_AND_Cleaning/3_SLANG_ABBREVIATIONS.txt"
+TOKENIZER_PATH = r"REPORTS/hf_tokenizer.json"
+CORPUS_PATH = r"Decision_Making_Model/hf_tokenizer_corpus.txt"
 VOCAB_SIZE = 10000
 
 # === SETUP LOGGING ===

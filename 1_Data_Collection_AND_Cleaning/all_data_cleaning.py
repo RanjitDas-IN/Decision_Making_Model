@@ -172,8 +172,8 @@ import matplotlib.pyplot as plt
 
 # --------------------------------------------------------------------------------------------------------------------------------------------
 
-input_path = "/home/ranjit/Desktop/Decision_Making_Model/1_Pipeline_Data_Acquisition/Day2_cleaned_dataset.csv"
-output_path = "outliers.csv"
+# input_path = "/home/ranjit/Desktop/Decision_Making_Model/1_Pipeline_Data_Acquisition/Day2_cleaned_dataset.csv"
+# output_path = "outliers.csv"
 
 # df = pd.read_csv(input_path, sep='|')
 
@@ -244,13 +244,30 @@ output_path = "outliers.csv"
 
 # # --------------------------------------------------------------------------------------------------------------------------------------------
 
-df = pd.read_csv("Temporary/calculator.txt", sep='|')
-print(df.shape)
-print(df["intent"].unique())  # 'reminder'
-# check for duplicates
-duplicates = df.duplicated(subset=['utterance'])
-if duplicates.any():
-    print(f"Found {duplicates.sum()} duplicate utterances.")
-    # df = df[~duplicates]  # Remove duplicates
-else:
-    print("No duplicate utterances found.")
+
+# def remove_outlier(
+#     csv_path: str,
+#     max_word_count: int,
+#     cleaned_csv_path: str = "No_outlier_dataset.csv",
+#     outliers_txt_path: str = "outliers.txt",
+# ):
+#     """
+#     Removes utterances with word count >= max_word_count + 1
+#     Saves cleaned CSV and writes removed utterances to a .txt file.
+#     """
+#     # 1. Load the dataset
+#     df = pd.read_csv(csv_path, sep="|")
+
+#     # 2. Detect outliers (>= 22 words by default)
+#     is_outlier = df["utterance"].str.split().apply(len) > max_word_count
+
+#     # 3. Save outliers to .txt
+#     df.loc[is_outlier, "utterance"].to_csv(outliers_txt_path, index=False, header=False)
+
+#     # 4. Save cleaned dataset (non-outliers only)
+#     df_cleaned = df.loc[~is_outlier]
+#     df_cleaned.to_csv(cleaned_csv_path, sep="|", index=False)
+
+#     print(f"✅ Removed {is_outlier.sum()} utterances with > {max_word_count} words.")
+#     print(f"📁 Saved: {outliers_txt_path}")
+#     print(f"📁 Saved: {cleaned_csv_path}")

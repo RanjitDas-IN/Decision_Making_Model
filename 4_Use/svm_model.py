@@ -5,7 +5,7 @@ import numpy as np
 
 
 MODEL_PATH = r"/home/ranjit/Desktop/Decision_Making_Model/SVM_models/svm_rbf_tuned.joblib"
-SCALER_PATH = r"/home/ranjit/Desktop/Decision_Making_Model/SVM_models/scaler.joblib"
+SCALER_PATH = r"/home/ranjit/Desktop/Decision_Making_Model/SVM_model/scaler.joblib"
 LABEL_ENCODER_PATH = r"/home/ranjit/Desktop/Decision_Making_Model/SVM_models/label_encoder.joblib"  
 
 device = torch.device("cpu")
